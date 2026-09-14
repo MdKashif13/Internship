@@ -1,0 +1,1002 @@
+Order_ID,Customer_ID,Category,Payment_Method,Order_Value,Discount_Percent,Est_Delivery_Days,Actual_Delivery_Days,Customer_Rating,Returned,City_Tier,Delivery_Delay,Fulfillment_Status,High_Value_Order,Net_Revenue,Severe_Delay,Customer_Segment
+ORD1000,CUST202,Beauty,CREDIT CARD,1194.18,20,3,3,4.0,No,Tier 1,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1001,CUST279,Electronics,CASH ON DELIVERY,1091.185,20,6,6,4.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1002,CUST192,Home & Kitchen,DEBIT CARD,1137.04,5,7,8,4.0,Yes,Tier 1,1,Unknown,True,1080.188,False,Standard Order
+ORD1003,CUST114,Fashion,DEBIT CARD,1006.55,15,7,6,1.0,No,Tier 1,-1,Early,True,855.5675,False,Standard Order
+ORD1004,CUST206,Beauty,CASH ON DELIVERY,1194.18,0,5,7,4.0,No,Tier 1,2,Unknown,Same,1194.18,False,Loyal & Satisfied
+ORD1005,CUST171,Books,UPI,1146.7800000000002,0,7,6,4.0,No,Tier 1,-1,Early,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1006,CUST288,Books,UPI,1146.7800000000002,0,4,4,4.0,No,Tier 2,0,On-Time,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1007,CUST120,Fashion,DEBIT CARD,1006.55,10,6,8,4.0,No,Tier 3,2,Unknown,True,905.895,False,Standard Order
+ORD1008,CUST202,Fashion,UPI,1006.55,10,3,3,2.0,No,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1009,CUST221,Fashion,UPI,1006.55,10,7,7,4.0,Yes,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1010,CUST310,Electronics,CASH ON DELIVERY,1091.185,10,6,6,2.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1011,CUST314,Beauty,UPI,1194.18,5,7,9,5.0,No,Tier 1,2,Unknown,Same,1134.471,False,Loyal & Satisfied
+ORD1012,CUST174,Books,CASH ON DELIVERY,1146.7800000000002,15,2,2,4.0,No,Tier 3,0,On-Time,True,974.763,False,Loyal & Satisfied
+ORD1013,CUST302,Beauty,DEBIT CARD,1194.18,20,3,5,2.0,No,Tier 2,2,Unknown,Same,955.344,False,Standard Order
+ORD1014,CUST187,Beauty,UPI,1194.18,0,2,1,4.0,No,Tier 1,-1,Early,Same,1194.18,False,Loyal & Satisfied
+ORD1015,CUST216,Home & Kitchen,CASH ON DELIVERY,1137.04,5,3,4,4.0,No,Tier 2,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1016,CUST199,Books,DEBIT CARD,1146.7800000000002,15,6,8,1.0,Yes,Tier 1,2,Unknown,True,974.763,False,Standard Order
+ORD1017,CUST203,Beauty,UPI,1194.18,5,5,5,4.0,No,Tier 2,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1018,CUST251,Books,CASH ON DELIVERY,1146.7800000000002,15,7,7,3.0,No,Tier 1,0,On-Time,True,974.763,False,Standard Order
+ORD1019,CUST230,Electronics,UPI,1091.185,5,7,7,5.0,No,Tier 3,0,On-Time,True,1036.62575,False,Standard Order
+ORD1020,CUST249,Fashion,UPI,1006.55,5,4,5,5.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1021,CUST152,Electronics,CREDIT CARD,1091.185,0,2,2,4.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1022,CUST101,Beauty,UPI,1194.18,5,7,8,4.0,No,Tier 1,1,Unknown,Same,1134.471,False,Loyal & Satisfied
+ORD1023,CUST187,Home & Kitchen,CASH ON DELIVERY,1137.04,15,6,6,4.0,No,Tier 2,0,On-Time,True,966.484,False,Loyal & Satisfied
+ORD1024,CUST335,Electronics,UPI,1091.185,10,5,5,4.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1025,CUST257,Home & Kitchen,CREDIT CARD,1137.04,20,6,5,2.0,No,Tier 2,-1,Early,True,909.632,False,Standard Order
+ORD1026,CUST137,Home & Kitchen,DEBIT CARD,1137.04,30,2,2,4.0,Yes,Tier 2,0,On-Time,True,795.9279999999999,False,High-Risk Transaction
+ORD1027,CUST229,Fashion,CASH ON DELIVERY,1006.55,10,4,4,4.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1028,CUST291,Electronics,UPI,1091.185,20,7,9,2.0,No,Tier 3,2,Unknown,True,872.948,False,Standard Order
+ORD1029,CUST287,Home & Kitchen,UPI,1137.04,5,6,7,3.0,No,Tier 2,1,Unknown,True,1080.188,False,Standard Order
+ORD1030,CUST120,Fashion,CREDIT CARD,1006.55,10,3,3,5.0,No,Tier 3,0,On-Time,True,905.895,False,Standard Order
+ORD1031,CUST260,Books,UPI,1146.7800000000002,15,5,9,5.0,No,Tier 3,4,Severe Delay,True,974.763,True,Loyal & Satisfied
+ORD1032,CUST303,Fashion,UPI,1006.55,5,6,7,2.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1033,CUST157,Beauty,UPI,1194.18,10,5,9,2.0,No,Tier 1,4,Severe Delay,Same,1074.7620000000002,True,Standard Order
+ORD1034,CUST121,Home & Kitchen,CASH ON DELIVERY,1137.04,0,7,7,3.0,No,Tier 1,0,On-Time,True,1137.04,False,Standard Order
+ORD1035,CUST335,Home & Kitchen,CASH ON DELIVERY,1137.04,10,3,3,5.0,Yes,Tier 3,0,On-Time,True,1023.336,False,Standard Order
+ORD1036,CUST188,Beauty,CASH ON DELIVERY,1194.18,30,4,3,2.0,No,Tier 1,-1,Early,Same,835.926,False,Standard Order
+ORD1037,CUST148,Fashion,CREDIT CARD,1006.55,30,4,5,4.0,No,Tier 2,1,Unknown,True,704.5849999999999,False,Standard Order
+ORD1038,CUST318,Electronics,CASH ON DELIVERY,1091.185,15,3,2,2.0,Yes,Tier 3,-1,Early,True,927.50725,False,Standard Order
+ORD1039,CUST158,Electronics,UPI,1091.185,15,5,5,4.0,No,Tier 1,0,On-Time,True,927.50725,False,Standard Order
+ORD1040,CUST269,Books,UPI,1146.7800000000002,10,7,7,3.0,No,Tier 2,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1041,CUST319,Home & Kitchen,DEBIT CARD,1137.04,10,6,6,4.0,No,Tier 1,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1042,CUST287,Home & Kitchen,UPI,1137.04,0,3,4,3.0,No,Tier 1,1,Unknown,True,1137.04,False,Standard Order
+ORD1043,CUST307,Electronics,UPI,1091.185,10,2,2,4.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1044,CUST114,Electronics,CASH ON DELIVERY,1091.185,10,5,5,3.0,No,Tier 1,0,On-Time,True,982.0665,False,Standard Order
+ORD1045,CUST289,Electronics,CREDIT CARD,1091.185,50,4,5,4.0,No,Tier 1,1,Unknown,True,545.5925,False,Standard Order
+ORD1046,CUST289,Fashion,UPI,1006.55,10,3,7,5.0,No,Tier 3,4,Severe Delay,True,905.895,True,Standard Order
+ORD1047,CUST274,Home & Kitchen,CREDIT CARD,1137.04,10,4,5,2.0,No,Tier 1,1,Unknown,True,1023.336,False,Standard Order
+ORD1048,CUST289,Fashion,UPI,1006.55,10,5,9,5.0,No,Tier 3,4,Severe Delay,True,905.895,True,Standard Order
+ORD1049,CUST150,Fashion,UPI,1006.55,15,4,5,4.0,No,Tier 3,1,Unknown,True,855.5675,False,Standard Order
+ORD1050,CUST207,Beauty,CREDIT CARD,1194.18,15,3,3,2.0,No,Tier 1,0,On-Time,Same,1015.053,False,Standard Order
+ORD1051,CUST154,Fashion,UPI,1006.55,5,5,5,3.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1052,CUST343,Fashion,UPI,1006.55,10,2,3,2.0,Yes,Tier 2,1,Unknown,True,905.895,False,Standard Order
+ORD1053,CUST163,Books,CREDIT CARD,1146.7800000000002,20,3,4,4.0,No,Tier 2,1,Unknown,True,917.4240000000002,False,Loyal & Satisfied
+ORD1054,CUST348,Fashion,UPI,1006.55,10,6,7,4.0,No,Tier 1,1,Unknown,True,905.895,False,Standard Order
+ORD1055,CUST230,Home & Kitchen,DEBIT CARD,1137.04,5,7,7,2.0,No,Tier 2,0,On-Time,True,1080.188,False,Standard Order
+ORD1056,CUST328,Beauty,UPI,1194.18,15,3,3,4.0,Yes,Tier 1,0,On-Time,Same,1015.053,False,Standard Order
+ORD1057,CUST150,Beauty,CASH ON DELIVERY,1194.18,20,5,5,5.0,No,Tier 3,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1058,CUST234,Electronics,UPI,1091.185,0,7,7,5.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1059,CUST120,Beauty,DEBIT CARD,1194.18,20,3,3,4.0,No,Tier 1,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1060,CUST172,Fashion,CASH ON DELIVERY,1006.55,20,2,4,4.0,No,Tier 1,2,Unknown,True,805.24,False,Standard Order
+ORD1061,CUST266,Fashion,CASH ON DELIVERY,1006.55,10,2,2,4.0,No,Tier 3,0,On-Time,True,905.895,False,Standard Order
+ORD1062,CUST117,Fashion,UPI,1006.55,50,6,5,3.0,No,Tier 2,-1,Early,True,503.275,False,Standard Order
+ORD1063,CUST231,Beauty,CREDIT CARD,1194.18,20,4,4,5.0,No,Tier 3,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1064,CUST188,Fashion,UPI,1006.55,20,7,8,4.0,Yes,Tier 1,1,Unknown,True,805.24,False,Standard Order
+ORD1065,CUST159,Fashion,DEBIT CARD,1006.55,15,5,5,4.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1066,CUST113,Home & Kitchen,CASH ON DELIVERY,1137.04,0,5,5,4.0,No,Tier 1,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1067,CUST341,Electronics,UPI,1091.185,5,4,4,5.0,No,Tier 2,0,On-Time,True,1036.62575,False,Standard Order
+ORD1068,CUST349,Electronics,CREDIT CARD,1091.185,10,2,2,5.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1069,CUST108,Electronics,UPI,1091.185,5,2,6,3.0,No,Tier 2,4,Severe Delay,True,1036.62575,True,Standard Order
+ORD1070,CUST189,Electronics,UPI,1091.185,10,3,7,3.0,No,Tier 1,4,Severe Delay,True,982.0665,True,Standard Order
+ORD1071,CUST152,Electronics,CREDIT CARD,1091.185,30,6,6,4.0,No,Tier 3,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1072,CUST229,Electronics,DEBIT CARD,1091.185,20,7,7,4.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1073,CUST183,Home & Kitchen,CASH ON DELIVERY,1137.04,15,6,7,3.0,Yes,Tier 3,1,Unknown,True,966.484,False,Standard Order
+ORD1074,CUST191,Electronics,UPI,1091.185,30,6,5,4.0,No,Tier 1,-1,Early,True,763.8294999999999,False,Standard Order
+ORD1075,CUST210,Fashion,CREDIT CARD,1006.55,20,3,3,4.0,Yes,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1076,CUST287,Beauty,UPI,1194.18,10,6,6,3.0,No,Tier 1,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1077,CUST298,Fashion,CREDIT CARD,1006.55,5,4,8,2.0,Yes,Tier 1,4,Severe Delay,True,956.2225,True,Standard Order
+ORD1078,CUST271,Home & Kitchen,UPI,1137.04,10,3,2,3.0,No,Tier 2,-1,Early,True,1023.336,False,Standard Order
+ORD1079,CUST107,Electronics,DEBIT CARD,1091.185,15,4,4,5.0,No,Tier 1,0,On-Time,True,927.50725,False,Standard Order
+ORD1080,CUST274,Electronics,CASH ON DELIVERY,1091.185,10,3,4,3.0,No,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1081,CUST134,Electronics,DEBIT CARD,1091.185,15,6,6,2.0,No,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1082,CUST305,Electronics,UPI,1091.185,0,4,3,4.0,Yes,Tier 2,-1,Early,True,1091.185,False,Standard Order
+ORD1083,CUST180,Fashion,CREDIT CARD,1006.55,15,4,11,3.0,No,Tier 3,7,Severe Delay,True,855.5675,True,Standard Order
+ORD1084,CUST263,Electronics,UPI,1091.185,20,4,4,1.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1085,CUST149,Electronics,UPI,1091.185,15,3,4,3.0,No,Tier 2,1,Unknown,True,927.50725,False,Standard Order
+ORD1086,CUST203,Electronics,CREDIT CARD,1091.185,50,5,5,4.0,No,Tier 2,0,On-Time,True,545.5925,False,Standard Order
+ORD1087,CUST231,Fashion,CREDIT CARD,1006.55,20,6,6,4.0,No,Tier 1,0,On-Time,True,805.24,False,Standard Order
+ORD1088,CUST101,Electronics,UPI,1091.185,30,4,4,3.0,No,Tier 2,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1089,CUST233,Fashion,DEBIT CARD,1006.55,30,7,6,3.0,No,Tier 1,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1090,CUST153,Fashion,UPI,1006.55,20,5,4,4.0,No,Tier 1,-1,Early,True,805.24,False,Standard Order
+ORD1091,CUST205,Home & Kitchen,UPI,1137.04,15,7,9,3.0,No,Tier 1,2,Unknown,True,966.484,False,Standard Order
+ORD1092,CUST103,Electronics,DEBIT CARD,1091.185,0,6,6,3.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1093,CUST153,Books,UPI,1146.7800000000002,10,6,6,3.0,No,Tier 2,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1094,CUST320,Home & Kitchen,UPI,1137.04,10,4,4,4.0,Yes,Tier 2,0,On-Time,True,1023.336,False,Standard Order
+ORD1095,CUST290,Electronics,CREDIT CARD,1091.185,5,4,5,4.0,No,Tier 3,1,Unknown,True,1036.62575,False,Standard Order
+ORD1096,CUST245,Beauty,CREDIT CARD,1194.18,5,3,2,3.0,No,Tier 2,-1,Early,Same,1134.471,False,Standard Order
+ORD1097,CUST317,Beauty,DEBIT CARD,1194.18,50,5,5,4.0,No,Tier 1,0,On-Time,Same,597.09,False,Loyal & Satisfied
+ORD1098,CUST143,Electronics,CASH ON DELIVERY,1091.185,30,5,4,1.0,Yes,Tier 3,-1,Early,True,763.8294999999999,False,High-Risk Transaction
+ORD1099,CUST261,Fashion,DEBIT CARD,1006.55,20,4,3,3.0,Yes,Tier 3,-1,Early,True,805.24,False,Standard Order
+ORD1100,CUST301,Books,CASH ON DELIVERY,1146.7800000000002,10,6,5,4.0,No,Tier 1,-1,Early,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1101,CUST289,Home & Kitchen,UPI,1137.04,0,4,6,3.0,No,Tier 2,2,Unknown,True,1137.04,False,Standard Order
+ORD1102,CUST327,Electronics,UPI,1091.185,0,6,5,4.0,Yes,Tier 3,-1,Early,True,1091.185,False,Standard Order
+ORD1103,CUST113,Electronics,UPI,1091.185,5,6,5,3.0,No,Tier 2,-1,Early,True,1036.62575,False,Standard Order
+ORD1104,CUST194,Fashion,CASH ON DELIVERY,1006.55,0,4,4,4.0,No,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1105,CUST147,Fashion,UPI,1006.55,0,2,4,1.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1106,CUST114,Home & Kitchen,CREDIT CARD,1137.04,30,5,5,5.0,Yes,Tier 1,0,On-Time,True,795.9279999999999,False,High-Risk Transaction
+ORD1107,CUST299,Fashion,CASH ON DELIVERY,1006.55,15,7,7,2.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1108,CUST305,Fashion,DEBIT CARD,1006.55,5,6,5,5.0,No,Tier 2,-1,Early,True,956.2225,False,Standard Order
+ORD1109,CUST314,Home & Kitchen,CREDIT CARD,1137.04,0,6,6,3.0,Yes,Tier 3,0,On-Time,True,1137.04,False,Standard Order
+ORD1110,CUST348,Electronics,CREDIT CARD,1091.185,10,2,2,4.0,No,Tier 3,0,On-Time,True,982.0665,False,Standard Order
+ORD1111,CUST289,Fashion,DEBIT CARD,1006.55,0,7,7,3.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1112,CUST139,Home & Kitchen,CREDIT CARD,1137.04,30,3,3,5.0,No,Tier 1,0,On-Time,True,795.9279999999999,False,Loyal & Satisfied
+ORD1113,CUST312,Beauty,CASH ON DELIVERY,1194.18,10,2,2,2.0,No,Tier 3,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1114,CUST307,Fashion,UPI,1006.55,10,7,6,2.0,Yes,Tier 2,-1,Early,True,905.895,False,Standard Order
+ORD1115,CUST336,Fashion,CREDIT CARD,1006.55,5,2,2,4.0,Yes,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1116,CUST181,Electronics,CASH ON DELIVERY,1091.185,0,6,5,2.0,No,Tier 2,-1,Early,True,1091.185,False,Standard Order
+ORD1117,CUST210,Fashion,UPI,1006.55,15,5,6,2.0,No,Tier 2,1,Unknown,True,855.5675,False,Standard Order
+ORD1118,CUST152,Fashion,CASH ON DELIVERY,1006.55,15,2,6,5.0,No,Tier 2,4,Severe Delay,True,855.5675,True,Standard Order
+ORD1119,CUST123,Electronics,UPI,1091.185,15,3,10,4.0,No,Tier 2,7,Severe Delay,True,927.50725,True,Standard Order
+ORD1120,CUST253,Fashion,CASH ON DELIVERY,1006.55,0,4,6,3.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1121,CUST316,Fashion,DEBIT CARD,1006.55,10,7,8,5.0,No,Tier 3,1,Unknown,True,905.895,False,Standard Order
+ORD1122,CUST287,Electronics,UPI,1091.185,10,2,3,4.0,No,Tier 2,1,Unknown,True,982.0665,False,Standard Order
+ORD1123,CUST223,Fashion,UPI,1006.55,30,2,2,3.0,No,Tier 1,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1124,CUST336,Electronics,DEBIT CARD,1091.185,5,3,4,4.0,No,Tier 1,1,Unknown,True,1036.62575,False,Standard Order
+ORD1125,CUST140,Fashion,CASH ON DELIVERY,1006.55,5,5,5,4.0,No,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1126,CUST256,Electronics,UPI,1091.185,15,2,2,4.0,Yes,Tier 1,0,On-Time,True,927.50725,False,Standard Order
+ORD1127,CUST114,Beauty,UPI,1194.18,15,2,3,3.0,No,Tier 1,1,Unknown,Same,1015.053,False,Standard Order
+ORD1128,CUST144,Home & Kitchen,DEBIT CARD,1137.04,10,5,5,4.0,No,Tier 2,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1129,CUST164,Home & Kitchen,UPI,1137.04,10,3,3,1.0,No,Tier 1,0,On-Time,True,1023.336,False,Standard Order
+ORD1130,CUST188,Books,CASH ON DELIVERY,1146.7800000000002,10,7,11,2.0,Yes,Tier 2,4,Severe Delay,True,1032.1020000000003,True,Standard Order
+ORD1131,CUST170,Fashion,UPI,1006.55,30,7,6,1.0,No,Tier 1,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1132,CUST108,Electronics,CREDIT CARD,1091.185,10,2,2,4.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1133,CUST187,Fashion,DEBIT CARD,1006.55,30,5,9,5.0,No,Tier 1,4,Severe Delay,True,704.5849999999999,True,Standard Order
+ORD1134,CUST228,Home & Kitchen,UPI,1137.04,10,2,3,4.0,No,Tier 1,1,Unknown,True,1023.336,False,Loyal & Satisfied
+ORD1135,CUST335,Home & Kitchen,CASH ON DELIVERY,1137.04,30,4,4,4.0,Yes,Tier 1,0,On-Time,True,795.9279999999999,False,High-Risk Transaction
+ORD1136,CUST235,Fashion,CASH ON DELIVERY,1006.55,20,7,7,3.0,No,Tier 3,0,On-Time,True,805.24,False,Standard Order
+ORD1137,CUST315,Electronics,UPI,1091.185,5,6,6,2.0,No,Tier 3,0,On-Time,True,1036.62575,False,Standard Order
+ORD1138,CUST162,Fashion,CASH ON DELIVERY,1006.55,30,4,6,3.0,No,Tier 1,2,Unknown,True,704.5849999999999,False,Standard Order
+ORD1139,CUST238,Fashion,UPI,1006.55,0,2,2,3.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1140,CUST342,Home & Kitchen,UPI,1137.04,30,3,3,4.0,No,Tier 2,0,On-Time,True,795.9279999999999,False,Loyal & Satisfied
+ORD1141,CUST180,Home & Kitchen,UPI,1137.04,15,7,6,4.0,No,Tier 3,-1,Early,True,966.484,False,Loyal & Satisfied
+ORD1142,CUST235,Fashion,CREDIT CARD,1006.55,0,6,5,1.0,Yes,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1143,CUST262,Beauty,UPI,1194.18,15,4,8,1.0,No,Tier 2,4,Severe Delay,Same,1015.053,True,Standard Order
+ORD1144,CUST262,Home & Kitchen,CREDIT CARD,1137.04,50,7,7,2.0,No,Tier 1,0,On-Time,True,568.52,False,Standard Order
+ORD1145,CUST132,Electronics,CASH ON DELIVERY,1091.185,0,5,6,3.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1146,CUST222,Electronics,CREDIT CARD,1091.185,10,3,2,5.0,No,Tier 3,-1,Early,True,982.0665,False,Standard Order
+ORD1147,CUST104,Electronics,CASH ON DELIVERY,1091.185,15,4,5,4.0,No,Tier 2,1,Unknown,True,927.50725,False,Standard Order
+ORD1148,CUST333,Electronics,CASH ON DELIVERY,1091.185,20,5,9,5.0,Yes,Tier 1,4,Severe Delay,True,872.948,True,Standard Order
+ORD1149,CUST330,Electronics,DEBIT CARD,1091.185,10,2,2,4.0,No,Tier 1,0,On-Time,True,982.0665,False,Standard Order
+ORD1150,CUST349,Electronics,UPI,1091.185,5,5,4,3.0,Yes,Tier 2,-1,Early,True,1036.62575,False,Standard Order
+ORD1151,CUST140,Fashion,CASH ON DELIVERY,1006.55,0,4,4,2.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1152,CUST127,Electronics,DEBIT CARD,1091.185,10,4,5,5.0,No,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1153,CUST234,Beauty,UPI,1194.18,10,2,2,4.0,No,Tier 3,0,On-Time,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1154,CUST300,Electronics,CASH ON DELIVERY,1091.185,30,5,7,2.0,No,Tier 1,2,Unknown,True,763.8294999999999,False,Standard Order
+ORD1155,CUST171,Fashion,CASH ON DELIVERY,1006.55,0,5,6,4.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1156,CUST111,Fashion,CREDIT CARD,1006.55,15,2,4,4.0,No,Tier 3,2,Unknown,True,855.5675,False,Standard Order
+ORD1157,CUST261,Beauty,CREDIT CARD,1194.18,0,5,6,4.0,No,Tier 1,1,Unknown,Same,1194.18,False,Loyal & Satisfied
+ORD1158,CUST132,Electronics,UPI,1091.185,0,7,6,5.0,No,Tier 1,-1,Early,True,1091.185,False,Standard Order
+ORD1159,CUST147,Fashion,CASH ON DELIVERY,1006.55,10,2,2,4.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1160,CUST346,Beauty,UPI,1194.18,10,3,3,4.0,Yes,Tier 3,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1161,CUST250,Beauty,CREDIT CARD,1194.18,15,4,8,1.0,No,Tier 1,4,Severe Delay,Same,1015.053,True,Standard Order
+ORD1162,CUST161,Books,UPI,1146.7800000000002,30,3,4,1.0,No,Tier 3,1,Unknown,True,802.7460000000001,False,Standard Order
+ORD1163,CUST315,Fashion,CASH ON DELIVERY,1006.55,15,7,8,2.0,No,Tier 2,1,Unknown,True,855.5675,False,Standard Order
+ORD1164,CUST136,Electronics,CASH ON DELIVERY,1091.185,50,7,7,1.0,No,Tier 1,0,On-Time,True,545.5925,False,Standard Order
+ORD1165,CUST198,Home & Kitchen,UPI,1137.04,30,6,6,4.0,No,Tier 2,0,On-Time,True,795.9279999999999,False,Loyal & Satisfied
+ORD1166,CUST271,Beauty,UPI,1194.18,10,6,7,4.0,No,Tier 1,1,Unknown,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1167,CUST203,Home & Kitchen,CASH ON DELIVERY,1137.04,20,6,6,2.0,No,Tier 1,0,On-Time,True,909.632,False,Standard Order
+ORD1168,CUST313,Home & Kitchen,CREDIT CARD,1137.04,15,2,2,5.0,No,Tier 2,0,On-Time,True,966.484,False,Loyal & Satisfied
+ORD1169,CUST318,Fashion,UPI,1006.55,0,5,6,2.0,No,Tier 3,1,Unknown,True,1006.55,False,Standard Order
+ORD1170,CUST134,Books,UPI,1146.7800000000002,15,7,6,3.0,No,Tier 1,-1,Early,True,974.763,False,Standard Order
+ORD1171,CUST292,Electronics,UPI,1091.185,0,3,3,3.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1172,CUST326,Fashion,CREDIT CARD,1006.55,10,3,3,3.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1173,CUST200,Fashion,UPI,1006.55,15,3,2,3.0,No,Tier 1,-1,Early,True,855.5675,False,Standard Order
+ORD1174,CUST274,Fashion,UPI,1006.55,0,3,10,4.0,Yes,Tier 1,7,Severe Delay,True,1006.55,True,Standard Order
+ORD1175,CUST305,Electronics,DEBIT CARD,1091.185,5,6,6,3.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1176,CUST230,Electronics,CREDIT CARD,1091.185,30,3,2,4.0,No,Tier 2,-1,Early,True,763.8294999999999,False,Standard Order
+ORD1177,CUST100,Home & Kitchen,CREDIT CARD,1137.04,15,5,5,1.0,No,Tier 1,0,On-Time,True,966.484,False,Standard Order
+ORD1178,CUST104,Fashion,CREDIT CARD,1006.55,5,6,7,2.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1179,CUST317,Home & Kitchen,DEBIT CARD,1137.04,15,3,3,1.0,No,Tier 3,0,On-Time,True,966.484,False,Standard Order
+ORD1180,CUST346,Electronics,DEBIT CARD,1091.185,10,2,2,4.0,No,Tier 3,0,On-Time,True,982.0665,False,Standard Order
+ORD1181,CUST241,Fashion,CASH ON DELIVERY,1006.55,10,4,3,1.0,No,Tier 2,-1,Early,True,905.895,False,Standard Order
+ORD1182,CUST202,Fashion,UPI,1006.55,50,4,3,5.0,No,Tier 1,-1,Early,True,503.275,False,Standard Order
+ORD1183,CUST126,Electronics,CASH ON DELIVERY,1091.185,15,4,4,4.0,Yes,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1184,CUST236,Fashion,UPI,1006.55,5,6,8,4.0,No,Tier 1,2,Unknown,True,956.2225,False,Standard Order
+ORD1185,CUST306,Electronics,DEBIT CARD,1091.185,20,3,5,4.0,No,Tier 1,2,Unknown,True,872.948,False,Standard Order
+ORD1186,CUST114,Electronics,DEBIT CARD,1091.185,30,7,6,2.0,No,Tier 2,-1,Early,True,763.8294999999999,False,Standard Order
+ORD1187,CUST189,Beauty,CASH ON DELIVERY,1194.18,0,7,7,2.0,No,Tier 1,0,On-Time,Same,1194.18,False,Standard Order
+ORD1188,CUST141,Fashion,UPI,1006.55,5,7,11,3.0,No,Tier 1,4,Severe Delay,True,956.2225,True,Standard Order
+ORD1189,CUST223,Books,CASH ON DELIVERY,1146.7800000000002,5,6,6,4.0,No,Tier 1,0,On-Time,True,1089.441,False,Loyal & Satisfied
+ORD1190,CUST304,Fashion,UPI,1006.55,15,5,7,3.0,No,Tier 1,2,Unknown,True,855.5675,False,Standard Order
+ORD1191,CUST278,Home & Kitchen,CASH ON DELIVERY,1137.04,15,2,1,2.0,No,Tier 1,-1,Early,True,966.484,False,Standard Order
+ORD1192,CUST162,Books,CREDIT CARD,1146.7800000000002,15,2,6,4.0,No,Tier 3,4,Severe Delay,True,974.763,True,Loyal & Satisfied
+ORD1193,CUST195,Home & Kitchen,UPI,1137.04,30,4,5,1.0,No,Tier 1,1,Unknown,True,795.9279999999999,False,Standard Order
+ORD1194,CUST330,Fashion,UPI,1006.55,20,4,8,5.0,No,Tier 1,4,Severe Delay,True,805.24,True,Standard Order
+ORD1195,CUST340,Fashion,UPI,1006.55,0,7,8,4.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1196,CUST151,Fashion,DEBIT CARD,1006.55,5,7,7,3.0,No,Tier 3,0,On-Time,True,956.2225,False,Standard Order
+ORD1197,CUST195,Beauty,UPI,1194.18,10,4,8,2.0,No,Tier 2,4,Severe Delay,Same,1074.7620000000002,True,Standard Order
+ORD1198,CUST231,Books,DEBIT CARD,1146.7800000000002,5,3,3,2.0,No,Tier 1,0,On-Time,True,1089.441,False,Standard Order
+ORD1199,CUST321,Beauty,CASH ON DELIVERY,1194.18,15,5,5,4.0,No,Tier 3,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1200,CUST328,Electronics,CREDIT CARD,1091.185,30,5,6,4.0,No,Tier 1,1,Unknown,True,763.8294999999999,False,Standard Order
+ORD1201,CUST250,Home & Kitchen,UPI,1137.04,5,5,6,4.0,No,Tier 1,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1202,CUST330,Beauty,DEBIT CARD,1194.18,10,5,9,5.0,Yes,Tier 1,4,Severe Delay,Same,1074.7620000000002,True,Standard Order
+ORD1203,CUST336,Electronics,UPI,1091.185,20,4,4,4.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1204,CUST242,Electronics,DEBIT CARD,1091.185,10,2,3,2.0,No,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1205,CUST270,Home & Kitchen,UPI,1137.04,0,4,5,3.0,Yes,Tier 2,1,Unknown,True,1137.04,False,Standard Order
+ORD1206,CUST128,Home & Kitchen,DEBIT CARD,1137.04,10,5,4,5.0,No,Tier 1,-1,Early,True,1023.336,False,Loyal & Satisfied
+ORD1207,CUST135,Books,UPI,1146.7800000000002,0,4,4,3.0,No,Tier 2,0,On-Time,True,1146.7800000000002,False,Standard Order
+ORD1208,CUST112,Electronics,CASH ON DELIVERY,1091.185,30,5,5,1.0,No,Tier 1,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1209,CUST259,Books,UPI,1146.7800000000002,0,6,6,4.0,No,Tier 1,0,On-Time,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1210,CUST170,Electronics,UPI,1091.185,10,7,14,3.0,Yes,Tier 1,7,Severe Delay,True,982.0665,True,Standard Order
+ORD1211,CUST286,Electronics,CREDIT CARD,1091.185,10,2,3,5.0,No,Tier 3,1,Unknown,True,982.0665,False,Standard Order
+ORD1212,CUST342,Electronics,UPI,1091.185,50,6,7,4.0,Yes,Tier 1,1,Unknown,True,545.5925,False,High-Risk Transaction
+ORD1213,CUST185,Books,CREDIT CARD,1146.7800000000002,0,3,10,2.0,No,Tier 2,7,Severe Delay,True,1146.7800000000002,True,Standard Order
+ORD1214,CUST127,Home & Kitchen,UPI,1137.04,0,4,4,5.0,No,Tier 1,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1215,CUST165,Fashion,CREDIT CARD,1006.55,0,3,5,3.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1216,CUST269,Fashion,CASH ON DELIVERY,1006.55,0,4,4,3.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1217,CUST144,Beauty,CREDIT CARD,1194.18,5,7,9,3.0,No,Tier 1,2,Unknown,Same,1134.471,False,Standard Order
+ORD1218,CUST161,Fashion,UPI,1006.55,15,6,6,1.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1219,CUST284,Books,CASH ON DELIVERY,1146.7800000000002,5,7,11,4.0,No,Tier 1,4,Severe Delay,True,1089.441,True,Loyal & Satisfied
+ORD1220,CUST344,Fashion,DEBIT CARD,1006.55,0,5,5,2.0,Yes,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1221,CUST233,Fashion,DEBIT CARD,1006.55,20,7,7,3.0,No,Tier 1,0,On-Time,True,805.24,False,Standard Order
+ORD1222,CUST127,Fashion,CREDIT CARD,1006.55,5,7,8,3.0,No,Tier 2,1,Unknown,True,956.2225,False,Standard Order
+ORD1223,CUST127,Fashion,CREDIT CARD,1006.55,5,5,5,4.0,Yes,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1224,CUST207,Home & Kitchen,UPI,1137.04,5,4,5,5.0,No,Tier 2,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1225,CUST143,Fashion,UPI,1006.55,50,5,5,2.0,No,Tier 2,0,On-Time,True,503.275,False,Standard Order
+ORD1226,CUST183,Electronics,UPI,1091.185,0,6,7,3.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1227,CUST129,Beauty,UPI,1194.18,30,7,7,3.0,No,Tier 1,0,On-Time,Same,835.926,False,Standard Order
+ORD1228,CUST289,Fashion,UPI,1006.55,20,5,4,2.0,No,Tier 2,-1,Early,True,805.24,False,Standard Order
+ORD1229,CUST174,Fashion,CASH ON DELIVERY,1006.55,0,7,7,4.0,No,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1230,CUST227,Beauty,CREDIT CARD,1194.18,50,6,6,4.0,No,Tier 1,0,On-Time,Same,597.09,False,Loyal & Satisfied
+ORD1231,CUST349,Home & Kitchen,CASH ON DELIVERY,1137.04,5,3,3,2.0,Yes,Tier 1,0,On-Time,True,1080.188,False,Standard Order
+ORD1232,CUST346,Electronics,UPI,1091.185,0,6,6,3.0,No,Tier 3,0,On-Time,True,1091.185,False,Standard Order
+ORD1233,CUST191,Beauty,CASH ON DELIVERY,1194.18,20,2,2,2.0,No,Tier 1,0,On-Time,Same,955.344,False,Standard Order
+ORD1234,CUST316,Home & Kitchen,CASH ON DELIVERY,1137.04,15,2,1,4.0,No,Tier 2,-1,Early,True,966.484,False,Loyal & Satisfied
+ORD1235,CUST330,Fashion,CASH ON DELIVERY,1006.55,15,2,2,2.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1236,CUST289,Electronics,UPI,1091.185,0,7,9,4.0,Yes,Tier 1,2,Unknown,True,1091.185,False,Standard Order
+ORD1237,CUST324,Books,CASH ON DELIVERY,1146.7800000000002,10,4,4,4.0,No,Tier 2,0,On-Time,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1238,CUST228,Home & Kitchen,UPI,1137.04,20,4,4,3.0,No,Tier 2,0,On-Time,True,909.632,False,Standard Order
+ORD1239,CUST220,Fashion,UPI,1006.55,5,4,5,4.0,Yes,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1240,CUST126,Beauty,CASH ON DELIVERY,1194.18,5,7,7,5.0,No,Tier 2,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1241,CUST289,Books,UPI,1146.7800000000002,0,6,7,4.0,Yes,Tier 2,1,Unknown,True,1146.7800000000002,False,Standard Order
+ORD1242,CUST220,Electronics,DEBIT CARD,1091.185,0,4,4,2.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1243,CUST215,Fashion,UPI,1006.55,30,3,3,3.0,No,Tier 1,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1244,CUST304,Electronics,CASH ON DELIVERY,1091.185,10,2,1,5.0,No,Tier 2,-1,Early,True,982.0665,False,Standard Order
+ORD1245,CUST332,Home & Kitchen,DEBIT CARD,1137.04,50,6,7,4.0,No,Tier 2,1,Unknown,True,568.52,False,Loyal & Satisfied
+ORD1246,CUST102,Electronics,DEBIT CARD,1091.185,5,2,3,4.0,No,Tier 2,1,Unknown,True,1036.62575,False,Standard Order
+ORD1247,CUST202,Home & Kitchen,UPI,1137.04,15,4,3,5.0,No,Tier 2,-1,Early,True,966.484,False,Loyal & Satisfied
+ORD1248,CUST297,Books,DEBIT CARD,1146.7800000000002,5,6,6,5.0,No,Tier 1,0,On-Time,True,1089.441,False,Loyal & Satisfied
+ORD1249,CUST299,Beauty,UPI,1194.18,5,5,12,5.0,No,Tier 2,7,Severe Delay,Same,1134.471,True,Loyal & Satisfied
+ORD1250,CUST254,Fashion,UPI,1006.55,0,3,3,2.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1251,CUST236,Books,CREDIT CARD,1146.7800000000002,5,4,4,4.0,Yes,Tier 1,0,On-Time,True,1089.441,False,Standard Order
+ORD1252,CUST161,Electronics,UPI,1091.185,10,4,8,4.0,No,Tier 1,4,Severe Delay,True,982.0665,True,Standard Order
+ORD1253,CUST264,Books,DEBIT CARD,1146.7800000000002,50,3,4,4.0,No,Tier 1,1,Unknown,True,573.3900000000001,False,Loyal & Satisfied
+ORD1254,CUST324,Electronics,UPI,1091.185,15,3,3,4.0,Yes,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1255,CUST150,Fashion,UPI,1006.55,0,5,6,2.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1256,CUST333,Books,CREDIT CARD,1146.7800000000002,0,4,6,4.0,No,Tier 2,2,Unknown,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1257,CUST271,Electronics,DEBIT CARD,1091.185,0,7,7,4.0,Yes,Tier 3,0,On-Time,True,1091.185,False,Standard Order
+ORD1258,CUST251,Electronics,CREDIT CARD,1091.185,10,4,4,2.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1259,CUST306,Home & Kitchen,DEBIT CARD,1137.04,20,2,2,4.0,No,Tier 3,0,On-Time,True,909.632,False,Loyal & Satisfied
+ORD1260,CUST158,Home & Kitchen,UPI,1137.04,30,6,10,2.0,No,Tier 3,4,Severe Delay,True,795.9279999999999,True,Standard Order
+ORD1261,CUST217,Home & Kitchen,CREDIT CARD,1137.04,0,6,7,3.0,No,Tier 1,1,Unknown,True,1137.04,False,Standard Order
+ORD1262,CUST259,Home & Kitchen,CASH ON DELIVERY,1137.04,10,2,1,1.0,No,Tier 2,-1,Early,True,1023.336,False,Standard Order
+ORD1263,CUST195,Fashion,DEBIT CARD,1006.55,10,6,8,3.0,No,Tier 1,2,Unknown,True,905.895,False,Standard Order
+ORD1264,CUST315,Fashion,CASH ON DELIVERY,1006.55,15,3,3,4.0,No,Tier 3,0,On-Time,True,855.5675,False,Standard Order
+ORD1265,CUST332,Fashion,CREDIT CARD,1006.55,10,6,5,4.0,Yes,Tier 1,-1,Early,True,905.895,False,Standard Order
+ORD1266,CUST279,Electronics,CASH ON DELIVERY,1091.185,15,6,6,4.0,Yes,Tier 3,0,On-Time,True,927.50725,False,Standard Order
+ORD1267,CUST212,Beauty,CASH ON DELIVERY,1194.18,15,2,2,5.0,No,Tier 2,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1268,CUST161,Home & Kitchen,CREDIT CARD,1137.04,0,5,7,3.0,No,Tier 2,2,Unknown,True,1137.04,False,Standard Order
+ORD1269,CUST340,Fashion,UPI,1006.55,20,6,6,2.0,No,Tier 1,0,On-Time,True,805.24,False,Standard Order
+ORD1270,CUST285,Fashion,CASH ON DELIVERY,1006.55,0,7,9,5.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1271,CUST151,Beauty,CASH ON DELIVERY,1194.18,15,6,6,2.0,No,Tier 2,0,On-Time,Same,1015.053,False,Standard Order
+ORD1272,CUST111,Electronics,UPI,1091.185,10,5,4,4.0,Yes,Tier 1,-1,Early,True,982.0665,False,Standard Order
+ORD1273,CUST138,Home & Kitchen,CASH ON DELIVERY,1137.04,10,2,9,5.0,No,Tier 3,7,Severe Delay,True,1023.336,True,Loyal & Satisfied
+ORD1274,CUST229,Fashion,CASH ON DELIVERY,1006.55,30,5,5,4.0,Yes,Tier 1,0,On-Time,True,704.5849999999999,False,High-Risk Transaction
+ORD1275,CUST230,Home & Kitchen,CASH ON DELIVERY,1137.04,30,2,2,4.0,No,Tier 2,0,On-Time,True,795.9279999999999,False,Loyal & Satisfied
+ORD1276,CUST212,Electronics,UPI,1091.185,20,3,3,2.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1277,CUST200,Beauty,UPI,1194.18,10,2,4,3.0,No,Tier 2,2,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1278,CUST212,Beauty,CASH ON DELIVERY,1194.18,15,3,3,4.0,No,Tier 2,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1279,CUST283,Home & Kitchen,UPI,1137.04,10,3,3,3.0,No,Tier 1,0,On-Time,True,1023.336,False,Standard Order
+ORD1280,CUST180,Home & Kitchen,DEBIT CARD,1137.04,30,2,1,5.0,No,Tier 1,-1,Early,True,795.9279999999999,False,Loyal & Satisfied
+ORD1281,CUST286,Beauty,DEBIT CARD,1194.18,10,7,7,1.0,No,Tier 1,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1282,CUST212,Home & Kitchen,CASH ON DELIVERY,1137.04,50,4,5,4.0,Yes,Tier 2,1,Unknown,True,568.52,False,High-Risk Transaction
+ORD1283,CUST101,Electronics,UPI,1091.185,30,2,2,4.0,No,Tier 2,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1284,CUST229,Home & Kitchen,UPI,1137.04,15,6,6,4.0,No,Tier 2,0,On-Time,True,966.484,False,Loyal & Satisfied
+ORD1285,CUST319,Home & Kitchen,UPI,1137.04,5,7,7,3.0,No,Tier 2,0,On-Time,True,1080.188,False,Standard Order
+ORD1286,CUST153,Fashion,UPI,1006.55,0,7,7,3.0,Yes,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1287,CUST186,Home & Kitchen,DEBIT CARD,1137.04,30,6,10,5.0,No,Tier 1,4,Severe Delay,True,795.9279999999999,True,Loyal & Satisfied
+ORD1288,CUST328,Beauty,UPI,1194.18,0,4,4,2.0,No,Tier 1,0,On-Time,Same,1194.18,False,Standard Order
+ORD1289,CUST323,Beauty,UPI,1194.18,30,7,14,5.0,No,Tier 1,7,Severe Delay,Same,835.926,True,Loyal & Satisfied
+ORD1290,CUST324,Fashion,UPI,1006.55,10,3,3,4.0,Yes,Tier 3,0,On-Time,True,905.895,False,Standard Order
+ORD1291,CUST228,Electronics,UPI,1091.185,10,4,4,4.0,Yes,Tier 3,0,On-Time,True,982.0665,False,Standard Order
+ORD1292,CUST246,Beauty,UPI,1194.18,30,6,8,4.0,No,Tier 1,2,Unknown,Same,835.926,False,Loyal & Satisfied
+ORD1293,CUST225,Books,CREDIT CARD,1146.7800000000002,15,4,4,3.0,No,Tier 2,0,On-Time,True,974.763,False,Standard Order
+ORD1294,CUST229,Electronics,UPI,1091.185,10,2,3,4.0,No,Tier 3,1,Unknown,True,982.0665,False,Standard Order
+ORD1295,CUST152,Beauty,UPI,1194.18,10,4,11,5.0,No,Tier 1,7,Severe Delay,Same,1074.7620000000002,True,Loyal & Satisfied
+ORD1296,CUST271,Beauty,UPI,1194.18,5,3,2,3.0,No,Tier 1,-1,Early,Same,1134.471,False,Standard Order
+ORD1297,CUST317,Fashion,UPI,1006.55,20,2,1,4.0,No,Tier 1,-1,Early,True,805.24,False,Standard Order
+ORD1298,CUST259,Home & Kitchen,UPI,1137.04,5,5,6,4.0,No,Tier 2,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1299,CUST297,Fashion,UPI,1006.55,30,6,6,2.0,No,Tier 3,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1300,CUST259,Electronics,UPI,1091.185,30,6,6,3.0,Yes,Tier 2,0,On-Time,True,763.8294999999999,False,High-Risk Transaction
+ORD1301,CUST346,Fashion,UPI,1006.55,5,4,3,4.0,Yes,Tier 1,-1,Early,True,956.2225,False,Standard Order
+ORD1302,CUST167,Books,UPI,1146.7800000000002,15,7,6,3.0,No,Tier 1,-1,Early,True,974.763,False,Standard Order
+ORD1303,CUST282,Electronics,UPI,1091.185,10,2,3,5.0,Yes,Tier 2,1,Unknown,True,982.0665,False,Standard Order
+ORD1304,CUST302,Fashion,CASH ON DELIVERY,1006.55,5,5,4,5.0,No,Tier 3,-1,Early,True,956.2225,False,Standard Order
+ORD1305,CUST283,Fashion,CREDIT CARD,1006.55,50,2,2,3.0,Yes,Tier 2,0,On-Time,True,503.275,False,High-Risk Transaction
+ORD1306,CUST222,Fashion,DEBIT CARD,1006.55,0,6,7,2.0,No,Tier 2,1,Unknown,True,1006.55,False,Standard Order
+ORD1307,CUST244,Beauty,CREDIT CARD,1194.18,5,2,2,4.0,No,Tier 1,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1308,CUST137,Fashion,CASH ON DELIVERY,1006.55,10,5,4,3.0,No,Tier 3,-1,Early,True,905.895,False,Standard Order
+ORD1309,CUST123,Fashion,DEBIT CARD,1006.55,10,7,8,4.0,Yes,Tier 2,1,Unknown,True,905.895,False,Standard Order
+ORD1310,CUST168,Home & Kitchen,UPI,1137.04,10,4,3,3.0,No,Tier 1,-1,Early,True,1023.336,False,Standard Order
+ORD1311,CUST215,Fashion,CASH ON DELIVERY,1006.55,20,3,4,4.0,No,Tier 2,1,Unknown,True,805.24,False,Standard Order
+ORD1312,CUST197,Electronics,UPI,1091.185,15,2,4,4.0,No,Tier 1,2,Unknown,True,927.50725,False,Standard Order
+ORD1313,CUST297,Fashion,UPI,1006.55,15,3,3,3.0,Yes,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1314,CUST313,Electronics,CASH ON DELIVERY,1091.185,0,6,6,3.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1315,CUST238,Electronics,UPI,1091.185,5,4,4,3.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1316,CUST339,Fashion,CASH ON DELIVERY,1006.55,5,4,4,3.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1317,CUST243,Fashion,CASH ON DELIVERY,1006.55,5,2,4,4.0,No,Tier 1,2,Unknown,True,956.2225,False,Standard Order
+ORD1318,CUST196,Beauty,UPI,1194.18,10,7,9,5.0,Yes,Tier 2,2,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1319,CUST300,Fashion,DEBIT CARD,1006.55,0,4,4,3.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1320,CUST223,Home & Kitchen,CREDIT CARD,1137.04,5,2,3,4.0,No,Tier 1,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1321,CUST286,Home & Kitchen,UPI,1137.04,5,2,6,4.0,No,Tier 1,4,Severe Delay,True,1080.188,True,Loyal & Satisfied
+ORD1322,CUST169,Electronics,CASH ON DELIVERY,1091.185,30,3,7,3.0,No,Tier 2,4,Severe Delay,True,763.8294999999999,True,Standard Order
+ORD1323,CUST307,Home & Kitchen,UPI,1137.04,30,4,4,3.0,Yes,Tier 1,0,On-Time,True,795.9279999999999,False,High-Risk Transaction
+ORD1324,CUST192,Electronics,UPI,1091.185,15,2,2,5.0,No,Tier 1,0,On-Time,True,927.50725,False,Standard Order
+ORD1325,CUST102,Beauty,UPI,1194.18,30,3,3,4.0,Yes,Tier 3,0,On-Time,Same,835.926,False,High-Risk Transaction
+ORD1326,CUST247,Electronics,UPI,1091.185,20,5,9,4.0,No,Tier 2,4,Severe Delay,True,872.948,True,Standard Order
+ORD1327,CUST286,Fashion,UPI,1006.55,10,3,2,4.0,No,Tier 3,-1,Early,True,905.895,False,Standard Order
+ORD1328,CUST263,Electronics,CREDIT CARD,1091.185,0,3,3,1.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1329,CUST246,Beauty,CREDIT CARD,1194.18,20,2,2,4.0,No,Tier 1,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1330,CUST189,Fashion,CREDIT CARD,1006.55,15,6,6,4.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1331,CUST294,Home & Kitchen,CREDIT CARD,1137.04,15,6,6,4.0,No,Tier 1,0,On-Time,True,966.484,False,Loyal & Satisfied
+ORD1332,CUST246,Electronics,CREDIT CARD,1091.185,20,7,14,3.0,No,Tier 1,7,Severe Delay,True,872.948,True,Standard Order
+ORD1333,CUST247,Home & Kitchen,CREDIT CARD,1137.04,10,6,5,2.0,Yes,Tier 1,-1,Early,True,1023.336,False,Standard Order
+ORD1334,CUST195,Electronics,UPI,1091.185,15,3,3,2.0,No,Tier 3,0,On-Time,True,927.50725,False,Standard Order
+ORD1335,CUST298,Beauty,CASH ON DELIVERY,1194.18,30,7,6,4.0,No,Tier 1,-1,Early,Same,835.926,False,Loyal & Satisfied
+ORD1336,CUST151,Electronics,UPI,1091.185,5,2,2,3.0,No,Tier 3,0,On-Time,True,1036.62575,False,Standard Order
+ORD1337,CUST332,Electronics,CREDIT CARD,1091.185,15,4,4,4.0,No,Tier 3,0,On-Time,True,927.50725,False,Standard Order
+ORD1338,CUST260,Electronics,UPI,1091.185,10,3,3,1.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1339,CUST267,Fashion,UPI,1006.55,15,3,3,1.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1340,CUST227,Home & Kitchen,UPI,1137.04,20,7,7,4.0,No,Tier 2,0,On-Time,True,909.632,False,Loyal & Satisfied
+ORD1341,CUST138,Electronics,CASH ON DELIVERY,1091.185,0,2,1,4.0,No,Tier 3,-1,Early,True,1091.185,False,Standard Order
+ORD1342,CUST181,Books,UPI,1146.7800000000002,15,5,5,4.0,No,Tier 1,0,On-Time,True,974.763,False,Loyal & Satisfied
+ORD1343,CUST203,Fashion,CASH ON DELIVERY,1006.55,5,3,7,3.0,No,Tier 2,4,Severe Delay,True,956.2225,True,Standard Order
+ORD1344,CUST228,Fashion,DEBIT CARD,1006.55,15,5,9,4.0,No,Tier 2,4,Severe Delay,True,855.5675,True,Standard Order
+ORD1345,CUST110,Fashion,UPI,1006.55,10,5,5,2.0,Yes,Tier 3,0,On-Time,True,905.895,False,Standard Order
+ORD1346,CUST319,Fashion,DEBIT CARD,1006.55,20,6,6,2.0,No,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1347,CUST284,Home & Kitchen,CREDIT CARD,1137.04,0,2,6,4.0,No,Tier 2,4,Severe Delay,True,1137.04,True,Loyal & Satisfied
+ORD1348,CUST316,Electronics,CREDIT CARD,1091.185,15,5,4,3.0,No,Tier 2,-1,Early,True,927.50725,False,Standard Order
+ORD1349,CUST277,Electronics,CASH ON DELIVERY,1091.185,5,2,4,3.0,No,Tier 3,2,Unknown,True,1036.62575,False,Standard Order
+ORD1350,CUST250,Beauty,UPI,1194.18,30,6,10,4.0,No,Tier 2,4,Severe Delay,Same,835.926,True,Loyal & Satisfied
+ORD1351,CUST258,Beauty,DEBIT CARD,1194.18,30,2,1,4.0,No,Tier 1,-1,Early,Same,835.926,False,Loyal & Satisfied
+ORD1352,CUST321,Fashion,UPI,1006.55,50,3,3,5.0,No,Tier 2,0,On-Time,True,503.275,False,Standard Order
+ORD1353,CUST141,Fashion,CASH ON DELIVERY,1006.55,20,5,9,3.0,No,Tier 3,4,Severe Delay,True,805.24,True,Standard Order
+ORD1354,CUST198,Home & Kitchen,CREDIT CARD,1137.04,20,2,2,1.0,No,Tier 2,0,On-Time,True,909.632,False,Standard Order
+ORD1355,CUST106,Fashion,UPI,1006.55,5,4,3,3.0,No,Tier 3,-1,Early,True,956.2225,False,Standard Order
+ORD1356,CUST243,Electronics,UPI,1091.185,5,2,2,4.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1357,CUST189,Electronics,CREDIT CARD,1091.185,10,5,5,4.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1358,CUST211,Home & Kitchen,DEBIT CARD,1137.04,20,6,7,4.0,No,Tier 2,1,Unknown,True,909.632,False,Loyal & Satisfied
+ORD1359,CUST348,Home & Kitchen,CREDIT CARD,1137.04,30,6,7,1.0,No,Tier 3,1,Unknown,True,795.9279999999999,False,Standard Order
+ORD1360,CUST343,Electronics,UPI,1091.185,0,5,12,4.0,Yes,Tier 1,7,Severe Delay,True,1091.185,True,Standard Order
+ORD1361,CUST159,Electronics,DEBIT CARD,1091.185,30,3,3,1.0,No,Tier 3,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1362,CUST212,Electronics,DEBIT CARD,1091.185,15,3,3,4.0,No,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1363,CUST101,Home & Kitchen,CREDIT CARD,1137.04,15,6,6,5.0,Yes,Tier 1,0,On-Time,True,966.484,False,Standard Order
+ORD1364,CUST228,Electronics,UPI,1091.185,0,6,6,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1365,CUST147,Electronics,CASH ON DELIVERY,1091.185,0,5,5,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1366,CUST239,Books,UPI,1146.7800000000002,10,3,10,4.0,No,Tier 2,7,Severe Delay,True,1032.1020000000003,True,Loyal & Satisfied
+ORD1367,CUST296,Electronics,UPI,1091.185,15,6,8,5.0,No,Tier 1,2,Unknown,True,927.50725,False,Standard Order
+ORD1368,CUST136,Home & Kitchen,CASH ON DELIVERY,1137.04,5,3,3,4.0,No,Tier 1,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1369,CUST259,Electronics,DEBIT CARD,1091.185,10,6,7,1.0,No,Tier 3,1,Unknown,True,982.0665,False,Standard Order
+ORD1370,CUST346,Electronics,CASH ON DELIVERY,1091.185,30,2,2,4.0,No,Tier 1,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1371,CUST108,Electronics,DEBIT CARD,1091.185,20,4,4,3.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1372,CUST332,Home & Kitchen,DEBIT CARD,1137.04,30,7,8,4.0,No,Tier 2,1,Unknown,True,795.9279999999999,False,Loyal & Satisfied
+ORD1373,CUST198,Beauty,CASH ON DELIVERY,1194.18,5,2,2,4.0,No,Tier 2,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1374,CUST246,Books,DEBIT CARD,1146.7800000000002,5,7,14,4.0,No,Tier 2,7,Severe Delay,True,1089.441,True,Loyal & Satisfied
+ORD1375,CUST147,Fashion,DEBIT CARD,1006.55,15,6,7,3.0,No,Tier 1,1,Unknown,True,855.5675,False,Standard Order
+ORD1376,CUST307,Home & Kitchen,UPI,1137.04,10,4,4,2.0,No,Tier 2,0,On-Time,True,1023.336,False,Standard Order
+ORD1377,CUST230,Electronics,UPI,1091.185,0,4,5,4.0,No,Tier 2,1,Unknown,True,1091.185,False,Standard Order
+ORD1378,CUST247,Fashion,UPI,1006.55,5,6,6,5.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1379,CUST251,Beauty,UPI,1194.18,10,6,6,4.0,No,Tier 1,0,On-Time,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1380,CUST153,Electronics,CASH ON DELIVERY,1091.185,5,3,3,3.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1381,CUST219,Electronics,CREDIT CARD,1091.185,5,6,6,5.0,Yes,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1382,CUST260,Electronics,CREDIT CARD,1091.185,5,5,6,5.0,No,Tier 2,1,Unknown,True,1036.62575,False,Standard Order
+ORD1383,CUST251,Electronics,CREDIT CARD,1091.185,0,6,6,3.0,Yes,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1384,CUST215,Electronics,UPI,1091.185,15,5,6,1.0,Yes,Tier 1,1,Unknown,True,927.50725,False,Standard Order
+ORD1385,CUST174,Home & Kitchen,UPI,1137.04,10,6,6,4.0,No,Tier 1,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1386,CUST212,Fashion,DEBIT CARD,1006.55,15,3,3,5.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1387,CUST299,Beauty,CREDIT CARD,1194.18,0,5,7,4.0,No,Tier 2,2,Unknown,Same,1194.18,False,Loyal & Satisfied
+ORD1388,CUST263,Books,CASH ON DELIVERY,1146.7800000000002,5,2,2,5.0,Yes,Tier 1,0,On-Time,True,1089.441,False,Standard Order
+ORD1389,CUST265,Fashion,CASH ON DELIVERY,1006.55,15,5,5,4.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1390,CUST203,Fashion,CREDIT CARD,1006.55,10,3,3,4.0,Yes,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1391,CUST183,Fashion,CREDIT CARD,1006.55,10,7,7,1.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1392,CUST326,Home & Kitchen,CREDIT CARD,1137.04,5,5,4,3.0,No,Tier 3,-1,Early,True,1080.188,False,Standard Order
+ORD1393,CUST211,Fashion,UPI,1006.55,30,6,7,4.0,No,Tier 1,1,Unknown,True,704.5849999999999,False,Standard Order
+ORD1394,CUST316,Home & Kitchen,UPI,1137.04,5,6,6,4.0,No,Tier 2,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1395,CUST198,Fashion,UPI,1006.55,10,7,7,4.0,Yes,Tier 3,0,On-Time,True,905.895,False,Standard Order
+ORD1396,CUST252,Home & Kitchen,UPI,1137.04,15,3,7,4.0,No,Tier 1,4,Severe Delay,True,966.484,True,Loyal & Satisfied
+ORD1397,CUST192,Fashion,CASH ON DELIVERY,1006.55,10,4,4,3.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1398,CUST245,Fashion,CASH ON DELIVERY,1006.55,5,6,8,4.0,No,Tier 1,2,Unknown,True,956.2225,False,Standard Order
+ORD1399,CUST227,Beauty,DEBIT CARD,1194.18,10,2,1,2.0,No,Tier 2,-1,Early,Same,1074.7620000000002,False,Standard Order
+ORD1400,CUST209,Books,UPI,1146.7800000000002,20,3,3,3.0,Yes,Tier 1,0,On-Time,True,917.4240000000002,False,Standard Order
+ORD1401,CUST181,Electronics,UPI,1091.185,5,5,7,4.0,No,Tier 3,2,Unknown,True,1036.62575,False,Standard Order
+ORD1402,CUST293,Beauty,UPI,1194.18,0,5,5,4.0,No,Tier 2,0,On-Time,Same,1194.18,False,Loyal & Satisfied
+ORD1403,CUST153,Fashion,CASH ON DELIVERY,1006.55,5,2,3,4.0,No,Tier 2,1,Unknown,True,956.2225,False,Standard Order
+ORD1404,CUST262,Beauty,UPI,1194.18,20,6,6,3.0,Yes,Tier 2,0,On-Time,Same,955.344,False,Standard Order
+ORD1405,CUST307,Books,DEBIT CARD,1146.7800000000002,0,3,2,4.0,Yes,Tier 2,-1,Early,True,1146.7800000000002,False,Standard Order
+ORD1406,CUST288,Fashion,UPI,1006.55,50,2,2,3.0,No,Tier 1,0,On-Time,True,503.275,False,Standard Order
+ORD1407,CUST268,Electronics,CREDIT CARD,1091.185,10,6,6,3.0,No,Tier 3,0,On-Time,True,982.0665,False,Standard Order
+ORD1408,CUST327,Fashion,UPI,1006.55,50,3,5,5.0,No,Tier 3,2,Unknown,True,503.275,False,Standard Order
+ORD1409,CUST260,Fashion,CREDIT CARD,1006.55,30,5,5,4.0,Yes,Tier 2,0,On-Time,True,704.5849999999999,False,High-Risk Transaction
+ORD1410,CUST167,Home & Kitchen,CREDIT CARD,1137.04,10,3,7,5.0,No,Tier 3,4,Severe Delay,True,1023.336,True,Loyal & Satisfied
+ORD1411,CUST132,Fashion,DEBIT CARD,1006.55,0,7,11,3.0,No,Tier 2,4,Severe Delay,True,1006.55,True,Standard Order
+ORD1412,CUST241,Electronics,CASH ON DELIVERY,1091.185,0,4,4,5.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1413,CUST120,Books,UPI,1146.7800000000002,5,3,3,1.0,No,Tier 2,0,On-Time,True,1089.441,False,Standard Order
+ORD1414,CUST147,Beauty,CREDIT CARD,1194.18,15,4,6,5.0,No,Tier 1,2,Unknown,Same,1015.053,False,Loyal & Satisfied
+ORD1415,CUST247,Fashion,UPI,1006.55,5,3,7,3.0,No,Tier 1,4,Severe Delay,True,956.2225,True,Standard Order
+ORD1416,CUST347,Electronics,CASH ON DELIVERY,1091.185,5,4,4,3.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1417,CUST227,Fashion,CASH ON DELIVERY,1006.55,10,7,7,4.0,Yes,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1418,CUST235,Electronics,UPI,1091.185,30,5,5,5.0,No,Tier 1,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1419,CUST234,Beauty,CASH ON DELIVERY,1194.18,0,6,7,1.0,No,Tier 1,1,Unknown,Same,1194.18,False,Standard Order
+ORD1420,CUST294,Electronics,DEBIT CARD,1091.185,0,4,4,3.0,No,Tier 3,0,On-Time,True,1091.185,False,Standard Order
+ORD1421,CUST244,Home & Kitchen,CREDIT CARD,1137.04,0,7,8,5.0,No,Tier 1,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1422,CUST227,Fashion,UPI,1006.55,30,4,3,3.0,No,Tier 2,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1423,CUST132,Home & Kitchen,DEBIT CARD,1137.04,15,5,4,2.0,No,Tier 1,-1,Early,True,966.484,False,Standard Order
+ORD1424,CUST275,Home & Kitchen,UPI,1137.04,5,4,4,3.0,No,Tier 1,0,On-Time,True,1080.188,False,Standard Order
+ORD1425,CUST303,Books,CREDIT CARD,1146.7800000000002,0,7,7,3.0,No,Tier 2,0,On-Time,True,1146.7800000000002,False,Standard Order
+ORD1426,CUST286,Electronics,CASH ON DELIVERY,1091.185,5,7,7,5.0,No,Tier 2,0,On-Time,True,1036.62575,False,Standard Order
+ORD1427,CUST214,Electronics,CREDIT CARD,1091.185,0,2,2,4.0,Yes,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1428,CUST313,Electronics,UPI,1091.185,30,5,5,4.0,No,Tier 1,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1429,CUST218,Beauty,UPI,1194.18,20,2,2,4.0,No,Tier 2,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1430,CUST121,Beauty,UPI,1194.18,10,5,5,4.0,No,Tier 1,0,On-Time,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1431,CUST337,Home & Kitchen,UPI,1137.04,30,4,11,1.0,No,Tier 1,7,Severe Delay,True,795.9279999999999,True,Standard Order
+ORD1432,CUST257,Home & Kitchen,CASH ON DELIVERY,1137.04,5,7,7,3.0,No,Tier 1,0,On-Time,True,1080.188,False,Standard Order
+ORD1433,CUST137,Home & Kitchen,DEBIT CARD,1137.04,15,2,2,3.0,No,Tier 1,0,On-Time,True,966.484,False,Standard Order
+ORD1434,CUST329,Electronics,DEBIT CARD,1091.185,30,4,4,2.0,No,Tier 1,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1435,CUST208,Beauty,CREDIT CARD,1194.18,5,7,14,5.0,Yes,Tier 1,7,Severe Delay,Same,1134.471,True,Standard Order
+ORD1436,CUST150,Fashion,CASH ON DELIVERY,1006.55,20,5,5,4.0,No,Tier 3,0,On-Time,True,805.24,False,Standard Order
+ORD1437,CUST281,Fashion,UPI,1006.55,5,7,8,3.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1438,CUST107,Fashion,UPI,1006.55,5,4,5,4.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1439,CUST126,Electronics,UPI,1091.185,0,2,3,4.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1440,CUST126,Electronics,UPI,1091.185,10,2,1,5.0,No,Tier 2,-1,Early,True,982.0665,False,Standard Order
+ORD1441,CUST325,Home & Kitchen,UPI,1137.04,15,7,8,5.0,No,Tier 1,1,Unknown,True,966.484,False,Loyal & Satisfied
+ORD1442,CUST120,Electronics,UPI,1091.185,30,4,3,4.0,No,Tier 3,-1,Early,True,763.8294999999999,False,Standard Order
+ORD1443,CUST129,Home & Kitchen,CASH ON DELIVERY,1137.04,15,3,3,4.0,Yes,Tier 3,0,On-Time,True,966.484,False,Standard Order
+ORD1444,CUST196,Electronics,DEBIT CARD,1091.185,30,5,6,4.0,No,Tier 1,1,Unknown,True,763.8294999999999,False,Standard Order
+ORD1445,CUST127,Fashion,UPI,1006.55,20,5,5,4.0,No,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1446,CUST210,Fashion,DEBIT CARD,1006.55,0,4,6,2.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1447,CUST291,Fashion,CASH ON DELIVERY,1006.55,10,3,2,2.0,No,Tier 2,-1,Early,True,905.895,False,Standard Order
+ORD1448,CUST324,Home & Kitchen,UPI,1137.04,0,2,4,4.0,Yes,Tier 1,2,Unknown,True,1137.04,False,Standard Order
+ORD1449,CUST296,Fashion,DEBIT CARD,1006.55,15,6,6,3.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1450,CUST160,Home & Kitchen,UPI,1137.04,30,6,6,1.0,Yes,Tier 1,0,On-Time,True,795.9279999999999,False,High-Risk Transaction
+ORD1451,CUST147,Fashion,UPI,1006.55,0,4,3,4.0,Yes,Tier 2,-1,Early,True,1006.55,False,Standard Order
+ORD1452,CUST246,Home & Kitchen,CREDIT CARD,1137.04,15,3,7,1.0,No,Tier 1,4,Severe Delay,True,966.484,True,Standard Order
+ORD1453,CUST103,Beauty,DEBIT CARD,1194.18,15,3,2,4.0,No,Tier 1,-1,Early,Same,1015.053,False,Loyal & Satisfied
+ORD1454,CUST134,Home & Kitchen,DEBIT CARD,1137.04,10,5,5,4.0,No,Tier 2,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1455,CUST291,Electronics,UPI,1091.185,5,2,2,4.0,No,Tier 2,0,On-Time,True,1036.62575,False,Standard Order
+ORD1456,CUST148,Electronics,CASH ON DELIVERY,1091.185,5,7,8,4.0,No,Tier 3,1,Unknown,True,1036.62575,False,Standard Order
+ORD1457,CUST116,Fashion,CREDIT CARD,1006.55,0,3,3,1.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1458,CUST271,Home & Kitchen,UPI,1137.04,5,7,6,4.0,Yes,Tier 2,-1,Early,True,1080.188,False,Standard Order
+ORD1459,CUST319,Electronics,UPI,1091.185,0,6,6,5.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1460,CUST257,Fashion,UPI,1006.55,10,7,7,4.0,No,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1461,CUST320,Home & Kitchen,CREDIT CARD,1137.04,0,2,2,3.0,No,Tier 2,0,On-Time,True,1137.04,False,Standard Order
+ORD1462,CUST145,Fashion,CASH ON DELIVERY,1006.55,30,2,2,3.0,No,Tier 1,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1463,CUST216,Books,UPI,1146.7800000000002,10,7,8,5.0,No,Tier 3,1,Unknown,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1464,CUST105,Electronics,DEBIT CARD,1091.185,15,4,4,2.0,No,Tier 1,0,On-Time,True,927.50725,False,Standard Order
+ORD1465,CUST198,Electronics,CREDIT CARD,1091.185,10,3,3,4.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1466,CUST223,Home & Kitchen,CASH ON DELIVERY,1137.04,10,4,4,3.0,No,Tier 1,0,On-Time,True,1023.336,False,Standard Order
+ORD1467,CUST332,Fashion,DEBIT CARD,1006.55,30,7,14,1.0,No,Tier 3,7,Severe Delay,True,704.5849999999999,True,Standard Order
+ORD1468,CUST136,Home & Kitchen,UPI,1137.04,0,3,7,3.0,No,Tier 1,4,Severe Delay,True,1137.04,True,Standard Order
+ORD1469,CUST123,Fashion,UPI,1006.55,5,5,7,3.0,No,Tier 3,2,Unknown,True,956.2225,False,Standard Order
+ORD1470,CUST192,Electronics,DEBIT CARD,1091.185,20,4,4,4.0,No,Tier 3,0,On-Time,True,872.948,False,Standard Order
+ORD1471,CUST340,Books,CREDIT CARD,1146.7800000000002,0,4,3,5.0,No,Tier 1,-1,Early,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1472,CUST145,Books,UPI,1146.7800000000002,0,7,7,3.0,No,Tier 3,0,On-Time,True,1146.7800000000002,False,Standard Order
+ORD1473,CUST280,Home & Kitchen,UPI,1137.04,5,6,6,5.0,No,Tier 3,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1474,CUST194,Fashion,DEBIT CARD,1006.55,0,7,7,1.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1475,CUST198,Home & Kitchen,DEBIT CARD,1137.04,10,4,5,4.0,No,Tier 1,1,Unknown,True,1023.336,False,Loyal & Satisfied
+ORD1476,CUST287,Fashion,UPI,1006.55,5,3,5,1.0,No,Tier 2,2,Unknown,True,956.2225,False,Standard Order
+ORD1477,CUST324,Electronics,CREDIT CARD,1091.185,30,6,8,5.0,No,Tier 1,2,Unknown,True,763.8294999999999,False,Standard Order
+ORD1478,CUST215,Beauty,UPI,1194.18,20,7,7,4.0,No,Tier 1,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1479,CUST290,Electronics,CREDIT CARD,1091.185,15,7,8,4.0,No,Tier 1,1,Unknown,True,927.50725,False,Standard Order
+ORD1480,CUST312,Beauty,CASH ON DELIVERY,1194.18,15,4,4,5.0,Yes,Tier 1,0,On-Time,Same,1015.053,False,Standard Order
+ORD1481,CUST259,Fashion,CASH ON DELIVERY,1006.55,30,4,3,4.0,No,Tier 1,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1482,CUST314,Electronics,UPI,1091.185,5,5,6,4.0,No,Tier 1,1,Unknown,True,1036.62575,False,Standard Order
+ORD1483,CUST260,Fashion,UPI,1006.55,30,7,6,4.0,No,Tier 3,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1484,CUST166,Beauty,UPI,1194.18,20,4,4,5.0,No,Tier 2,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1485,CUST227,Home & Kitchen,CASH ON DELIVERY,1137.04,15,2,2,4.0,No,Tier 1,0,On-Time,True,966.484,False,Loyal & Satisfied
+ORD1486,CUST117,Books,CREDIT CARD,1146.7800000000002,10,6,7,2.0,Yes,Tier 2,1,Unknown,True,1032.1020000000003,False,Standard Order
+ORD1487,CUST124,Home & Kitchen,CREDIT CARD,1137.04,5,2,3,4.0,No,Tier 2,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1488,CUST333,Home & Kitchen,UPI,1137.04,10,6,6,2.0,No,Tier 3,0,On-Time,True,1023.336,False,Standard Order
+ORD1489,CUST322,Books,UPI,1146.7800000000002,20,7,9,4.0,No,Tier 1,2,Unknown,True,917.4240000000002,False,Loyal & Satisfied
+ORD1490,CUST153,Electronics,CREDIT CARD,1091.185,0,5,5,4.0,Yes,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1491,CUST157,Fashion,CASH ON DELIVERY,1006.55,20,4,4,4.0,No,Tier 3,0,On-Time,True,805.24,False,Standard Order
+ORD1492,CUST166,Electronics,DEBIT CARD,1091.185,5,4,5,1.0,No,Tier 3,1,Unknown,True,1036.62575,False,Standard Order
+ORD1493,CUST203,Beauty,DEBIT CARD,1194.18,0,4,5,2.0,No,Tier 2,1,Unknown,Same,1194.18,False,Standard Order
+ORD1494,CUST273,Beauty,DEBIT CARD,1194.18,0,7,14,4.0,No,Tier 2,7,Severe Delay,Same,1194.18,True,Loyal & Satisfied
+ORD1495,CUST123,Electronics,UPI,1091.185,0,6,6,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1496,CUST213,Home & Kitchen,UPI,1137.04,10,4,5,3.0,No,Tier 2,1,Unknown,True,1023.336,False,Standard Order
+ORD1497,CUST131,Beauty,CASH ON DELIVERY,1194.18,5,2,3,3.0,No,Tier 1,1,Unknown,Same,1134.471,False,Standard Order
+ORD1498,CUST274,Electronics,UPI,1091.185,50,4,8,4.0,No,Tier 1,4,Severe Delay,True,545.5925,True,Standard Order
+ORD1499,CUST185,Home & Kitchen,CASH ON DELIVERY,1137.04,10,7,7,4.0,Yes,Tier 3,0,On-Time,True,1023.336,False,Standard Order
+ORD1500,CUST250,Beauty,CASH ON DELIVERY,1194.18,0,5,6,3.0,No,Tier 1,1,Unknown,Same,1194.18,False,Standard Order
+ORD1501,CUST293,Electronics,UPI,1091.185,15,2,2,3.0,No,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1502,CUST226,Home & Kitchen,DEBIT CARD,1137.04,30,4,4,3.0,No,Tier 3,0,On-Time,True,795.9279999999999,False,Standard Order
+ORD1503,CUST254,Fashion,UPI,1006.55,15,4,4,4.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1504,CUST333,Beauty,UPI,1194.18,0,3,3,2.0,Yes,Tier 3,0,On-Time,Same,1194.18,False,Standard Order
+ORD1505,CUST229,Beauty,UPI,1194.18,30,6,6,3.0,Yes,Tier 3,0,On-Time,Same,835.926,False,High-Risk Transaction
+ORD1506,CUST317,Beauty,UPI,1194.18,20,2,4,1.0,No,Tier 2,2,Unknown,Same,955.344,False,Standard Order
+ORD1507,CUST116,Fashion,UPI,1006.55,0,3,3,3.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1508,CUST203,Beauty,CASH ON DELIVERY,1194.18,0,5,6,4.0,No,Tier 1,1,Unknown,Same,1194.18,False,Loyal & Satisfied
+ORD1509,CUST260,Books,CASH ON DELIVERY,1146.7800000000002,10,6,6,3.0,No,Tier 1,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1510,CUST236,Fashion,CREDIT CARD,1006.55,0,2,1,2.0,No,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1511,CUST142,Books,UPI,1146.7800000000002,20,4,4,4.0,Yes,Tier 1,0,On-Time,True,917.4240000000002,False,Standard Order
+ORD1512,CUST345,Electronics,CASH ON DELIVERY,1091.185,5,2,2,1.0,Yes,Tier 3,0,On-Time,True,1036.62575,False,Standard Order
+ORD1513,CUST275,Home & Kitchen,CREDIT CARD,1137.04,30,4,4,2.0,No,Tier 1,0,On-Time,True,795.9279999999999,False,Standard Order
+ORD1514,CUST138,Electronics,CASH ON DELIVERY,1091.185,10,6,6,5.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1515,CUST320,Electronics,UPI,1091.185,0,4,4,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1516,CUST269,Electronics,DEBIT CARD,1091.185,0,5,5,5.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1517,CUST346,Home & Kitchen,UPI,1137.04,10,7,7,5.0,No,Tier 3,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1518,CUST125,Fashion,UPI,1006.55,20,4,4,4.0,No,Tier 1,0,On-Time,True,805.24,False,Standard Order
+ORD1519,CUST198,Home & Kitchen,CASH ON DELIVERY,1137.04,20,5,4,1.0,No,Tier 1,-1,Early,True,909.632,False,Standard Order
+ORD1520,CUST149,Electronics,CASH ON DELIVERY,1091.185,5,7,11,4.0,No,Tier 2,4,Severe Delay,True,1036.62575,True,Standard Order
+ORD1521,CUST252,Fashion,UPI,1006.55,5,6,8,5.0,Yes,Tier 2,2,Unknown,True,956.2225,False,Standard Order
+ORD1522,CUST251,Fashion,UPI,1006.55,0,6,7,4.0,Yes,Tier 2,1,Unknown,True,1006.55,False,Standard Order
+ORD1523,CUST112,Books,DEBIT CARD,1146.7800000000002,15,2,1,4.0,No,Tier 1,-1,Early,True,974.763,False,Loyal & Satisfied
+ORD1524,CUST159,Fashion,CASH ON DELIVERY,1006.55,0,5,6,3.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1525,CUST349,Home & Kitchen,CASH ON DELIVERY,1137.04,10,5,7,5.0,No,Tier 3,2,Unknown,True,1023.336,False,Loyal & Satisfied
+ORD1526,CUST234,Beauty,DEBIT CARD,1194.18,15,3,4,4.0,No,Tier 3,1,Unknown,Same,1015.053,False,Loyal & Satisfied
+ORD1527,CUST156,Home & Kitchen,CREDIT CARD,1137.04,30,3,2,4.0,No,Tier 2,-1,Early,True,795.9279999999999,False,Loyal & Satisfied
+ORD1528,CUST135,Electronics,DEBIT CARD,1091.185,5,7,8,2.0,Yes,Tier 3,1,Unknown,True,1036.62575,False,Standard Order
+ORD1529,CUST272,Electronics,UPI,1091.185,5,7,9,3.0,No,Tier 2,2,Unknown,True,1036.62575,False,Standard Order
+ORD1530,CUST119,Beauty,CASH ON DELIVERY,1194.18,15,3,3,3.0,No,Tier 1,0,On-Time,Same,1015.053,False,Standard Order
+ORD1531,CUST164,Electronics,UPI,1091.185,15,7,8,4.0,No,Tier 1,1,Unknown,True,927.50725,False,Standard Order
+ORD1532,CUST107,Beauty,UPI,1194.18,5,4,4,2.0,No,Tier 1,0,On-Time,Same,1134.471,False,Standard Order
+ORD1533,CUST337,Fashion,CASH ON DELIVERY,1006.55,30,3,3,1.0,No,Tier 2,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1534,CUST243,Beauty,DEBIT CARD,1194.18,20,5,4,4.0,No,Tier 1,-1,Early,Same,955.344,False,Loyal & Satisfied
+ORD1535,CUST241,Books,UPI,1146.7800000000002,5,4,5,1.0,No,Tier 1,1,Unknown,True,1089.441,False,Standard Order
+ORD1536,CUST303,Beauty,CASH ON DELIVERY,1194.18,5,7,6,5.0,No,Tier 2,-1,Early,Same,1134.471,False,Loyal & Satisfied
+ORD1537,CUST214,Fashion,CREDIT CARD,1006.55,10,6,6,3.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1538,CUST314,Books,CREDIT CARD,1146.7800000000002,20,2,2,5.0,No,Tier 2,0,On-Time,True,917.4240000000002,False,Loyal & Satisfied
+ORD1539,CUST242,Fashion,UPI,1006.55,0,3,3,4.0,Yes,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1540,CUST191,Fashion,CASH ON DELIVERY,1006.55,15,6,5,5.0,Yes,Tier 1,-1,Early,True,855.5675,False,Standard Order
+ORD1541,CUST197,Home & Kitchen,CREDIT CARD,1137.04,15,7,8,5.0,No,Tier 2,1,Unknown,True,966.484,False,Loyal & Satisfied
+ORD1542,CUST165,Beauty,DEBIT CARD,1194.18,5,5,6,1.0,No,Tier 2,1,Unknown,Same,1134.471,False,Standard Order
+ORD1543,CUST131,Beauty,CASH ON DELIVERY,1194.18,15,2,2,1.0,No,Tier 2,0,On-Time,Same,1015.053,False,Standard Order
+ORD1544,CUST314,Books,DEBIT CARD,1146.7800000000002,30,6,5,3.0,No,Tier 1,-1,Early,True,802.7460000000001,False,Standard Order
+ORD1545,CUST290,Fashion,DEBIT CARD,1006.55,0,2,1,4.0,No,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1546,CUST185,Fashion,CREDIT CARD,1006.55,5,3,5,5.0,No,Tier 3,2,Unknown,True,956.2225,False,Standard Order
+ORD1547,CUST150,Home & Kitchen,CASH ON DELIVERY,1137.04,10,7,7,4.0,No,Tier 2,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1548,CUST252,Electronics,UPI,1091.185,30,5,5,4.0,No,Tier 3,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1549,CUST285,Electronics,CREDIT CARD,1091.185,50,7,6,2.0,No,Tier 2,-1,Early,True,545.5925,False,Standard Order
+ORD1550,CUST162,Fashion,CREDIT CARD,1006.55,10,2,3,5.0,Yes,Tier 2,1,Unknown,True,905.895,False,Standard Order
+ORD1551,CUST289,Fashion,CASH ON DELIVERY,1006.55,20,6,8,4.0,No,Tier 3,2,Unknown,True,805.24,False,Standard Order
+ORD1552,CUST224,Fashion,CASH ON DELIVERY,1006.55,10,3,5,3.0,No,Tier 2,2,Unknown,True,905.895,False,Standard Order
+ORD1553,CUST249,Electronics,DEBIT CARD,1091.185,10,3,4,4.0,Yes,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1554,CUST157,Electronics,CASH ON DELIVERY,1091.185,5,7,6,2.0,Yes,Tier 2,-1,Early,True,1036.62575,False,Standard Order
+ORD1555,CUST157,Electronics,DEBIT CARD,1091.185,5,6,5,4.0,No,Tier 3,-1,Early,True,1036.62575,False,Standard Order
+ORD1556,CUST185,Beauty,CREDIT CARD,1194.18,5,6,5,4.0,No,Tier 1,-1,Early,Same,1134.471,False,Loyal & Satisfied
+ORD1557,CUST148,Fashion,UPI,1006.55,10,2,2,2.0,No,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1558,CUST279,Fashion,UPI,1006.55,0,7,6,3.0,No,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1559,CUST269,Home & Kitchen,CREDIT CARD,1137.04,30,7,7,3.0,No,Tier 3,0,On-Time,True,795.9279999999999,False,Standard Order
+ORD1560,CUST169,Electronics,CASH ON DELIVERY,1091.185,0,4,4,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1561,CUST114,Beauty,UPI,1194.18,5,7,11,4.0,No,Tier 2,4,Severe Delay,Same,1134.471,True,Loyal & Satisfied
+ORD1562,CUST153,Books,UPI,1146.7800000000002,10,3,4,1.0,No,Tier 1,1,Unknown,True,1032.1020000000003,False,Standard Order
+ORD1563,CUST334,Electronics,UPI,1091.185,15,2,4,4.0,No,Tier 1,2,Unknown,True,927.50725,False,Standard Order
+ORD1564,CUST287,Fashion,DEBIT CARD,1006.55,0,6,7,4.0,No,Tier 2,1,Unknown,True,1006.55,False,Standard Order
+ORD1565,CUST200,Beauty,UPI,1194.18,5,7,6,3.0,No,Tier 1,-1,Early,Same,1134.471,False,Standard Order
+ORD1566,CUST324,Beauty,DEBIT CARD,1194.18,50,2,3,1.0,No,Tier 2,1,Unknown,Same,597.09,False,Standard Order
+ORD1567,CUST107,Fashion,CREDIT CARD,1006.55,5,7,7,4.0,No,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1568,CUST152,Home & Kitchen,UPI,1137.04,5,6,7,4.0,No,Tier 3,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1569,CUST159,Electronics,CREDIT CARD,1091.185,20,5,5,3.0,No,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1570,CUST335,Beauty,DEBIT CARD,1194.18,0,6,13,3.0,No,Tier 3,7,Severe Delay,Same,1194.18,True,Standard Order
+ORD1571,CUST207,Electronics,UPI,1091.185,10,6,6,2.0,Yes,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1572,CUST104,Beauty,DEBIT CARD,1194.18,5,6,6,4.0,No,Tier 3,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1573,CUST202,Home & Kitchen,UPI,1137.04,5,7,11,2.0,No,Tier 2,4,Severe Delay,True,1080.188,True,Standard Order
+ORD1574,CUST295,Home & Kitchen,DEBIT CARD,1137.04,5,4,3,3.0,No,Tier 2,-1,Early,True,1080.188,False,Standard Order
+ORD1575,CUST105,Fashion,UPI,1006.55,0,6,7,4.0,No,Tier 3,1,Unknown,True,1006.55,False,Standard Order
+ORD1576,CUST208,Electronics,DEBIT CARD,1091.185,5,3,4,4.0,Yes,Tier 3,1,Unknown,True,1036.62575,False,Standard Order
+ORD1577,CUST323,Electronics,UPI,1091.185,0,3,5,3.0,No,Tier 1,2,Unknown,True,1091.185,False,Standard Order
+ORD1578,CUST215,Electronics,DEBIT CARD,1091.185,20,2,9,3.0,Yes,Tier 1,7,Severe Delay,True,872.948,True,Standard Order
+ORD1579,CUST193,Electronics,UPI,1091.185,5,4,11,4.0,No,Tier 1,7,Severe Delay,True,1036.62575,True,Standard Order
+ORD1580,CUST146,Books,UPI,1146.7800000000002,10,2,1,1.0,No,Tier 1,-1,Early,True,1032.1020000000003,False,Standard Order
+ORD1581,CUST198,Fashion,UPI,1006.55,30,3,5,1.0,Yes,Tier 1,2,Unknown,True,704.5849999999999,False,High-Risk Transaction
+ORD1582,CUST154,Electronics,CASH ON DELIVERY,1091.185,15,3,4,5.0,No,Tier 1,1,Unknown,True,927.50725,False,Standard Order
+ORD1583,CUST267,Beauty,CREDIT CARD,1194.18,0,5,6,1.0,Yes,Tier 3,1,Unknown,Same,1194.18,False,Standard Order
+ORD1584,CUST151,Beauty,UPI,1194.18,30,6,5,4.0,Yes,Tier 1,-1,Early,Same,835.926,False,High-Risk Transaction
+ORD1585,CUST243,Beauty,UPI,1194.18,5,3,4,5.0,No,Tier 2,1,Unknown,Same,1134.471,False,Loyal & Satisfied
+ORD1586,CUST112,Beauty,UPI,1194.18,0,7,14,3.0,No,Tier 1,7,Severe Delay,Same,1194.18,True,Standard Order
+ORD1587,CUST213,Electronics,CASH ON DELIVERY,1091.185,20,7,11,3.0,No,Tier 1,4,Severe Delay,True,872.948,True,Standard Order
+ORD1588,CUST223,Fashion,UPI,1006.55,10,2,2,4.0,No,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1589,CUST205,Books,CASH ON DELIVERY,1146.7800000000002,10,2,1,5.0,No,Tier 1,-1,Early,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1590,CUST257,Home & Kitchen,UPI,1137.04,5,6,6,5.0,No,Tier 2,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1591,CUST246,Electronics,DEBIT CARD,1091.185,10,6,8,4.0,Yes,Tier 3,2,Unknown,True,982.0665,False,Standard Order
+ORD1592,CUST244,Books,CREDIT CARD,1146.7800000000002,5,5,6,2.0,Yes,Tier 1,1,Unknown,True,1089.441,False,Standard Order
+ORD1593,CUST219,Electronics,CREDIT CARD,1091.185,30,4,4,4.0,No,Tier 2,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1594,CUST162,Electronics,CASH ON DELIVERY,1091.185,5,2,1,3.0,No,Tier 2,-1,Early,True,1036.62575,False,Standard Order
+ORD1595,CUST118,Fashion,CREDIT CARD,1006.55,30,6,6,4.0,No,Tier 3,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1596,CUST191,Home & Kitchen,CASH ON DELIVERY,1137.04,10,2,2,1.0,No,Tier 2,0,On-Time,True,1023.336,False,Standard Order
+ORD1597,CUST157,Home & Kitchen,CASH ON DELIVERY,1137.04,20,6,10,2.0,No,Tier 2,4,Severe Delay,True,909.632,True,Standard Order
+ORD1598,CUST282,Electronics,CASH ON DELIVERY,1091.185,15,3,4,4.0,Yes,Tier 2,1,Unknown,True,927.50725,False,Standard Order
+ORD1599,CUST189,Beauty,CREDIT CARD,1194.18,15,2,2,4.0,No,Tier 3,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1600,CUST328,Fashion,CASH ON DELIVERY,1006.55,5,3,3,3.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1601,CUST317,Electronics,CREDIT CARD,1091.185,5,2,1,3.0,No,Tier 1,-1,Early,True,1036.62575,False,Standard Order
+ORD1602,CUST216,Beauty,CASH ON DELIVERY,1194.18,5,4,11,5.0,No,Tier 3,7,Severe Delay,Same,1134.471,True,Loyal & Satisfied
+ORD1603,CUST161,Beauty,UPI,1194.18,30,5,5,4.0,Yes,Tier 2,0,On-Time,Same,835.926,False,High-Risk Transaction
+ORD1604,CUST122,Beauty,CASH ON DELIVERY,1194.18,20,7,7,3.0,No,Tier 2,0,On-Time,Same,955.344,False,Standard Order
+ORD1605,CUST226,Books,UPI,1146.7800000000002,10,7,7,2.0,No,Tier 2,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1606,CUST236,Home & Kitchen,CASH ON DELIVERY,1137.04,0,7,8,3.0,Yes,Tier 1,1,Unknown,True,1137.04,False,Standard Order
+ORD1607,CUST239,Home & Kitchen,DEBIT CARD,1137.04,5,3,4,5.0,No,Tier 2,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1608,CUST344,Electronics,CASH ON DELIVERY,1091.185,15,6,7,4.0,No,Tier 2,1,Unknown,True,927.50725,False,Standard Order
+ORD1609,CUST228,Fashion,UPI,1006.55,10,7,7,4.0,No,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1610,CUST157,Fashion,UPI,1006.55,20,4,4,4.0,Yes,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1611,CUST221,Fashion,CREDIT CARD,1006.55,50,7,6,3.0,No,Tier 3,-1,Early,True,503.275,False,Standard Order
+ORD1612,CUST100,Home & Kitchen,UPI,1137.04,0,2,3,5.0,No,Tier 1,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1613,CUST338,Fashion,CASH ON DELIVERY,1006.55,10,3,2,4.0,No,Tier 2,-1,Early,True,905.895,False,Standard Order
+ORD1614,CUST133,Electronics,CREDIT CARD,1091.185,10,2,2,2.0,No,Tier 1,0,On-Time,True,982.0665,False,Standard Order
+ORD1615,CUST195,Electronics,UPI,1091.185,5,2,4,2.0,No,Tier 2,2,Unknown,True,1036.62575,False,Standard Order
+ORD1616,CUST225,Home & Kitchen,CASH ON DELIVERY,1137.04,0,2,4,4.0,No,Tier 1,2,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1617,CUST217,Electronics,DEBIT CARD,1091.185,0,5,5,5.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1618,CUST147,Beauty,CASH ON DELIVERY,1194.18,30,5,5,3.0,No,Tier 3,0,On-Time,Same,835.926,False,Standard Order
+ORD1619,CUST188,Fashion,UPI,1006.55,10,6,5,5.0,No,Tier 1,-1,Early,True,905.895,False,Standard Order
+ORD1620,CUST331,Fashion,UPI,1006.55,10,3,4,4.0,Yes,Tier 3,1,Unknown,True,905.895,False,Standard Order
+ORD1621,CUST336,Home & Kitchen,DEBIT CARD,1137.04,30,4,6,3.0,No,Tier 3,2,Unknown,True,795.9279999999999,False,Standard Order
+ORD1622,CUST216,Books,CREDIT CARD,1146.7800000000002,20,4,4,1.0,No,Tier 1,0,On-Time,True,917.4240000000002,False,Standard Order
+ORD1623,CUST228,Fashion,UPI,1006.55,0,4,4,2.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1624,CUST115,Home & Kitchen,CASH ON DELIVERY,1137.04,10,2,4,4.0,No,Tier 3,2,Unknown,True,1023.336,False,Loyal & Satisfied
+ORD1625,CUST288,Home & Kitchen,UPI,1137.04,10,5,7,2.0,No,Tier 3,2,Unknown,True,1023.336,False,Standard Order
+ORD1626,CUST330,Fashion,CREDIT CARD,1006.55,20,3,3,3.0,No,Tier 1,0,On-Time,True,805.24,False,Standard Order
+ORD1627,CUST291,Beauty,DEBIT CARD,1194.18,15,2,2,4.0,No,Tier 1,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1628,CUST290,Books,UPI,1146.7800000000002,15,5,5,4.0,No,Tier 1,0,On-Time,True,974.763,False,Loyal & Satisfied
+ORD1629,CUST168,Home & Kitchen,DEBIT CARD,1137.04,5,5,4,2.0,No,Tier 3,-1,Early,True,1080.188,False,Standard Order
+ORD1630,CUST121,Beauty,CASH ON DELIVERY,1194.18,20,7,11,3.0,No,Tier 1,4,Severe Delay,Same,955.344,True,Standard Order
+ORD1631,CUST192,Beauty,UPI,1194.18,0,7,9,4.0,Yes,Tier 2,2,Unknown,Same,1194.18,False,Standard Order
+ORD1632,CUST346,Home & Kitchen,UPI,1137.04,0,3,4,4.0,No,Tier 3,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1633,CUST294,Books,UPI,1146.7800000000002,5,3,2,5.0,No,Tier 1,-1,Early,True,1089.441,False,Loyal & Satisfied
+ORD1634,CUST175,Home & Kitchen,CASH ON DELIVERY,1137.04,0,3,5,2.0,No,Tier 2,2,Unknown,True,1137.04,False,Standard Order
+ORD1635,CUST253,Home & Kitchen,CREDIT CARD,1137.04,5,2,2,5.0,No,Tier 1,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1636,CUST243,Home & Kitchen,UPI,1137.04,20,6,6,4.0,No,Tier 3,0,On-Time,True,909.632,False,Loyal & Satisfied
+ORD1637,CUST278,Books,UPI,1146.7800000000002,30,3,3,4.0,No,Tier 1,0,On-Time,True,802.7460000000001,False,Loyal & Satisfied
+ORD1638,CUST328,Electronics,UPI,1091.185,5,7,6,4.0,No,Tier 2,-1,Early,True,1036.62575,False,Standard Order
+ORD1639,CUST185,Beauty,UPI,1194.18,5,6,7,3.0,No,Tier 2,1,Unknown,Same,1134.471,False,Standard Order
+ORD1640,CUST284,Beauty,UPI,1194.18,5,2,2,2.0,No,Tier 1,0,On-Time,Same,1134.471,False,Standard Order
+ORD1641,CUST128,Electronics,DEBIT CARD,1091.185,5,6,6,4.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1642,CUST305,Books,UPI,1146.7800000000002,0,4,4,4.0,No,Tier 1,0,On-Time,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1643,CUST319,Electronics,UPI,1091.185,30,6,6,4.0,No,Tier 1,0,On-Time,True,763.8294999999999,False,Standard Order
+ORD1644,CUST168,Fashion,CREDIT CARD,1006.55,5,3,2,3.0,Yes,Tier 3,-1,Early,True,956.2225,False,Standard Order
+ORD1645,CUST146,Home & Kitchen,DEBIT CARD,1137.04,10,2,2,5.0,No,Tier 3,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1646,CUST340,Electronics,DEBIT CARD,1091.185,0,3,5,4.0,No,Tier 2,2,Unknown,True,1091.185,False,Standard Order
+ORD1647,CUST193,Books,CREDIT CARD,1146.7800000000002,30,7,6,2.0,Yes,Tier 2,-1,Early,True,802.7460000000001,False,High-Risk Transaction
+ORD1648,CUST337,Books,UPI,1146.7800000000002,15,4,3,3.0,Yes,Tier 2,-1,Early,True,974.763,False,Standard Order
+ORD1649,CUST289,Fashion,CASH ON DELIVERY,1006.55,30,7,7,4.0,No,Tier 3,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1650,CUST343,Electronics,CREDIT CARD,1091.185,20,3,5,4.0,No,Tier 1,2,Unknown,True,872.948,False,Standard Order
+ORD1651,CUST296,Fashion,UPI,1006.55,5,3,3,4.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1652,CUST303,Home & Kitchen,CREDIT CARD,1137.04,5,3,3,5.0,No,Tier 1,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1653,CUST243,Beauty,CREDIT CARD,1194.18,15,5,5,3.0,Yes,Tier 2,0,On-Time,Same,1015.053,False,Standard Order
+ORD1654,CUST317,Home & Kitchen,UPI,1137.04,5,4,4,3.0,No,Tier 1,0,On-Time,True,1080.188,False,Standard Order
+ORD1655,CUST317,Fashion,UPI,1006.55,10,3,2,5.0,No,Tier 1,-1,Early,True,905.895,False,Standard Order
+ORD1656,CUST275,Home & Kitchen,CASH ON DELIVERY,1137.04,0,3,4,5.0,No,Tier 1,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1657,CUST184,Fashion,UPI,1006.55,0,7,8,4.0,No,Tier 2,1,Unknown,True,1006.55,False,Standard Order
+ORD1658,CUST138,Books,CREDIT CARD,1146.7800000000002,10,7,7,5.0,No,Tier 1,0,On-Time,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1659,CUST199,Electronics,CREDIT CARD,1091.185,10,3,4,2.0,Yes,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1660,CUST132,Books,CREDIT CARD,1146.7800000000002,20,2,3,5.0,Yes,Tier 1,1,Unknown,True,917.4240000000002,False,Standard Order
+ORD1661,CUST321,Fashion,UPI,1006.55,0,5,5,3.0,Yes,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1662,CUST200,Beauty,UPI,1194.18,10,7,7,2.0,No,Tier 2,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1663,CUST122,Fashion,UPI,1006.55,0,2,1,3.0,No,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1664,CUST349,Home & Kitchen,CASH ON DELIVERY,1137.04,0,5,4,3.0,No,Tier 1,-1,Early,True,1137.04,False,Standard Order
+ORD1665,CUST109,Beauty,UPI,1194.18,10,3,4,3.0,No,Tier 2,1,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1666,CUST345,Electronics,DEBIT CARD,1091.185,0,4,6,3.0,No,Tier 1,2,Unknown,True,1091.185,False,Standard Order
+ORD1667,CUST168,Beauty,CREDIT CARD,1194.18,5,6,10,2.0,No,Tier 1,4,Severe Delay,Same,1134.471,True,Standard Order
+ORD1668,CUST199,Home & Kitchen,CREDIT CARD,1137.04,5,6,7,3.0,No,Tier 3,1,Unknown,True,1080.188,False,Standard Order
+ORD1669,CUST133,Electronics,CREDIT CARD,1091.185,5,3,3,4.0,Yes,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1670,CUST279,Fashion,UPI,1006.55,0,7,6,3.0,No,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1671,CUST322,Home & Kitchen,UPI,1137.04,0,2,4,3.0,No,Tier 1,2,Unknown,True,1137.04,False,Standard Order
+ORD1672,CUST237,Electronics,CREDIT CARD,1091.185,0,4,4,4.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1673,CUST349,Home & Kitchen,UPI,1137.04,0,5,6,5.0,No,Tier 2,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1674,CUST246,Fashion,UPI,1006.55,15,3,4,4.0,No,Tier 2,1,Unknown,True,855.5675,False,Standard Order
+ORD1675,CUST285,Home & Kitchen,UPI,1137.04,5,4,5,3.0,No,Tier 2,1,Unknown,True,1080.188,False,Standard Order
+ORD1676,CUST195,Electronics,UPI,1091.185,5,4,6,4.0,No,Tier 1,2,Unknown,True,1036.62575,False,Standard Order
+ORD1677,CUST100,Beauty,CREDIT CARD,1194.18,5,7,6,2.0,No,Tier 1,-1,Early,Same,1134.471,False,Standard Order
+ORD1678,CUST347,Beauty,UPI,1194.18,15,5,6,2.0,No,Tier 3,1,Unknown,Same,1015.053,False,Standard Order
+ORD1679,CUST168,Beauty,UPI,1194.18,30,4,6,3.0,No,Tier 3,2,Unknown,Same,835.926,False,Standard Order
+ORD1680,CUST336,Home & Kitchen,UPI,1137.04,20,7,7,5.0,No,Tier 1,0,On-Time,True,909.632,False,Loyal & Satisfied
+ORD1681,CUST103,Electronics,DEBIT CARD,1091.185,15,2,3,3.0,No,Tier 2,1,Unknown,True,927.50725,False,Standard Order
+ORD1682,CUST115,Books,UPI,1146.7800000000002,10,7,7,1.0,No,Tier 1,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1683,CUST123,Electronics,CASH ON DELIVERY,1091.185,15,2,6,2.0,No,Tier 1,4,Severe Delay,True,927.50725,True,Standard Order
+ORD1684,CUST179,Electronics,CASH ON DELIVERY,1091.185,10,2,1,5.0,No,Tier 1,-1,Early,True,982.0665,False,Standard Order
+ORD1685,CUST346,Fashion,DEBIT CARD,1006.55,5,4,4,4.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1686,CUST101,Fashion,UPI,1006.55,5,7,7,3.0,No,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1687,CUST340,Books,DEBIT CARD,1146.7800000000002,5,2,3,4.0,Yes,Tier 2,1,Unknown,True,1089.441,False,Standard Order
+ORD1688,CUST319,Home & Kitchen,DEBIT CARD,1137.04,30,5,5,4.0,Yes,Tier 1,0,On-Time,True,795.9279999999999,False,High-Risk Transaction
+ORD1689,CUST227,Fashion,CREDIT CARD,1006.55,10,4,4,4.0,No,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1690,CUST259,Fashion,UPI,1006.55,15,7,7,3.0,No,Tier 3,0,On-Time,True,855.5675,False,Standard Order
+ORD1691,CUST318,Beauty,CASH ON DELIVERY,1194.18,5,7,11,5.0,No,Tier 1,4,Severe Delay,Same,1134.471,True,Loyal & Satisfied
+ORD1692,CUST183,Fashion,UPI,1006.55,10,6,6,3.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1693,CUST251,Fashion,CASH ON DELIVERY,1006.55,0,7,6,4.0,Yes,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1694,CUST239,Electronics,CASH ON DELIVERY,1091.185,0,4,5,1.0,No,Tier 2,1,Unknown,True,1091.185,False,Standard Order
+ORD1695,CUST277,Books,UPI,1146.7800000000002,20,5,5,3.0,No,Tier 1,0,On-Time,True,917.4240000000002,False,Standard Order
+ORD1696,CUST262,Home & Kitchen,CASH ON DELIVERY,1137.04,10,7,11,3.0,No,Tier 1,4,Severe Delay,True,1023.336,True,Standard Order
+ORD1697,CUST223,Electronics,CASH ON DELIVERY,1091.185,5,6,5,4.0,No,Tier 1,-1,Early,True,1036.62575,False,Standard Order
+ORD1698,CUST132,Electronics,DEBIT CARD,1091.185,20,4,5,1.0,No,Tier 1,1,Unknown,True,872.948,False,Standard Order
+ORD1699,CUST260,Home & Kitchen,UPI,1137.04,5,2,2,4.0,Yes,Tier 1,0,On-Time,True,1080.188,False,Standard Order
+ORD1700,CUST288,Home & Kitchen,CREDIT CARD,1137.04,50,3,3,3.0,No,Tier 2,0,On-Time,True,568.52,False,Standard Order
+ORD1701,CUST278,Fashion,UPI,1006.55,5,3,4,4.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1702,CUST270,Beauty,CASH ON DELIVERY,1194.18,5,2,2,5.0,No,Tier 1,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1703,CUST200,Electronics,UPI,1091.185,5,7,8,4.0,No,Tier 2,1,Unknown,True,1036.62575,False,Standard Order
+ORD1704,CUST111,Fashion,CREDIT CARD,1006.55,0,3,3,4.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1705,CUST166,Beauty,UPI,1194.18,0,3,3,4.0,No,Tier 3,0,On-Time,Same,1194.18,False,Loyal & Satisfied
+ORD1706,CUST164,Fashion,CREDIT CARD,1006.55,15,2,2,3.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1707,CUST260,Home & Kitchen,DEBIT CARD,1137.04,30,7,14,5.0,No,Tier 2,7,Severe Delay,True,795.9279999999999,True,Loyal & Satisfied
+ORD1708,CUST267,Fashion,CASH ON DELIVERY,1006.55,20,7,7,3.0,No,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1709,CUST173,Fashion,CREDIT CARD,1006.55,0,2,2,4.0,No,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1710,CUST142,Beauty,UPI,1194.18,10,7,7,4.0,No,Tier 3,0,On-Time,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1711,CUST143,Fashion,CASH ON DELIVERY,1006.55,0,7,7,3.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1712,CUST128,Beauty,DEBIT CARD,1194.18,0,4,4,3.0,No,Tier 1,0,On-Time,Same,1194.18,False,Standard Order
+ORD1713,CUST240,Electronics,CASH ON DELIVERY,1091.185,15,4,8,4.0,Yes,Tier 1,4,Severe Delay,True,927.50725,True,Standard Order
+ORD1714,CUST111,Electronics,CREDIT CARD,1091.185,10,2,2,5.0,Yes,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1715,CUST194,Electronics,DEBIT CARD,1091.185,0,5,7,5.0,No,Tier 2,2,Unknown,True,1091.185,False,Standard Order
+ORD1716,CUST145,Home & Kitchen,UPI,1137.04,0,3,2,4.0,No,Tier 2,-1,Early,True,1137.04,False,Loyal & Satisfied
+ORD1717,CUST229,Fashion,DEBIT CARD,1006.55,50,4,5,4.0,No,Tier 1,1,Unknown,True,503.275,False,Standard Order
+ORD1718,CUST342,Beauty,DEBIT CARD,1194.18,0,3,7,5.0,No,Tier 2,4,Severe Delay,Same,1194.18,True,Loyal & Satisfied
+ORD1719,CUST341,Fashion,UPI,1006.55,10,6,6,2.0,Yes,Tier 3,0,On-Time,True,905.895,False,Standard Order
+ORD1720,CUST134,Beauty,DEBIT CARD,1194.18,10,2,6,3.0,No,Tier 1,4,Severe Delay,Same,1074.7620000000002,True,Standard Order
+ORD1721,CUST314,Electronics,DEBIT CARD,1091.185,0,5,5,4.0,No,Tier 2,0,On-Time,True,1091.185,False,Standard Order
+ORD1722,CUST180,Beauty,CASH ON DELIVERY,1194.18,0,6,10,5.0,No,Tier 1,4,Severe Delay,Same,1194.18,True,Loyal & Satisfied
+ORD1723,CUST189,Books,UPI,1146.7800000000002,5,6,7,5.0,Yes,Tier 3,1,Unknown,True,1089.441,False,Standard Order
+ORD1724,CUST107,Books,CASH ON DELIVERY,1146.7800000000002,20,7,7,3.0,No,Tier 3,0,On-Time,True,917.4240000000002,False,Standard Order
+ORD1725,CUST192,Books,CASH ON DELIVERY,1146.7800000000002,10,6,6,2.0,No,Tier 2,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1726,CUST253,Books,CREDIT CARD,1146.7800000000002,15,2,2,3.0,No,Tier 2,0,On-Time,True,974.763,False,Standard Order
+ORD1727,CUST301,Home & Kitchen,CASH ON DELIVERY,1137.04,50,4,3,3.0,No,Tier 3,-1,Early,True,568.52,False,Standard Order
+ORD1728,CUST189,Electronics,UPI,1091.185,20,2,1,3.0,No,Tier 2,-1,Early,True,872.948,False,Standard Order
+ORD1729,CUST261,Electronics,UPI,1091.185,10,4,3,4.0,No,Tier 1,-1,Early,True,982.0665,False,Standard Order
+ORD1730,CUST214,Beauty,CREDIT CARD,1194.18,10,6,6,1.0,No,Tier 2,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1731,CUST204,Home & Kitchen,UPI,1137.04,15,6,7,5.0,Yes,Tier 1,1,Unknown,True,966.484,False,Standard Order
+ORD1732,CUST234,Books,UPI,1146.7800000000002,15,5,4,3.0,No,Tier 1,-1,Early,True,974.763,False,Standard Order
+ORD1733,CUST295,Fashion,CASH ON DELIVERY,1006.55,10,4,3,4.0,No,Tier 3,-1,Early,True,905.895,False,Standard Order
+ORD1734,CUST157,Electronics,CASH ON DELIVERY,1091.185,15,6,7,2.0,Yes,Tier 2,1,Unknown,True,927.50725,False,Standard Order
+ORD1735,CUST344,Electronics,CASH ON DELIVERY,1091.185,0,7,7,3.0,Yes,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1736,CUST213,Home & Kitchen,UPI,1137.04,10,3,2,2.0,No,Tier 1,-1,Early,True,1023.336,False,Standard Order
+ORD1737,CUST336,Fashion,DEBIT CARD,1006.55,5,5,5,4.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1738,CUST174,Electronics,UPI,1091.185,0,2,6,5.0,No,Tier 1,4,Severe Delay,True,1091.185,True,Standard Order
+ORD1739,CUST256,Fashion,DEBIT CARD,1006.55,0,5,7,4.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1740,CUST219,Electronics,DEBIT CARD,1091.185,15,3,3,3.0,Yes,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1741,CUST263,Home & Kitchen,UPI,1137.04,10,4,5,5.0,Yes,Tier 1,1,Unknown,True,1023.336,False,Standard Order
+ORD1742,CUST316,Fashion,DEBIT CARD,1006.55,5,2,2,3.0,No,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1743,CUST120,Books,CREDIT CARD,1146.7800000000002,10,2,3,2.0,Yes,Tier 1,1,Unknown,True,1032.1020000000003,False,Standard Order
+ORD1744,CUST348,Fashion,CASH ON DELIVERY,1006.55,10,4,5,4.0,No,Tier 3,1,Unknown,True,905.895,False,Standard Order
+ORD1745,CUST263,Fashion,CREDIT CARD,1006.55,0,5,6,5.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1746,CUST237,Electronics,UPI,1091.185,15,6,6,1.0,No,Tier 1,0,On-Time,True,927.50725,False,Standard Order
+ORD1747,CUST200,Electronics,CASH ON DELIVERY,1091.185,20,5,4,3.0,No,Tier 1,-1,Early,True,872.948,False,Standard Order
+ORD1748,CUST300,Fashion,DEBIT CARD,1006.55,20,3,3,5.0,Yes,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1749,CUST251,Fashion,UPI,1006.55,15,7,9,2.0,No,Tier 2,2,Unknown,True,855.5675,False,Standard Order
+ORD1750,CUST291,Home & Kitchen,CASH ON DELIVERY,1137.04,10,6,6,2.0,Yes,Tier 1,0,On-Time,True,1023.336,False,Standard Order
+ORD1751,CUST326,Fashion,DEBIT CARD,1006.55,0,5,7,4.0,No,Tier 1,2,Unknown,True,1006.55,False,Standard Order
+ORD1752,CUST276,Home & Kitchen,CREDIT CARD,1137.04,5,7,14,5.0,No,Tier 1,7,Severe Delay,True,1080.188,True,Loyal & Satisfied
+ORD1753,CUST198,Beauty,CASH ON DELIVERY,1194.18,0,7,7,4.0,No,Tier 2,0,On-Time,Same,1194.18,False,Loyal & Satisfied
+ORD1754,CUST339,Books,DEBIT CARD,1146.7800000000002,50,4,5,4.0,No,Tier 2,1,Unknown,True,573.3900000000001,False,Loyal & Satisfied
+ORD1755,CUST135,Electronics,CREDIT CARD,1091.185,0,3,4,4.0,Yes,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1756,CUST309,Fashion,UPI,1006.55,0,3,10,1.0,No,Tier 1,7,Severe Delay,True,1006.55,True,Standard Order
+ORD1757,CUST340,Electronics,UPI,1091.185,30,3,10,4.0,No,Tier 1,7,Severe Delay,True,763.8294999999999,True,Standard Order
+ORD1758,CUST330,Electronics,UPI,1091.185,30,6,7,3.0,No,Tier 1,1,Unknown,True,763.8294999999999,False,Standard Order
+ORD1759,CUST195,Beauty,UPI,1194.18,20,2,2,3.0,Yes,Tier 2,0,On-Time,Same,955.344,False,Standard Order
+ORD1760,CUST251,Electronics,UPI,1091.185,0,6,7,4.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1761,CUST250,Fashion,CASH ON DELIVERY,1006.55,0,5,4,3.0,Yes,Tier 1,-1,Early,True,1006.55,False,Standard Order
+ORD1762,CUST289,Home & Kitchen,CASH ON DELIVERY,1137.04,5,7,8,2.0,No,Tier 1,1,Unknown,True,1080.188,False,Standard Order
+ORD1763,CUST323,Home & Kitchen,UPI,1137.04,0,7,11,1.0,No,Tier 3,4,Severe Delay,True,1137.04,True,Standard Order
+ORD1764,CUST136,Home & Kitchen,DEBIT CARD,1137.04,0,2,2,3.0,No,Tier 3,0,On-Time,True,1137.04,False,Standard Order
+ORD1765,CUST111,Electronics,DEBIT CARD,1091.185,10,5,6,5.0,No,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1766,CUST212,Fashion,UPI,1006.55,30,2,2,4.0,No,Tier 1,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1767,CUST282,Fashion,CREDIT CARD,1006.55,5,7,7,4.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1768,CUST112,Electronics,DEBIT CARD,1091.185,15,6,6,3.0,No,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1769,CUST122,Fashion,CREDIT CARD,1006.55,15,3,4,3.0,No,Tier 1,1,Unknown,True,855.5675,False,Standard Order
+ORD1770,CUST316,Electronics,CASH ON DELIVERY,1091.185,5,7,11,2.0,Yes,Tier 2,4,Severe Delay,True,1036.62575,True,Standard Order
+ORD1771,CUST198,Electronics,CREDIT CARD,1091.185,15,4,8,2.0,No,Tier 2,4,Severe Delay,True,927.50725,True,Standard Order
+ORD1772,CUST204,Fashion,CASH ON DELIVERY,1006.55,5,3,3,3.0,No,Tier 3,0,On-Time,True,956.2225,False,Standard Order
+ORD1773,CUST129,Electronics,UPI,1091.185,0,7,9,4.0,No,Tier 1,2,Unknown,True,1091.185,False,Standard Order
+ORD1774,CUST116,Home & Kitchen,UPI,1137.04,15,6,7,5.0,No,Tier 3,1,Unknown,True,966.484,False,Loyal & Satisfied
+ORD1775,CUST212,Home & Kitchen,UPI,1137.04,0,2,2,4.0,No,Tier 2,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1776,CUST161,Books,DEBIT CARD,1146.7800000000002,50,3,2,3.0,No,Tier 1,-1,Early,True,573.3900000000001,False,Standard Order
+ORD1777,CUST183,Electronics,UPI,1091.185,0,6,6,5.0,Yes,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1778,CUST211,Electronics,CASH ON DELIVERY,1091.185,10,5,9,3.0,No,Tier 1,4,Severe Delay,True,982.0665,True,Standard Order
+ORD1779,CUST316,Electronics,UPI,1091.185,10,4,5,2.0,No,Tier 1,1,Unknown,True,982.0665,False,Standard Order
+ORD1780,CUST185,Home & Kitchen,CREDIT CARD,1137.04,0,3,4,5.0,No,Tier 1,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1781,CUST240,Home & Kitchen,CASH ON DELIVERY,1137.04,0,2,2,4.0,No,Tier 2,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1782,CUST286,Electronics,UPI,1091.185,15,5,6,2.0,No,Tier 1,1,Unknown,True,927.50725,False,Standard Order
+ORD1783,CUST118,Beauty,DEBIT CARD,1194.18,20,6,5,3.0,No,Tier 3,-1,Early,Same,955.344,False,Standard Order
+ORD1784,CUST276,Electronics,CASH ON DELIVERY,1091.185,20,4,4,3.0,Yes,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1785,CUST199,Fashion,CASH ON DELIVERY,1006.55,10,2,3,4.0,No,Tier 3,1,Unknown,True,905.895,False,Standard Order
+ORD1786,CUST239,Home & Kitchen,CREDIT CARD,1137.04,20,6,5,4.0,No,Tier 1,-1,Early,True,909.632,False,Loyal & Satisfied
+ORD1787,CUST288,Beauty,DEBIT CARD,1194.18,15,6,8,4.0,No,Tier 2,2,Unknown,Same,1015.053,False,Loyal & Satisfied
+ORD1788,CUST332,Home & Kitchen,UPI,1137.04,15,3,3,1.0,No,Tier 1,0,On-Time,True,966.484,False,Standard Order
+ORD1789,CUST246,Books,CASH ON DELIVERY,1146.7800000000002,10,3,4,3.0,No,Tier 1,1,Unknown,True,1032.1020000000003,False,Standard Order
+ORD1790,CUST175,Fashion,CASH ON DELIVERY,1006.55,15,2,2,4.0,Yes,Tier 3,0,On-Time,True,855.5675,False,Standard Order
+ORD1791,CUST108,Books,CREDIT CARD,1146.7800000000002,20,7,7,4.0,No,Tier 1,0,On-Time,True,917.4240000000002,False,Loyal & Satisfied
+ORD1792,CUST298,Electronics,UPI,1091.185,5,7,6,3.0,Yes,Tier 2,-1,Early,True,1036.62575,False,Standard Order
+ORD1793,CUST127,Beauty,UPI,1194.18,20,6,5,4.0,No,Tier 2,-1,Early,Same,955.344,False,Loyal & Satisfied
+ORD1794,CUST305,Fashion,DEBIT CARD,1006.55,10,3,7,5.0,No,Tier 2,4,Severe Delay,True,905.895,True,Standard Order
+ORD1795,CUST322,Books,CASH ON DELIVERY,1146.7800000000002,0,4,4,5.0,No,Tier 2,0,On-Time,True,1146.7800000000002,False,Loyal & Satisfied
+ORD1796,CUST227,Fashion,CASH ON DELIVERY,1006.55,0,4,6,5.0,No,Tier 2,2,Unknown,True,1006.55,False,Standard Order
+ORD1797,CUST151,Home & Kitchen,UPI,1137.04,5,6,13,5.0,Yes,Tier 1,7,Severe Delay,True,1080.188,True,Standard Order
+ORD1798,CUST182,Fashion,UPI,1006.55,10,3,3,4.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1799,CUST349,Home & Kitchen,CASH ON DELIVERY,1137.04,20,2,2,5.0,No,Tier 3,0,On-Time,True,909.632,False,Loyal & Satisfied
+ORD1800,CUST210,Electronics,UPI,1091.185,0,2,3,3.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1801,CUST243,Electronics,CREDIT CARD,1091.185,20,2,6,3.0,No,Tier 1,4,Severe Delay,True,872.948,True,Standard Order
+ORD1802,CUST216,Electronics,UPI,1091.185,30,4,8,3.0,No,Tier 2,4,Severe Delay,True,763.8294999999999,True,Standard Order
+ORD1803,CUST168,Electronics,DEBIT CARD,1091.185,0,3,3,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1804,CUST198,Beauty,CASH ON DELIVERY,1194.18,30,3,4,3.0,Yes,Tier 1,1,Unknown,Same,835.926,False,High-Risk Transaction
+ORD1805,CUST239,Electronics,UPI,1091.185,50,4,3,4.0,No,Tier 1,-1,Early,True,545.5925,False,Standard Order
+ORD1806,CUST124,Beauty,CREDIT CARD,1194.18,15,2,9,3.0,Yes,Tier 2,7,Severe Delay,Same,1015.053,True,Standard Order
+ORD1807,CUST279,Fashion,DEBIT CARD,1006.55,20,2,6,2.0,No,Tier 1,4,Severe Delay,True,805.24,True,Standard Order
+ORD1808,CUST222,Electronics,UPI,1091.185,50,6,6,4.0,No,Tier 2,0,On-Time,True,545.5925,False,Standard Order
+ORD1809,CUST312,Books,UPI,1146.7800000000002,15,7,7,1.0,Yes,Tier 2,0,On-Time,True,974.763,False,Standard Order
+ORD1810,CUST327,Home & Kitchen,DEBIT CARD,1137.04,5,5,4,2.0,Yes,Tier 1,-1,Early,True,1080.188,False,Standard Order
+ORD1811,CUST152,Fashion,CREDIT CARD,1006.55,20,7,7,3.0,No,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1812,CUST250,Home & Kitchen,CREDIT CARD,1137.04,15,3,5,4.0,No,Tier 3,2,Unknown,True,966.484,False,Loyal & Satisfied
+ORD1813,CUST243,Home & Kitchen,UPI,1137.04,10,3,3,3.0,Yes,Tier 2,0,On-Time,True,1023.336,False,Standard Order
+ORD1814,CUST156,Electronics,CASH ON DELIVERY,1091.185,5,3,2,4.0,Yes,Tier 3,-1,Early,True,1036.62575,False,Standard Order
+ORD1815,CUST138,Beauty,DEBIT CARD,1194.18,20,7,7,4.0,No,Tier 1,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1816,CUST208,Beauty,DEBIT CARD,1194.18,0,5,12,3.0,No,Tier 2,7,Severe Delay,Same,1194.18,True,Standard Order
+ORD1817,CUST280,Home & Kitchen,DEBIT CARD,1137.04,30,6,7,3.0,No,Tier 1,1,Unknown,True,795.9279999999999,False,Standard Order
+ORD1818,CUST141,Electronics,CREDIT CARD,1091.185,5,7,7,3.0,Yes,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1819,CUST285,Home & Kitchen,CASH ON DELIVERY,1137.04,0,5,5,4.0,No,Tier 1,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1820,CUST266,Electronics,UPI,1091.185,10,2,9,1.0,Yes,Tier 1,7,Severe Delay,True,982.0665,True,Standard Order
+ORD1821,CUST241,Electronics,UPI,1091.185,0,2,4,1.0,Yes,Tier 3,2,Unknown,True,1091.185,False,Standard Order
+ORD1822,CUST322,Fashion,UPI,1006.55,15,3,3,4.0,No,Tier 1,0,On-Time,True,855.5675,False,Standard Order
+ORD1823,CUST221,Fashion,DEBIT CARD,1006.55,30,4,3,4.0,No,Tier 2,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1824,CUST232,Beauty,CASH ON DELIVERY,1194.18,20,3,2,2.0,No,Tier 2,-1,Early,Same,955.344,False,Standard Order
+ORD1825,CUST262,Home & Kitchen,CREDIT CARD,1137.04,0,4,3,3.0,No,Tier 2,-1,Early,True,1137.04,False,Standard Order
+ORD1826,CUST314,Home & Kitchen,CASH ON DELIVERY,1137.04,0,5,5,5.0,No,Tier 1,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1827,CUST320,Fashion,CASH ON DELIVERY,1006.55,20,2,6,5.0,No,Tier 2,4,Severe Delay,True,805.24,True,Standard Order
+ORD1828,CUST334,Fashion,CREDIT CARD,1006.55,30,7,7,4.0,No,Tier 1,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1829,CUST174,Fashion,DEBIT CARD,1006.55,10,4,6,4.0,No,Tier 1,2,Unknown,True,905.895,False,Standard Order
+ORD1830,CUST245,Beauty,CASH ON DELIVERY,1194.18,10,5,5,4.0,No,Tier 3,0,On-Time,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1831,CUST338,Electronics,UPI,1091.185,5,2,3,4.0,No,Tier 1,1,Unknown,True,1036.62575,False,Standard Order
+ORD1832,CUST175,Beauty,CREDIT CARD,1194.18,30,7,8,4.0,No,Tier 1,1,Unknown,Same,835.926,False,Loyal & Satisfied
+ORD1833,CUST108,Home & Kitchen,UPI,1137.04,15,4,4,3.0,No,Tier 3,0,On-Time,True,966.484,False,Standard Order
+ORD1834,CUST173,Fashion,DEBIT CARD,1006.55,5,3,3,5.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1835,CUST285,Home & Kitchen,CREDIT CARD,1137.04,5,3,4,2.0,No,Tier 2,1,Unknown,True,1080.188,False,Standard Order
+ORD1836,CUST335,Fashion,UPI,1006.55,30,3,2,3.0,No,Tier 1,-1,Early,True,704.5849999999999,False,Standard Order
+ORD1837,CUST244,Beauty,UPI,1194.18,0,5,5,4.0,No,Tier 1,0,On-Time,Same,1194.18,False,Loyal & Satisfied
+ORD1838,CUST329,Beauty,CASH ON DELIVERY,1194.18,5,3,3,3.0,Yes,Tier 1,0,On-Time,Same,1134.471,False,Standard Order
+ORD1839,CUST106,Fashion,CASH ON DELIVERY,1006.55,10,6,13,5.0,No,Tier 1,7,Severe Delay,True,905.895,True,Standard Order
+ORD1840,CUST273,Fashion,CASH ON DELIVERY,1006.55,0,2,2,2.0,No,Tier 1,0,On-Time,True,1006.55,False,Standard Order
+ORD1841,CUST240,Home & Kitchen,CREDIT CARD,1137.04,0,5,7,4.0,No,Tier 2,2,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1842,CUST267,Beauty,CREDIT CARD,1194.18,20,7,7,5.0,No,Tier 2,0,On-Time,Same,955.344,False,Loyal & Satisfied
+ORD1843,CUST269,Electronics,DEBIT CARD,1091.185,30,3,4,5.0,Yes,Tier 3,1,Unknown,True,763.8294999999999,False,High-Risk Transaction
+ORD1844,CUST236,Home & Kitchen,CASH ON DELIVERY,1137.04,20,2,2,2.0,No,Tier 1,0,On-Time,True,909.632,False,Standard Order
+ORD1845,CUST277,Home & Kitchen,UPI,1137.04,30,4,6,3.0,No,Tier 2,2,Unknown,True,795.9279999999999,False,Standard Order
+ORD1846,CUST126,Home & Kitchen,UPI,1137.04,10,3,3,4.0,No,Tier 2,0,On-Time,True,1023.336,False,Loyal & Satisfied
+ORD1847,CUST221,Electronics,DEBIT CARD,1091.185,20,2,3,2.0,No,Tier 3,1,Unknown,True,872.948,False,Standard Order
+ORD1848,CUST293,Home & Kitchen,CREDIT CARD,1137.04,5,6,7,4.0,No,Tier 1,1,Unknown,True,1080.188,False,Loyal & Satisfied
+ORD1849,CUST104,Beauty,DEBIT CARD,1194.18,15,4,4,5.0,No,Tier 2,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1850,CUST128,Electronics,DEBIT CARD,1091.185,50,6,5,2.0,No,Tier 3,-1,Early,True,545.5925,False,Standard Order
+ORD1851,CUST264,Electronics,DEBIT CARD,1091.185,5,7,6,2.0,Yes,Tier 1,-1,Early,True,1036.62575,False,Standard Order
+ORD1852,CUST265,Beauty,DEBIT CARD,1194.18,5,2,1,2.0,No,Tier 3,-1,Early,Same,1134.471,False,Standard Order
+ORD1853,CUST182,Electronics,UPI,1091.185,10,6,8,5.0,No,Tier 1,2,Unknown,True,982.0665,False,Standard Order
+ORD1854,CUST235,Beauty,CASH ON DELIVERY,1194.18,0,7,7,2.0,No,Tier 2,0,On-Time,Same,1194.18,False,Standard Order
+ORD1855,CUST339,Fashion,UPI,1006.55,0,2,2,3.0,No,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1856,CUST208,Electronics,DEBIT CARD,1091.185,20,2,3,3.0,No,Tier 2,1,Unknown,True,872.948,False,Standard Order
+ORD1857,CUST164,Beauty,DEBIT CARD,1194.18,50,6,6,4.0,Yes,Tier 1,0,On-Time,Same,597.09,False,High-Risk Transaction
+ORD1858,CUST185,Fashion,DEBIT CARD,1006.55,10,2,2,1.0,Yes,Tier 1,0,On-Time,True,905.895,False,Standard Order
+ORD1859,CUST343,Fashion,CASH ON DELIVERY,1006.55,0,3,3,3.0,No,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1860,CUST244,Fashion,CREDIT CARD,1006.55,0,2,6,5.0,No,Tier 2,4,Severe Delay,True,1006.55,True,Standard Order
+ORD1861,CUST170,Home & Kitchen,CREDIT CARD,1137.04,30,5,7,5.0,No,Tier 1,2,Unknown,True,795.9279999999999,False,Loyal & Satisfied
+ORD1862,CUST316,Electronics,UPI,1091.185,10,7,9,4.0,No,Tier 2,2,Unknown,True,982.0665,False,Standard Order
+ORD1863,CUST144,Fashion,CREDIT CARD,1006.55,5,2,2,1.0,No,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1864,CUST231,Beauty,DEBIT CARD,1194.18,10,5,6,3.0,No,Tier 1,1,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1865,CUST135,Fashion,DEBIT CARD,1006.55,5,2,1,4.0,No,Tier 1,-1,Early,True,956.2225,False,Standard Order
+ORD1866,CUST169,Home & Kitchen,DEBIT CARD,1137.04,10,2,1,3.0,No,Tier 1,-1,Early,True,1023.336,False,Standard Order
+ORD1867,CUST258,Fashion,UPI,1006.55,30,6,5,5.0,Yes,Tier 2,-1,Early,True,704.5849999999999,False,High-Risk Transaction
+ORD1868,CUST118,Books,DEBIT CARD,1146.7800000000002,10,3,3,4.0,No,Tier 2,0,On-Time,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1869,CUST288,Electronics,CREDIT CARD,1091.185,15,7,7,1.0,Yes,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1870,CUST207,Beauty,CASH ON DELIVERY,1194.18,5,3,3,5.0,No,Tier 3,0,On-Time,Same,1134.471,False,Loyal & Satisfied
+ORD1871,CUST281,Fashion,CASH ON DELIVERY,1006.55,15,4,3,4.0,Yes,Tier 3,-1,Early,True,855.5675,False,Standard Order
+ORD1872,CUST266,Electronics,UPI,1091.185,15,6,6,1.0,No,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1873,CUST190,Electronics,CREDIT CARD,1091.185,0,6,7,4.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1874,CUST301,Electronics,DEBIT CARD,1091.185,10,3,3,3.0,No,Tier 2,0,On-Time,True,982.0665,False,Standard Order
+ORD1875,CUST189,Fashion,CASH ON DELIVERY,1006.55,5,6,7,3.0,No,Tier 1,1,Unknown,True,956.2225,False,Standard Order
+ORD1876,CUST118,Fashion,CREDIT CARD,1006.55,20,3,3,2.0,No,Tier 2,0,On-Time,True,805.24,False,Standard Order
+ORD1877,CUST138,Books,CASH ON DELIVERY,1146.7800000000002,10,6,8,4.0,No,Tier 2,2,Unknown,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1878,CUST225,Fashion,DEBIT CARD,1006.55,50,2,2,4.0,Yes,Tier 1,0,On-Time,True,503.275,False,High-Risk Transaction
+ORD1879,CUST294,Electronics,CASH ON DELIVERY,1091.185,0,3,3,4.0,No,Tier 3,0,On-Time,True,1091.185,False,Standard Order
+ORD1880,CUST272,Home & Kitchen,UPI,1137.04,20,3,3,2.0,Yes,Tier 1,0,On-Time,True,909.632,False,Standard Order
+ORD1881,CUST240,Home & Kitchen,UPI,1137.04,15,5,6,4.0,No,Tier 2,1,Unknown,True,966.484,False,Loyal & Satisfied
+ORD1882,CUST341,Electronics,CASH ON DELIVERY,1091.185,20,6,8,3.0,No,Tier 1,2,Unknown,True,872.948,False,Standard Order
+ORD1883,CUST319,Electronics,CREDIT CARD,1091.185,5,6,6,5.0,No,Tier 3,0,On-Time,True,1036.62575,False,Standard Order
+ORD1884,CUST225,Electronics,CREDIT CARD,1091.185,10,3,3,3.0,No,Tier 1,0,On-Time,True,982.0665,False,Standard Order
+ORD1885,CUST157,Home & Kitchen,CREDIT CARD,1137.04,20,2,4,2.0,No,Tier 1,2,Unknown,True,909.632,False,Standard Order
+ORD1886,CUST247,Home & Kitchen,CASH ON DELIVERY,1137.04,5,2,3,2.0,No,Tier 1,1,Unknown,True,1080.188,False,Standard Order
+ORD1887,CUST319,Fashion,CREDIT CARD,1006.55,5,7,7,4.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1888,CUST299,Books,DEBIT CARD,1146.7800000000002,10,2,2,3.0,Yes,Tier 1,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1889,CUST160,Books,UPI,1146.7800000000002,10,6,6,4.0,Yes,Tier 2,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1890,CUST226,Home & Kitchen,DEBIT CARD,1137.04,5,5,6,3.0,No,Tier 1,1,Unknown,True,1080.188,False,Standard Order
+ORD1891,CUST204,Beauty,CREDIT CARD,1194.18,5,3,3,3.0,No,Tier 1,0,On-Time,Same,1134.471,False,Standard Order
+ORD1892,CUST266,Electronics,DEBIT CARD,1091.185,5,4,11,4.0,No,Tier 1,7,Severe Delay,True,1036.62575,True,Standard Order
+ORD1893,CUST100,Electronics,CREDIT CARD,1091.185,20,5,5,5.0,Yes,Tier 3,0,On-Time,True,872.948,False,Standard Order
+ORD1894,CUST230,Fashion,CASH ON DELIVERY,1006.55,15,4,4,5.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1895,CUST304,Electronics,DEBIT CARD,1091.185,20,5,5,3.0,No,Tier 2,0,On-Time,True,872.948,False,Standard Order
+ORD1896,CUST191,Fashion,CASH ON DELIVERY,1006.55,50,2,6,3.0,No,Tier 2,4,Severe Delay,True,503.275,True,Standard Order
+ORD1897,CUST289,Beauty,CASH ON DELIVERY,1194.18,10,6,8,2.0,No,Tier 1,2,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1898,CUST348,Electronics,UPI,1091.185,0,4,4,4.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1899,CUST290,Electronics,CREDIT CARD,1091.185,0,5,6,4.0,Yes,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1900,CUST212,Fashion,UPI,1006.55,5,6,6,5.0,No,Tier 3,0,On-Time,True,956.2225,False,Standard Order
+ORD1901,CUST252,Beauty,CREDIT CARD,1194.18,30,4,4,5.0,No,Tier 3,0,On-Time,Same,835.926,False,Loyal & Satisfied
+ORD1902,CUST155,Fashion,UPI,1006.55,10,3,3,3.0,No,Tier 2,0,On-Time,True,905.895,False,Standard Order
+ORD1903,CUST260,Fashion,CREDIT CARD,1006.55,5,5,5,4.0,No,Tier 1,0,On-Time,True,956.2225,False,Standard Order
+ORD1904,CUST265,Electronics,CASH ON DELIVERY,1091.185,5,3,3,5.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1905,CUST216,Electronics,DEBIT CARD,1091.185,10,2,6,5.0,No,Tier 1,4,Severe Delay,True,982.0665,True,Standard Order
+ORD1906,CUST233,Beauty,DEBIT CARD,1194.18,15,3,3,1.0,No,Tier 2,0,On-Time,Same,1015.053,False,Standard Order
+ORD1907,CUST157,Beauty,UPI,1194.18,0,3,7,3.0,No,Tier 1,4,Severe Delay,Same,1194.18,True,Standard Order
+ORD1908,CUST143,Electronics,UPI,1091.185,50,7,7,3.0,No,Tier 3,0,On-Time,True,545.5925,False,Standard Order
+ORD1909,CUST272,Beauty,UPI,1194.18,10,5,6,3.0,No,Tier 1,1,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1910,CUST259,Home & Kitchen,UPI,1137.04,0,2,2,2.0,No,Tier 3,0,On-Time,True,1137.04,False,Standard Order
+ORD1911,CUST272,Beauty,CASH ON DELIVERY,1194.18,30,3,2,1.0,No,Tier 2,-1,Early,Same,835.926,False,Standard Order
+ORD1912,CUST160,Fashion,UPI,1006.55,0,6,6,4.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1913,CUST146,Fashion,DEBIT CARD,1006.55,30,4,3,3.0,Yes,Tier 2,-1,Early,True,704.5849999999999,False,High-Risk Transaction
+ORD1914,CUST248,Fashion,CASH ON DELIVERY,1006.55,50,3,4,1.0,No,Tier 2,1,Unknown,True,503.275,False,Standard Order
+ORD1915,CUST179,Home & Kitchen,CREDIT CARD,1137.04,15,2,2,3.0,Yes,Tier 2,0,On-Time,True,966.484,False,Standard Order
+ORD1916,CUST217,Electronics,UPI,1091.185,20,3,4,5.0,No,Tier 2,1,Unknown,True,872.948,False,Standard Order
+ORD1917,CUST312,Electronics,UPI,1091.185,5,4,4,5.0,No,Tier 2,0,On-Time,True,1036.62575,False,Standard Order
+ORD1918,CUST302,Fashion,CREDIT CARD,1006.55,30,2,2,4.0,No,Tier 3,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1919,CUST328,Home & Kitchen,UPI,1137.04,10,5,5,3.0,No,Tier 2,0,On-Time,True,1023.336,False,Standard Order
+ORD1920,CUST263,Electronics,CREDIT CARD,1091.185,15,2,6,4.0,No,Tier 2,4,Severe Delay,True,927.50725,True,Standard Order
+ORD1921,CUST326,Home & Kitchen,CASH ON DELIVERY,1137.04,30,5,6,3.0,No,Tier 3,1,Unknown,True,795.9279999999999,False,Standard Order
+ORD1922,CUST246,Beauty,DEBIT CARD,1194.18,50,2,2,3.0,Yes,Tier 1,0,On-Time,Same,597.09,False,High-Risk Transaction
+ORD1923,CUST119,Electronics,CREDIT CARD,1091.185,20,4,4,3.0,Yes,Tier 1,0,On-Time,True,872.948,False,Standard Order
+ORD1924,CUST284,Home & Kitchen,UPI,1137.04,5,4,3,2.0,No,Tier 2,-1,Early,True,1080.188,False,Standard Order
+ORD1925,CUST245,Fashion,CREDIT CARD,1006.55,50,2,9,3.0,No,Tier 2,7,Severe Delay,True,503.275,True,Standard Order
+ORD1926,CUST146,Beauty,UPI,1194.18,15,3,4,5.0,Yes,Tier 3,1,Unknown,Same,1015.053,False,Standard Order
+ORD1927,CUST332,Electronics,CASH ON DELIVERY,1091.185,30,4,4,4.0,Yes,Tier 1,0,On-Time,True,763.8294999999999,False,High-Risk Transaction
+ORD1928,CUST148,Home & Kitchen,CASH ON DELIVERY,1137.04,15,5,5,3.0,No,Tier 2,0,On-Time,True,966.484,False,Standard Order
+ORD1929,CUST113,Books,CREDIT CARD,1146.7800000000002,5,5,4,5.0,No,Tier 2,-1,Early,True,1089.441,False,Loyal & Satisfied
+ORD1930,CUST242,Beauty,DEBIT CARD,1194.18,5,6,10,1.0,No,Tier 1,4,Severe Delay,Same,1134.471,True,Standard Order
+ORD1931,CUST258,Home & Kitchen,UPI,1137.04,10,7,7,3.0,Yes,Tier 2,0,On-Time,True,1023.336,False,Standard Order
+ORD1932,CUST100,Fashion,CASH ON DELIVERY,1006.55,20,7,8,4.0,Yes,Tier 3,1,Unknown,True,805.24,False,Standard Order
+ORD1933,CUST216,Home & Kitchen,UPI,1137.04,5,7,7,4.0,No,Tier 1,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1934,CUST153,Beauty,UPI,1194.18,10,5,6,1.0,No,Tier 2,1,Unknown,Same,1074.7620000000002,False,Standard Order
+ORD1935,CUST217,Home & Kitchen,DEBIT CARD,1137.04,5,6,7,3.0,No,Tier 2,1,Unknown,True,1080.188,False,Standard Order
+ORD1936,CUST102,Electronics,CASH ON DELIVERY,1091.185,20,7,8,4.0,No,Tier 1,1,Unknown,True,872.948,False,Standard Order
+ORD1937,CUST243,Beauty,CREDIT CARD,1194.18,10,7,8,4.0,No,Tier 1,1,Unknown,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1938,CUST314,Home & Kitchen,UPI,1137.04,0,2,4,4.0,Yes,Tier 3,2,Unknown,True,1137.04,False,Standard Order
+ORD1939,CUST284,Home & Kitchen,DEBIT CARD,1137.04,0,2,1,3.0,No,Tier 1,-1,Early,True,1137.04,False,Standard Order
+ORD1940,CUST302,Electronics,CASH ON DELIVERY,1091.185,0,2,2,2.0,No,Tier 1,0,On-Time,True,1091.185,False,Standard Order
+ORD1941,CUST111,Home & Kitchen,CASH ON DELIVERY,1137.04,10,3,3,3.0,No,Tier 1,0,On-Time,True,1023.336,False,Standard Order
+ORD1942,CUST173,Fashion,CASH ON DELIVERY,1006.55,0,7,14,2.0,No,Tier 2,7,Severe Delay,True,1006.55,True,Standard Order
+ORD1943,CUST323,Home & Kitchen,CASH ON DELIVERY,1137.04,0,3,3,5.0,No,Tier 2,0,On-Time,True,1137.04,False,Loyal & Satisfied
+ORD1944,CUST115,Electronics,CASH ON DELIVERY,1091.185,30,6,7,4.0,Yes,Tier 2,1,Unknown,True,763.8294999999999,False,High-Risk Transaction
+ORD1945,CUST299,Home & Kitchen,UPI,1137.04,30,5,6,3.0,No,Tier 1,1,Unknown,True,795.9279999999999,False,Standard Order
+ORD1946,CUST201,Beauty,DEBIT CARD,1194.18,10,7,7,4.0,No,Tier 3,0,On-Time,Same,1074.7620000000002,False,Loyal & Satisfied
+ORD1947,CUST303,Electronics,CASH ON DELIVERY,1091.185,50,5,5,4.0,No,Tier 1,0,On-Time,True,545.5925,False,Standard Order
+ORD1948,CUST251,Beauty,UPI,1194.18,0,2,2,3.0,No,Tier 1,0,On-Time,Same,1194.18,False,Standard Order
+ORD1949,CUST255,Fashion,UPI,1006.55,15,7,7,5.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1950,CUST216,Beauty,DEBIT CARD,1194.18,15,4,4,5.0,No,Tier 1,0,On-Time,Same,1015.053,False,Loyal & Satisfied
+ORD1951,CUST107,Books,CREDIT CARD,1146.7800000000002,10,3,2,4.0,No,Tier 3,-1,Early,True,1032.1020000000003,False,Loyal & Satisfied
+ORD1952,CUST221,Home & Kitchen,CREDIT CARD,1137.04,5,3,5,1.0,Yes,Tier 3,2,Unknown,True,1080.188,False,Standard Order
+ORD1953,CUST191,Home & Kitchen,CREDIT CARD,1137.04,10,7,11,4.0,No,Tier 1,4,Severe Delay,True,1023.336,True,Loyal & Satisfied
+ORD1954,CUST263,Beauty,UPI,1194.18,10,2,2,4.0,Yes,Tier 3,0,On-Time,Same,1074.7620000000002,False,Standard Order
+ORD1955,CUST189,Fashion,CREDIT CARD,1006.55,15,3,3,2.0,No,Tier 2,0,On-Time,True,855.5675,False,Standard Order
+ORD1956,CUST235,Fashion,UPI,1006.55,0,2,1,3.0,No,Tier 3,-1,Early,True,1006.55,False,Standard Order
+ORD1957,CUST285,Home & Kitchen,CASH ON DELIVERY,1137.04,0,6,7,5.0,No,Tier 1,1,Unknown,True,1137.04,False,Loyal & Satisfied
+ORD1958,CUST159,Books,UPI,1146.7800000000002,0,5,7,1.0,No,Tier 2,2,Unknown,True,1146.7800000000002,False,Standard Order
+ORD1959,CUST277,Books,DEBIT CARD,1146.7800000000002,5,4,3,4.0,No,Tier 1,-1,Early,True,1089.441,False,Loyal & Satisfied
+ORD1960,CUST127,Books,DEBIT CARD,1146.7800000000002,10,5,5,4.0,Yes,Tier 3,0,On-Time,True,1032.1020000000003,False,Standard Order
+ORD1961,CUST319,Fashion,CASH ON DELIVERY,1006.55,0,5,6,3.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1962,CUST200,Books,UPI,1146.7800000000002,30,6,7,1.0,Yes,Tier 2,1,Unknown,True,802.7460000000001,False,High-Risk Transaction
+ORD1963,CUST140,Electronics,CREDIT CARD,1091.185,5,3,2,5.0,No,Tier 1,-1,Early,True,1036.62575,False,Standard Order
+ORD1964,CUST327,Fashion,CREDIT CARD,1006.55,0,4,5,3.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1965,CUST291,Electronics,UPI,1091.185,15,3,3,4.0,No,Tier 2,0,On-Time,True,927.50725,False,Standard Order
+ORD1966,CUST254,Fashion,UPI,1006.55,0,7,7,4.0,No,Tier 3,0,On-Time,True,1006.55,False,Standard Order
+ORD1967,CUST345,Fashion,CREDIT CARD,1006.55,15,5,6,4.0,Yes,Tier 2,1,Unknown,True,855.5675,False,Standard Order
+ORD1968,CUST290,Fashion,DEBIT CARD,1006.55,15,7,9,4.0,Yes,Tier 3,2,Unknown,True,855.5675,False,Standard Order
+ORD1969,CUST244,Home & Kitchen,DEBIT CARD,1137.04,5,2,2,4.0,No,Tier 1,0,On-Time,True,1080.188,False,Loyal & Satisfied
+ORD1970,CUST300,Fashion,UPI,1006.55,0,5,9,3.0,No,Tier 2,4,Severe Delay,True,1006.55,True,Standard Order
+ORD1971,CUST260,Fashion,CASH ON DELIVERY,1006.55,5,3,3,4.0,Yes,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1972,CUST344,Electronics,CREDIT CARD,1091.185,0,5,6,4.0,No,Tier 1,1,Unknown,True,1091.185,False,Standard Order
+ORD1973,CUST311,Fashion,UPI,1006.55,0,2,2,3.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1974,CUST304,Electronics,UPI,1091.185,5,6,8,2.0,Yes,Tier 2,2,Unknown,True,1036.62575,False,Standard Order
+ORD1975,CUST319,Electronics,CREDIT CARD,1091.185,5,7,11,5.0,No,Tier 2,4,Severe Delay,True,1036.62575,True,Standard Order
+ORD1976,CUST339,Home & Kitchen,CREDIT CARD,1137.04,10,7,6,3.0,Yes,Tier 2,-1,Early,True,1023.336,False,Standard Order
+ORD1977,CUST256,Home & Kitchen,DEBIT CARD,1137.04,15,3,7,4.0,No,Tier 2,4,Severe Delay,True,966.484,True,Loyal & Satisfied
+ORD1978,CUST240,Home & Kitchen,CASH ON DELIVERY,1137.04,10,5,7,4.0,No,Tier 1,2,Unknown,True,1023.336,False,Loyal & Satisfied
+ORD1979,CUST145,Fashion,CASH ON DELIVERY,1006.55,0,3,4,2.0,No,Tier 1,1,Unknown,True,1006.55,False,Standard Order
+ORD1980,CUST134,Fashion,CREDIT CARD,1006.55,0,6,6,4.0,No,Tier 2,0,On-Time,True,1006.55,False,Standard Order
+ORD1981,CUST233,Beauty,UPI,1194.18,30,5,7,1.0,Yes,Tier 1,2,Unknown,Same,835.926,False,High-Risk Transaction
+ORD1982,CUST181,Fashion,UPI,1006.55,10,5,7,3.0,No,Tier 1,2,Unknown,True,905.895,False,Standard Order
+ORD1983,CUST214,Fashion,UPI,1006.55,30,3,3,4.0,No,Tier 1,0,On-Time,True,704.5849999999999,False,Standard Order
+ORD1984,CUST296,Electronics,CREDIT CARD,1091.185,5,3,7,3.0,Yes,Tier 2,4,Severe Delay,True,1036.62575,True,Standard Order
+ORD1985,CUST146,Fashion,UPI,1006.55,15,2,1,4.0,No,Tier 1,-1,Early,True,855.5675,False,Standard Order
+ORD1986,CUST252,Fashion,DEBIT CARD,1006.55,10,6,5,5.0,No,Tier 2,-1,Early,True,905.895,False,Standard Order
+ORD1987,CUST293,Fashion,CREDIT CARD,1006.55,5,2,2,4.0,No,Tier 2,0,On-Time,True,956.2225,False,Standard Order
+ORD1988,CUST109,Home & Kitchen,CREDIT CARD,1137.04,10,7,7,1.0,No,Tier 1,0,On-Time,True,1023.336,False,Standard Order
+ORD1989,CUST155,Fashion,UPI,1006.55,10,5,6,2.0,No,Tier 2,1,Unknown,True,905.895,False,Standard Order
+ORD1990,CUST129,Home & Kitchen,CREDIT CARD,1137.04,5,3,2,4.0,No,Tier 2,-1,Early,True,1080.188,False,Loyal & Satisfied
+ORD1991,CUST341,Books,CREDIT CARD,1146.7800000000002,5,5,9,5.0,No,Tier 2,4,Severe Delay,True,1089.441,True,Loyal & Satisfied
+ORD1992,CUST208,Books,CREDIT CARD,1146.7800000000002,20,5,4,5.0,No,Tier 2,-1,Early,True,917.4240000000002,False,Loyal & Satisfied
+ORD1993,CUST104,Home & Kitchen,UPI,1137.04,30,4,3,5.0,No,Tier 1,-1,Early,True,795.9279999999999,False,Loyal & Satisfied
+ORD1994,CUST218,Beauty,DEBIT CARD,1194.18,5,7,6,3.0,No,Tier 2,-1,Early,Same,1134.471,False,Standard Order
+ORD1995,CUST347,Electronics,DEBIT CARD,1091.185,5,4,4,3.0,No,Tier 1,0,On-Time,True,1036.62575,False,Standard Order
+ORD1996,CUST132,Electronics,CREDIT CARD,1091.185,0,5,9,4.0,No,Tier 3,4,Severe Delay,True,1091.185,True,Standard Order
+ORD1997,CUST217,Electronics,UPI,1091.185,15,3,4,2.0,No,Tier 3,1,Unknown,True,927.50725,False,Standard Order
+ORD1998,CUST164,Home & Kitchen,DEBIT CARD,1137.04,5,5,7,1.0,No,Tier 2,2,Unknown,True,1080.188,False,Standard Order
+ORD1999,CUST245,Beauty,DEBIT CARD,1194.18,50,7,6,5.0,No,Tier 1,-1,Early,Same,597.09,False,Loyal & Satisfied
+ORD1009,CUST221,Fashion,UPI,1006.55,10,7,7,4.0,Yes,Tier 2,0,On-Time,True,905.895,False,Standard Order

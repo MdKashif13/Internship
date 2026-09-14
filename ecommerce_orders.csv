@@ -1,0 +1,1016 @@
+Order_ID,Customer_ID,Category,Payment_Method,Order_Value,Discount_Percent,Est_Delivery_Days,Actual_Delivery_Days,Customer_Rating,Returned,City_Tier
+ORD1000,CUST202,Beauty,Credit Card,918.71,20,3,3,4.0,No,Tier 1
+ORD1001,CUST279,Electronics,Cash on Delivery,3381.32,20,6,6,4.0,No,Tier 1
+ORD1002,CUST192,Home & Kitchen,Debit Card,416.68,5,7,8,4.0,Yes,Tier 1
+ORD1003,CUST114,Fashion,Debit Card,792.9,15,7,6,1.0,No,Tier 1
+ORD1004,CUST206,Beauty,Cash on Delivery,1770.58,0,5,7,4.0,No,Tier 1
+ORD1005,CUST171,Books,upi,2767.12,0,7,6,4.0,No,Tier 1
+ORD1006,CUST288,Books,upi,1533.83,0,4,4,4.0,No,Tier 2
+ORD1007,CUST120,Fashion,Debit Card,558.37,10,6,8,4.0,No,Tier 3
+ORD1008,CUST202,Fashion,UPI,1547.27,10,3,3,2.0,No,Tier 1
+ORD1009,CUST221,Fashion,upi,622.41,10,7,7,4.0,Yes,Tier 2
+ORD1010,CUST310,Electronics,Cash on Delivery,1720.85,10,6,6,2.0,No,Tier 2
+ORD1011,CUST314,Beauty,upi,3895.8,5,7,9,5.0,No,Tier 1
+ORD1012,CUST174,Books,Cash on Delivery,1733.55,15,2,2,4.0,No,Tier 3
+ORD1013,CUST302,Beauty,Debit Card,2584.28,20,3,5,2.0,No,Tier 2
+ORD1014,CUST187,Beauty,upi,202.53,0,2,1,,No,Tier 1
+ORD1015,CUST216,Home & Kitchen,Cash on Delivery,1717.2,5,3,4,4.0,No,Tier 2
+ORD1016,CUST199,Books,Debit Card,2323.44,15,6,8,1.0,Yes,Tier 1
+ORD1017,CUST203,Beauty,UPI,249.69,5,5,5,4.0,No,Tier 2
+ORD1018,CUST251,Books,Cash on Delivery,2663.1,15,7,7,3.0,No,Tier 1
+ORD1019,CUST230,Electronics,UPI,555.98,5,7,7,5.0,No,Tier 3
+ORD1020,CUST249,Fashion,UPI,1513.4,5,4,5,5.0,No,Tier 1
+ORD1021,CUST152,Electronics,Credit Card,2133.46,0,2,2,,No,Tier 2
+ORD1022,CUST101,Beauty,upi,1504.01,5,7,8,4.0,No,Tier 1
+ORD1023,CUST187,Home & Kitchen,Cash on Delivery,316.19,15,6,6,4.0,No,Tier 2
+ORD1024,CUST335,Electronics,UPI,1288.56,10,5,5,4.0,No,Tier 2
+ORD1025,CUST257,Home & Kitchen,Credit Card,1157.1,20,6,5,2.0,No,Tier 2
+ORD1026,CUST137,Home & Kitchen,Debit Card,2966.96,30,2,2,4.0,Yes,Tier 2
+ORD1027,CUST229,Fashion,Cash on Delivery,821.5,10,4,4,4.0,No,Tier 2
+ORD1028,CUST291,Electronics,UPI,664.7,20,7,9,2.0,No,Tier 3
+ORD1029,CUST287,Home & Kitchen,upi,1862.84,5,6,7,3.0,No,Tier 2
+ORD1030,CUST120,Fashion,Credit Card,838.61,10,3,3,5.0,No,Tier 3
+ORD1031,CUST260,Books,UPI,1446.48,15,5,9,5.0,No,Tier 3
+ORD1032,CUST303,Fashion,upi,1447.68,5,6,7,2.0,No,Tier 1
+ORD1033,CUST157,Beauty,UPI,2827.53,10,5,9,2.0,No,Tier 1
+ORD1034,CUST121,Home & Kitchen,Cash on Delivery,1295.63,0,7,7,3.0,No,Tier 1
+ORD1035,CUST335,Home & Kitchen,Cash on Delivery,1036.96,10,3,3,5.0,Yes,Tier 3
+ORD1036,CUST188,Beauty,Cash on Delivery,379.41,30,4,3,2.0,No,Tier 1
+ORD1037,CUST148,Fashion,Credit Card,347.6,30,4,5,4.0,No,Tier 2
+ORD1038,CUST318,Electronics,Cash on Delivery,401.14,15,3,2,2.0,Yes,Tier 3
+ORD1039,CUST158,Electronics,upi,426.27,15,5,5,4.0,No,Tier 1
+ORD1040,CUST269,Books,UPI,1418.93,10,7,7,3.0,No,Tier 2
+ORD1041,CUST319,Home & Kitchen,Debit Card,1821.03,10,6,6,4.0,No,Tier 1
+ORD1042,CUST287,Home & Kitchen,upi,1106.01,0,3,4,3.0,No,Tier 1
+ORD1043,CUST307,Electronics,upi,2319.43,10,2,2,4.0,No,Tier 2
+ORD1044,CUST114,Electronics,Cash on Delivery,5888.26,10,5,5,3.0,No,Tier 1
+ORD1045,CUST289,Electronics,Credit Card,2257.84,50,4,5,4.0,No,Tier 1
+ORD1046,CUST289,Fashion,UPI,1624.47,10,3,7,5.0,No,Tier 3
+ORD1047,CUST274,Home & Kitchen,Credit Card,1112.41,10,4,5,2.0,No,Tier 1
+ORD1048,CUST289,Fashion,UPI,914.9,10,5,9,5.0,No,Tier 3
+ORD1049,CUST150,Fashion,UPI,305.8,15,4,5,4.0,No,Tier 3
+ORD1050,CUST207,Beauty,Credit Card,811.73,15,3,3,2.0,No,Tier 1
+ORD1051,CUST154,Fashion,upi,3091.33,5,5,5,3.0,No,Tier 1
+ORD1052,CUST343,Fashion,UPI,2180.45,10,2,3,2.0,Yes,Tier 2
+ORD1053,CUST163,Books,Credit Card,492.09,20,3,4,4.0,No,Tier 2
+ORD1054,CUST348,Fashion,UPI,954.2,10,6,7,4.0,No,Tier 1
+ORD1055,CUST230,Home & Kitchen,Debit Card,2236.11,5,7,7,2.0,No,Tier 2
+ORD1056,CUST328,Beauty,upi,283.71,15,3,3,4.0,Yes,Tier 1
+ORD1057,CUST150,Beauty,Cash on Delivery,,20,5,5,5.0,No,Tier 3
+ORD1058,CUST234,Electronics,UPI,2491.37,0,7,7,5.0,No,Tier 1
+ORD1059,CUST120,Beauty,Debit Card,820.81,20,3,3,4.0,No,Tier 1
+ORD1060,CUST172,Fashion,Cash on Delivery,296.95,20,2,4,,No,Tier 1
+ORD1061,CUST266,Fashion,Cash on Delivery,1138.46,10,2,2,4.0,No,Tier 3
+ORD1062,CUST117,Fashion,UPI,2574.36,50,6,5,3.0,No,Tier 2
+ORD1063,CUST231,Beauty,Credit Card,1270.75,20,4,4,5.0,No,Tier 3
+ORD1064,CUST188,Fashion,UPI,507.85,20,7,8,4.0,Yes,Tier 1
+ORD1065,CUST159,Fashion,Debit Card,781.88,15,5,5,4.0,No,Tier 1
+ORD1066,CUST113,Home & Kitchen,Cash on Delivery,917.67,0,5,5,4.0,No,Tier 1
+ORD1067,CUST341,Electronics,UPI,1238.91,5,4,4,5.0,No,Tier 2
+ORD1068,CUST349,Electronics,Credit Card,1909.3,10,2,2,5.0,No,Tier 2
+ORD1069,CUST108,Electronics,UPI,324.93,5,2,6,3.0,No,Tier 2
+ORD1070,CUST189,Electronics,upi,2844.94,10,3,7,3.0,No,Tier 1
+ORD1071,CUST152,Electronics,Credit Card,214.86,30,6,6,4.0,No,Tier 3
+ORD1072,CUST229,Electronics,Debit Card,754.54,20,7,7,4.0,No,Tier 1
+ORD1073,CUST183,Home & Kitchen,Cash on Delivery,233.36,15,6,7,3.0,Yes,Tier 3
+ORD1074,CUST191,Electronics,UPI,799.02,30,6,5,4.0,No,Tier 1
+ORD1075,CUST210,Fashion,Credit Card,1095.38,20,3,3,4.0,Yes,Tier 2
+ORD1076,CUST287,Beauty,upi,1060.14,10,6,6,3.0,No,Tier 1
+ORD1077,CUST298,Fashion,Credit Card,417.29,5,4,8,2.0,Yes,Tier 1
+ORD1078,CUST271,Home & Kitchen,upi,1445.27,10,3,2,3.0,No,Tier 2
+ORD1079,CUST107,Electronics,Debit Card,254.97,15,4,4,5.0,No,Tier 1
+ORD1080,CUST274,Electronics,Cash on Delivery,1922.11,10,3,4,3.0,No,Tier 1
+ORD1081,CUST134,Electronics,Debit Card,3716.93,15,6,6,2.0,No,Tier 2
+ORD1082,CUST305,Electronics,UPI,698.2,0,4,3,4.0,Yes,Tier 2
+ORD1083,CUST180,Fashion,Credit Card,1073.88,15,4,11,3.0,No,Tier 3
+ORD1084,CUST263,Electronics,upi,771.54,20,4,4,1.0,No,Tier 1
+ORD1085,CUST149,Electronics,upi,208.08,15,3,4,3.0,No,Tier 2
+ORD1086,CUST203,Electronics,Credit Card,785.07,50,5,5,4.0,No,Tier 2
+ORD1087,CUST231,Fashion,Credit Card,2082.65,20,6,6,4.0,No,Tier 1
+ORD1088,CUST101,Electronics,UPI,1287.58,30,4,4,3.0,No,Tier 2
+ORD1089,CUST233,Fashion,Debit Card,328.11,30,7,6,3.0,No,Tier 1
+ORD1090,CUST153,Fashion,upi,2453.88,20,5,4,,No,Tier 1
+ORD1091,CUST205,Home & Kitchen,UPI,1108.8,15,7,9,3.0,No,Tier 1
+ORD1092,CUST103,Electronics,Debit Card,2412.09,0,6,6,3.0,No,Tier 1
+ORD1093,CUST153,Books,UPI,1241.63,10,6,6,3.0,No,Tier 2
+ORD1094,CUST320,Home & Kitchen,upi,1184.33,10,4,4,4.0,Yes,Tier 2
+ORD1095,CUST290,Electronics,Credit Card,333.47,5,4,5,4.0,No,Tier 3
+ORD1096,CUST245,Beauty,Credit Card,419.78,5,3,2,3.0,No,Tier 2
+ORD1097,CUST317,Beauty,Debit Card,4491.74,50,5,5,4.0,No,Tier 1
+ORD1098,CUST143,Electronics,Cash on Delivery,511.28,30,5,4,1.0,Yes,Tier 3
+ORD1099,CUST261,Fashion,Debit Card,4750.54,20,4,3,3.0,Yes,Tier 3
+ORD1100,CUST301,Books,Cash on Delivery,1110.92,10,6,5,4.0,No,Tier 1
+ORD1101,CUST289,Home & Kitchen,UPI,375.13,0,4,6,3.0,No,Tier 2
+ORD1102,CUST327,Electronics,UPI,325.5,0,6,5,4.0,Yes,Tier 3
+ORD1103,CUST113,Electronics,upi,481.14,5,6,5,3.0,No,Tier 2
+ORD1104,CUST194,Fashion,Cash on Delivery,3318.56,0,4,4,4.0,No,Tier 3
+ORD1105,CUST147,Fashion,upi,841.63,0,2,4,1.0,No,Tier 1
+ORD1106,CUST114,Home & Kitchen,Credit Card,803.89,30,5,5,5.0,Yes,Tier 1
+ORD1107,CUST299,Fashion,Cash on Delivery,650.87,15,7,7,2.0,No,Tier 1
+ORD1108,CUST305,Fashion,Debit Card,390.88,5,6,5,5.0,No,Tier 2
+ORD1109,CUST314,Home & Kitchen,Credit Card,1002.97,0,6,6,3.0,Yes,Tier 3
+ORD1110,CUST348,Electronics,Credit Card,367.18,10,2,2,4.0,No,Tier 3
+ORD1111,CUST289,Fashion,Debit Card,2365.67,0,7,7,3.0,No,Tier 1
+ORD1112,CUST139,Home & Kitchen,Credit Card,755.2,30,3,3,5.0,No,Tier 1
+ORD1113,CUST312,Beauty,Cash on Delivery,763.63,10,2,2,2.0,No,Tier 3
+ORD1114,CUST307,Fashion,upi,970.96,10,7,6,2.0,Yes,Tier 2
+ORD1115,CUST336,Fashion,Credit Card,904.66,5,2,2,4.0,Yes,Tier 1
+ORD1116,CUST181,Electronics,Cash on Delivery,6524.37,0,6,5,2.0,No,Tier 2
+ORD1117,CUST210,Fashion,UPI,1145.96,15,5,6,2.0,No,Tier 2
+ORD1118,CUST152,Fashion,Cash on Delivery,310.8,15,2,6,5.0,No,Tier 2
+ORD1119,CUST123,Electronics,upi,1320.36,15,3,10,,No,Tier 2
+ORD1120,CUST253,Fashion,Cash on Delivery,397.26,0,4,6,3.0,No,Tier 1
+ORD1121,CUST316,Fashion,Debit Card,237.71,10,7,8,5.0,No,Tier 3
+ORD1122,CUST287,Electronics,upi,4437.93,10,2,3,4.0,No,Tier 2
+ORD1123,CUST223,Fashion,UPI,1982.22,30,2,2,3.0,No,Tier 1
+ORD1124,CUST336,Electronics,Debit Card,4900.99,5,3,4,4.0,No,Tier 1
+ORD1125,CUST140,Fashion,Cash on Delivery,979.83,5,5,5,4.0,No,Tier 2
+ORD1126,CUST256,Electronics,upi,1111.8,15,2,2,,Yes,Tier 1
+ORD1127,CUST114,Beauty,UPI,421.19,15,2,3,3.0,No,Tier 1
+ORD1128,CUST144,Home & Kitchen,Debit Card,540.28,10,5,5,4.0,No,Tier 2
+ORD1129,CUST164,Home & Kitchen,UPI,2388.27,10,3,3,1.0,No,Tier 1
+ORD1130,CUST188,Books,Cash on Delivery,728.41,10,7,11,2.0,Yes,Tier 2
+ORD1131,CUST170,Fashion,UPI,,30,7,6,1.0,No,Tier 1
+ORD1132,CUST108,Electronics,Credit Card,1681.38,10,2,2,,No,Tier 2
+ORD1133,CUST187,Fashion,Debit Card,434.01,30,5,9,5.0,No,Tier 1
+ORD1134,CUST228,Home & Kitchen,UPI,1049.78,10,2,3,4.0,No,Tier 1
+ORD1135,CUST335,Home & Kitchen,Cash on Delivery,1557.56,30,4,4,4.0,Yes,Tier 1
+ORD1136,CUST235,Fashion,Cash on Delivery,521.51,20,7,7,3.0,No,Tier 3
+ORD1137,CUST315,Electronics,UPI,2331.22,5,6,6,2.0,No,Tier 3
+ORD1138,CUST162,Fashion,Cash on Delivery,1144.49,30,4,6,3.0,No,Tier 1
+ORD1139,CUST238,Fashion,upi,416.74,0,2,2,3.0,No,Tier 2
+ORD1140,CUST342,Home & Kitchen,upi,1249.56,30,3,3,4.0,No,Tier 2
+ORD1141,CUST180,Home & Kitchen,upi,9990.6,15,7,6,4.0,No,Tier 3
+ORD1142,CUST235,Fashion,Credit Card,395.76,0,6,5,1.0,Yes,Tier 1
+ORD1143,CUST262,Beauty,UPI,2236.33,15,4,8,1.0,No,Tier 2
+ORD1144,CUST262,Home & Kitchen,Credit Card,478.79,50,7,7,2.0,No,Tier 1
+ORD1145,CUST132,Electronics,Cash on Delivery,2030.05,0,5,6,3.0,No,Tier 1
+ORD1146,CUST222,Electronics,Credit Card,1791.72,10,3,2,5.0,No,Tier 3
+ORD1147,CUST104,Electronics,Cash on Delivery,628.85,15,4,5,4.0,No,Tier 2
+ORD1148,CUST333,Electronics,Cash on Delivery,673.12,20,5,9,5.0,Yes,Tier 1
+ORD1149,CUST330,Electronics,Debit Card,2087.27,10,2,2,4.0,No,Tier 1
+ORD1150,CUST349,Electronics,upi,942.64,5,5,4,3.0,Yes,Tier 2
+ORD1151,CUST140,Fashion,Cash on Delivery,1774.84,0,4,4,2.0,No,Tier 2
+ORD1152,CUST127,Electronics,Debit Card,392.18,10,4,5,5.0,No,Tier 1
+ORD1153,CUST234,Beauty,upi,2497.18,10,2,2,4.0,No,Tier 3
+ORD1154,CUST300,Electronics,Cash on Delivery,1689.12,30,5,7,2.0,No,Tier 1
+ORD1155,CUST171,Fashion,Cash on Delivery,3049.45,0,5,6,4.0,No,Tier 1
+ORD1156,CUST111,Fashion,Credit Card,370.39,15,2,4,4.0,No,Tier 3
+ORD1157,CUST261,Beauty,Credit Card,1278.77,0,5,6,4.0,No,Tier 1
+ORD1158,CUST132,Electronics,upi,1296.91,0,7,6,5.0,No,Tier 1
+ORD1159,CUST147,Fashion,Cash on Delivery,723.35,10,2,2,4.0,No,Tier 2
+ORD1160,CUST346,Beauty,UPI,936.02,10,3,3,4.0,Yes,Tier 3
+ORD1161,CUST250,Beauty,Credit Card,246.47,15,4,8,1.0,No,Tier 1
+ORD1162,CUST161,Books,upi,1843.84,30,3,4,1.0,No,Tier 3
+ORD1163,CUST315,Fashion,Cash on Delivery,1156.4,15,7,8,2.0,No,Tier 2
+ORD1164,CUST136,Electronics,Cash on Delivery,271.37,50,7,7,1.0,No,Tier 1
+ORD1165,CUST198,Home & Kitchen,UPI,1570.16,30,6,6,4.0,No,Tier 2
+ORD1166,CUST271,Beauty,upi,954.59,10,6,7,4.0,No,Tier 1
+ORD1167,CUST203,Home & Kitchen,Cash on Delivery,,20,6,6,2.0,No,Tier 1
+ORD1168,CUST313,Home & Kitchen,Credit Card,4392.28,15,2,2,5.0,No,Tier 2
+ORD1169,CUST318,Fashion,UPI,3773.76,0,5,6,2.0,No,Tier 3
+ORD1170,CUST134,Books,upi,1063.15,15,7,6,3.0,No,Tier 1
+ORD1171,CUST292,Electronics,UPI,318.03,0,3,3,3.0,No,Tier 1
+ORD1172,CUST326,Fashion,Credit Card,1885.94,10,3,3,3.0,No,Tier 2
+ORD1173,CUST200,Fashion,upi,1012.57,15,3,2,3.0,No,Tier 1
+ORD1174,CUST274,Fashion,UPI,632.21,0,3,10,4.0,Yes,Tier 1
+ORD1175,CUST305,Electronics,Debit Card,1011.36,5,6,6,3.0,No,Tier 1
+ORD1176,CUST230,Electronics,Credit Card,1086.89,30,3,2,,No,Tier 2
+ORD1177,CUST100,Home & Kitchen,Credit Card,1192.6,15,5,5,1.0,No,Tier 1
+ORD1178,CUST104,Fashion,Credit Card,898.41,5,6,7,2.0,No,Tier 1
+ORD1179,CUST317,Home & Kitchen,Debit Card,,15,3,3,1.0,No,Tier 3
+ORD1180,CUST346,Electronics,Debit Card,3212.04,10,2,2,4.0,No,Tier 3
+ORD1181,CUST241,Fashion,Cash on Delivery,739.8,10,4,3,1.0,No,Tier 2
+ORD1182,CUST202,Fashion,UPI,1752.31,50,4,3,5.0,No,Tier 1
+ORD1183,CUST126,Electronics,Cash on Delivery,2898.31,15,4,4,4.0,Yes,Tier 2
+ORD1184,CUST236,Fashion,UPI,930.52,5,6,8,4.0,No,Tier 1
+ORD1185,CUST306,Electronics,Debit Card,903.21,20,3,5,4.0,No,Tier 1
+ORD1186,CUST114,Electronics,Debit Card,1305.92,30,7,6,2.0,No,Tier 2
+ORD1187,CUST189,Beauty,Cash on Delivery,1274.04,0,7,7,2.0,No,Tier 1
+ORD1188,CUST141,Fashion,upi,2171.53,5,7,11,3.0,No,Tier 1
+ORD1189,CUST223,Books,Cash on Delivery,976.62,5,6,6,4.0,No,Tier 1
+ORD1190,CUST304,Fashion,UPI,6863.22,15,5,7,3.0,No,Tier 1
+ORD1191,CUST278,Home & Kitchen,Cash on Delivery,273.58,15,2,1,2.0,No,Tier 1
+ORD1192,CUST162,Books,Credit Card,203.81,15,2,6,,No,Tier 3
+ORD1193,CUST195,Home & Kitchen,UPI,1426.64,30,4,5,1.0,No,Tier 1
+ORD1194,CUST330,Fashion,UPI,625.33,20,4,8,5.0,No,Tier 1
+ORD1195,CUST340,Fashion,upi,529.93,0,7,8,4.0,No,Tier 1
+ORD1196,CUST151,Fashion,Debit Card,648.58,5,7,7,3.0,No,Tier 3
+ORD1197,CUST195,Beauty,UPI,554.93,10,4,8,2.0,No,Tier 2
+ORD1198,CUST231,Books,Debit Card,237.53,5,3,3,2.0,No,Tier 1
+ORD1199,CUST321,Beauty,Cash on Delivery,4470.81,15,5,5,4.0,No,Tier 3
+ORD1200,CUST328,Electronics,Credit Card,499.3,30,5,6,4.0,No,Tier 1
+ORD1201,CUST250,Home & Kitchen,upi,1789.25,5,5,6,4.0,No,Tier 1
+ORD1202,CUST330,Beauty,Debit Card,1925.59,10,5,9,5.0,Yes,Tier 1
+ORD1203,CUST336,Electronics,UPI,3378.45,20,4,4,4.0,No,Tier 1
+ORD1204,CUST242,Electronics,Debit Card,237.23,10,2,3,2.0,No,Tier 1
+ORD1205,CUST270,Home & Kitchen,UPI,2667.32,0,4,5,3.0,Yes,Tier 2
+ORD1206,CUST128,Home & Kitchen,Debit Card,1098.97,10,5,4,5.0,No,Tier 1
+ORD1207,CUST135,Books,UPI,1401.38,0,4,4,3.0,No,Tier 2
+ORD1208,CUST112,Electronics,Cash on Delivery,1440.98,30,5,5,1.0,No,Tier 1
+ORD1209,CUST259,Books,UPI,2256.41,0,6,6,4.0,No,Tier 1
+ORD1210,CUST170,Electronics,UPI,686.69,10,7,14,3.0,Yes,Tier 1
+ORD1211,CUST286,Electronics,Credit Card,1784.84,10,2,3,5.0,No,Tier 3
+ORD1212,CUST342,Electronics,UPI,1102.4,50,6,7,4.0,Yes,Tier 1
+ORD1213,CUST185,Books,Credit Card,2092.33,0,3,10,2.0,No,Tier 2
+ORD1214,CUST127,Home & Kitchen,upi,5793.58,0,4,4,5.0,No,Tier 1
+ORD1215,CUST165,Fashion,Credit Card,468.75,0,3,5,3.0,No,Tier 1
+ORD1216,CUST269,Fashion,Cash on Delivery,6476.49,0,4,4,3.0,No,Tier 1
+ORD1217,CUST144,Beauty,Credit Card,312.93,5,7,9,3.0,No,Tier 1
+ORD1218,CUST161,Fashion,upi,202.78,15,6,6,1.0,No,Tier 1
+ORD1219,CUST284,Books,Cash on Delivery,254.2,5,7,11,4.0,No,Tier 1
+ORD1220,CUST344,Fashion,Debit Card,701.86,0,5,5,2.0,Yes,Tier 2
+ORD1221,CUST233,Fashion,Debit Card,1402.57,20,7,7,3.0,No,Tier 1
+ORD1222,CUST127,Fashion,Credit Card,285.83,5,7,8,3.0,No,Tier 2
+ORD1223,CUST127,Fashion,Credit Card,206.82,5,5,5,4.0,Yes,Tier 1
+ORD1224,CUST207,Home & Kitchen,upi,3519.28,5,4,5,5.0,No,Tier 2
+ORD1225,CUST143,Fashion,upi,2270.67,50,5,5,2.0,No,Tier 2
+ORD1226,CUST183,Electronics,UPI,2187.73,0,6,7,3.0,No,Tier 1
+ORD1227,CUST129,Beauty,upi,2789.4,30,7,7,3.0,No,Tier 1
+ORD1228,CUST289,Fashion,UPI,1644.9,20,5,4,2.0,No,Tier 2
+ORD1229,CUST174,Fashion,Cash on Delivery,332.32,0,7,7,4.0,No,Tier 3
+ORD1230,CUST227,Beauty,Credit Card,811.19,50,6,6,4.0,No,Tier 1
+ORD1231,CUST349,Home & Kitchen,Cash on Delivery,1741.13,5,3,3,2.0,Yes,Tier 1
+ORD1232,CUST346,Electronics,upi,594.76,0,6,6,3.0,No,Tier 3
+ORD1233,CUST191,Beauty,Cash on Delivery,1595.42,20,2,2,2.0,No,Tier 1
+ORD1234,CUST316,Home & Kitchen,Cash on Delivery,229.76,15,2,1,4.0,No,Tier 2
+ORD1235,CUST330,Fashion,Cash on Delivery,638.58,15,2,2,2.0,No,Tier 1
+ORD1236,CUST289,Electronics,upi,1155.89,0,7,9,,Yes,Tier 1
+ORD1237,CUST324,Books,Cash on Delivery,1399.9,10,4,4,4.0,No,Tier 2
+ORD1238,CUST228,Home & Kitchen,UPI,1232.58,20,4,4,3.0,No,Tier 2
+ORD1239,CUST220,Fashion,upi,1635.83,5,4,5,4.0,Yes,Tier 1
+ORD1240,CUST126,Beauty,Cash on Delivery,207.33,5,7,7,5.0,No,Tier 2
+ORD1241,CUST289,Books,upi,327.69,0,6,7,4.0,Yes,Tier 2
+ORD1242,CUST220,Electronics,Debit Card,2638.56,0,4,4,2.0,No,Tier 2
+ORD1243,CUST215,Fashion,UPI,1573.9,30,3,3,3.0,No,Tier 1
+ORD1244,CUST304,Electronics,Cash on Delivery,343.8,10,2,1,5.0,No,Tier 2
+ORD1245,CUST332,Home & Kitchen,Debit Card,2414.76,50,6,7,4.0,No,Tier 2
+ORD1246,CUST102,Electronics,Debit Card,532.85,5,2,3,4.0,No,Tier 2
+ORD1247,CUST202,Home & Kitchen,upi,980.7,15,4,3,5.0,No,Tier 2
+ORD1248,CUST297,Books,Debit Card,388.26,5,6,6,5.0,No,Tier 1
+ORD1249,CUST299,Beauty,UPI,1685.9,5,5,12,5.0,No,Tier 2
+ORD1250,CUST254,Fashion,UPI,1519.01,0,3,3,2.0,No,Tier 2
+ORD1251,CUST236,Books,Credit Card,484.56,5,4,4,4.0,Yes,Tier 1
+ORD1252,CUST161,Electronics,UPI,2588.84,10,4,8,4.0,No,Tier 1
+ORD1253,CUST264,Books,Debit Card,815.61,50,3,4,4.0,No,Tier 1
+ORD1254,CUST324,Electronics,UPI,615.25,15,3,3,4.0,Yes,Tier 2
+ORD1255,CUST150,Fashion,upi,398.32,0,5,6,2.0,No,Tier 1
+ORD1256,CUST333,Books,Credit Card,571.37,0,4,6,4.0,No,Tier 2
+ORD1257,CUST271,Electronics,Debit Card,226.73,0,7,7,4.0,Yes,Tier 3
+ORD1258,CUST251,Electronics,Credit Card,1250.34,10,4,4,2.0,No,Tier 2
+ORD1259,CUST306,Home & Kitchen,Debit Card,2415.95,20,2,2,4.0,No,Tier 3
+ORD1260,CUST158,Home & Kitchen,upi,1155.49,30,6,10,2.0,No,Tier 3
+ORD1261,CUST217,Home & Kitchen,Credit Card,497.04,0,6,7,3.0,No,Tier 1
+ORD1262,CUST259,Home & Kitchen,Cash on Delivery,241.1,10,2,1,1.0,No,Tier 2
+ORD1263,CUST195,Fashion,Debit Card,489.92,10,6,8,3.0,No,Tier 1
+ORD1264,CUST315,Fashion,Cash on Delivery,845.67,15,3,3,4.0,No,Tier 3
+ORD1265,CUST332,Fashion,Credit Card,1910.6,10,6,5,4.0,Yes,Tier 1
+ORD1266,CUST279,Electronics,Cash on Delivery,449.67,15,6,6,4.0,Yes,Tier 3
+ORD1267,CUST212,Beauty,Cash on Delivery,1726.67,15,2,2,5.0,No,Tier 2
+ORD1268,CUST161,Home & Kitchen,Credit Card,2620.29,0,5,7,3.0,No,Tier 2
+ORD1269,CUST340,Fashion,upi,926.05,20,6,6,2.0,No,Tier 1
+ORD1270,CUST285,Fashion,Cash on Delivery,2267.34,0,7,9,5.0,No,Tier 1
+ORD1271,CUST151,Beauty,Cash on Delivery,1170.69,15,6,6,2.0,No,Tier 2
+ORD1272,CUST111,Electronics,upi,1416.32,10,5,4,,Yes,Tier 1
+ORD1273,CUST138,Home & Kitchen,Cash on Delivery,1096.56,10,2,9,5.0,No,Tier 3
+ORD1274,CUST229,Fashion,Cash on Delivery,946.49,30,5,5,4.0,Yes,Tier 1
+ORD1275,CUST230,Home & Kitchen,Cash on Delivery,520.91,30,2,2,,No,Tier 2
+ORD1276,CUST212,Electronics,UPI,633.5,20,3,3,2.0,No,Tier 1
+ORD1277,CUST200,Beauty,upi,610.94,10,2,4,3.0,No,Tier 2
+ORD1278,CUST212,Beauty,Cash on Delivery,1194.18,15,3,3,4.0,No,Tier 2
+ORD1279,CUST283,Home & Kitchen,upi,353.34,10,3,3,3.0,No,Tier 1
+ORD1280,CUST180,Home & Kitchen,Debit Card,3183.69,30,2,1,5.0,No,Tier 1
+ORD1281,CUST286,Beauty,Debit Card,1730.37,10,7,7,1.0,No,Tier 1
+ORD1282,CUST212,Home & Kitchen,Cash on Delivery,815.89,50,4,5,4.0,Yes,Tier 2
+ORD1283,CUST101,Electronics,upi,407.26,30,2,2,4.0,No,Tier 2
+ORD1284,CUST229,Home & Kitchen,upi,2764.41,15,6,6,4.0,No,Tier 2
+ORD1285,CUST319,Home & Kitchen,upi,2283.21,5,7,7,3.0,No,Tier 2
+ORD1286,CUST153,Fashion,UPI,1734.96,0,7,7,3.0,Yes,Tier 1
+ORD1287,CUST186,Home & Kitchen,Debit Card,580.2,30,6,10,5.0,No,Tier 1
+ORD1288,CUST328,Beauty,upi,817.89,0,4,4,2.0,No,Tier 1
+ORD1289,CUST323,Beauty,upi,330.1,30,7,14,5.0,No,Tier 1
+ORD1290,CUST324,Fashion,UPI,451.44,10,3,3,4.0,Yes,Tier 3
+ORD1291,CUST228,Electronics,UPI,2033.52,10,4,4,4.0,Yes,Tier 3
+ORD1292,CUST246,Beauty,upi,1706.48,30,6,8,4.0,No,Tier 1
+ORD1293,CUST225,Books,Credit Card,1280.16,15,4,4,3.0,No,Tier 2
+ORD1294,CUST229,Electronics,upi,2912.89,10,2,3,4.0,No,Tier 3
+ORD1295,CUST152,Beauty,upi,1250.37,10,4,11,5.0,No,Tier 1
+ORD1296,CUST271,Beauty,UPI,955.01,5,3,2,3.0,No,Tier 1
+ORD1297,CUST317,Fashion,UPI,699.29,20,2,1,,No,Tier 1
+ORD1298,CUST259,Home & Kitchen,upi,3585.1,5,5,6,4.0,No,Tier 2
+ORD1299,CUST297,Fashion,upi,303.61,30,6,6,2.0,No,Tier 3
+ORD1300,CUST259,Electronics,upi,3406.42,30,6,6,3.0,Yes,Tier 2
+ORD1301,CUST346,Fashion,UPI,2303.38,5,4,3,,Yes,Tier 1
+ORD1302,CUST167,Books,upi,367.02,15,7,6,3.0,No,Tier 1
+ORD1303,CUST282,Electronics,upi,1198.85,10,2,3,5.0,Yes,Tier 2
+ORD1304,CUST302,Fashion,Cash on Delivery,2616.82,5,5,4,5.0,No,Tier 3
+ORD1305,CUST283,Fashion,Credit Card,1217.82,50,2,2,3.0,Yes,Tier 2
+ORD1306,CUST222,Fashion,Debit Card,3052.77,0,6,7,2.0,No,Tier 2
+ORD1307,CUST244,Beauty,Credit Card,3637.3,5,2,2,4.0,No,Tier 1
+ORD1308,CUST137,Fashion,Cash on Delivery,858.62,10,5,4,3.0,No,Tier 3
+ORD1309,CUST123,Fashion,Debit Card,768.45,10,7,8,4.0,Yes,Tier 2
+ORD1310,CUST168,Home & Kitchen,upi,3504.68,10,4,3,3.0,No,Tier 1
+ORD1311,CUST215,Fashion,Cash on Delivery,1549.23,20,3,4,4.0,No,Tier 2
+ORD1312,CUST197,Electronics,upi,347.99,15,2,4,4.0,No,Tier 1
+ORD1313,CUST297,Fashion,UPI,251.85,15,3,3,3.0,Yes,Tier 1
+ORD1314,CUST313,Electronics,Cash on Delivery,1197.87,0,6,6,3.0,No,Tier 1
+ORD1315,CUST238,Electronics,UPI,3394.05,5,4,4,3.0,No,Tier 1
+ORD1316,CUST339,Fashion,Cash on Delivery,2431.39,5,4,4,3.0,No,Tier 1
+ORD1317,CUST243,Fashion,Cash on Delivery,1551.85,5,2,4,4.0,No,Tier 1
+ORD1318,CUST196,Beauty,UPI,,10,7,9,5.0,Yes,Tier 2
+ORD1319,CUST300,Fashion,Debit Card,552.01,0,4,4,3.0,No,Tier 2
+ORD1320,CUST223,Home & Kitchen,Credit Card,2700.25,5,2,3,4.0,No,Tier 1
+ORD1321,CUST286,Home & Kitchen,upi,442.26,5,2,6,4.0,No,Tier 1
+ORD1322,CUST169,Electronics,Cash on Delivery,591.61,30,3,7,3.0,No,Tier 2
+ORD1323,CUST307,Home & Kitchen,upi,366.56,30,4,4,3.0,Yes,Tier 1
+ORD1324,CUST192,Electronics,UPI,1552.82,15,2,2,5.0,No,Tier 1
+ORD1325,CUST102,Beauty,upi,3658.51,30,3,3,4.0,Yes,Tier 3
+ORD1326,CUST247,Electronics,UPI,575.96,20,5,9,4.0,No,Tier 2
+ORD1327,CUST286,Fashion,upi,974.16,10,3,2,4.0,No,Tier 3
+ORD1328,CUST263,Electronics,Credit Card,1407.26,0,3,3,1.0,No,Tier 2
+ORD1329,CUST246,Beauty,Credit Card,9242.7,20,2,2,4.0,No,Tier 1
+ORD1330,CUST189,Fashion,Credit Card,332.86,15,6,6,4.0,No,Tier 2
+ORD1331,CUST294,Home & Kitchen,Credit Card,1028.35,15,6,6,4.0,No,Tier 1
+ORD1332,CUST246,Electronics,Credit Card,783.59,20,7,14,3.0,No,Tier 1
+ORD1333,CUST247,Home & Kitchen,Credit Card,2610.29,10,6,5,2.0,Yes,Tier 1
+ORD1334,CUST195,Electronics,UPI,975.44,15,3,3,2.0,No,Tier 3
+ORD1335,CUST298,Beauty,Cash on Delivery,341.16,30,7,6,,No,Tier 1
+ORD1336,CUST151,Electronics,upi,1407.54,5,2,2,3.0,No,Tier 3
+ORD1337,CUST332,Electronics,Credit Card,1967.69,15,4,4,4.0,No,Tier 3
+ORD1338,CUST260,Electronics,UPI,203.46,10,3,3,1.0,No,Tier 2
+ORD1339,CUST267,Fashion,UPI,2550.43,15,3,3,1.0,No,Tier 2
+ORD1340,CUST227,Home & Kitchen,UPI,446.99,20,7,7,4.0,No,Tier 2
+ORD1341,CUST138,Electronics,Cash on Delivery,1163.74,0,2,1,4.0,No,Tier 3
+ORD1342,CUST181,Books,upi,845.01,15,5,5,4.0,No,Tier 1
+ORD1343,CUST203,Fashion,Cash on Delivery,1726.08,5,3,7,3.0,No,Tier 2
+ORD1344,CUST228,Fashion,Debit Card,756.66,15,5,9,4.0,No,Tier 2
+ORD1345,CUST110,Fashion,UPI,2646.08,10,5,5,2.0,Yes,Tier 3
+ORD1346,CUST319,Fashion,Debit Card,1773.41,20,6,6,2.0,No,Tier 2
+ORD1347,CUST284,Home & Kitchen,Credit Card,1451.97,0,2,6,4.0,No,Tier 2
+ORD1348,CUST316,Electronics,Credit Card,2108.98,15,5,4,3.0,No,Tier 2
+ORD1349,CUST277,Electronics,Cash on Delivery,1883.02,5,2,4,3.0,No,Tier 3
+ORD1350,CUST250,Beauty,upi,243.92,30,6,10,4.0,No,Tier 2
+ORD1351,CUST258,Beauty,Debit Card,802.51,30,2,1,4.0,No,Tier 1
+ORD1352,CUST321,Fashion,upi,3405.03,50,3,3,5.0,No,Tier 2
+ORD1353,CUST141,Fashion,Cash on Delivery,361.23,20,5,9,3.0,No,Tier 3
+ORD1354,CUST198,Home & Kitchen,Credit Card,1803.16,20,2,2,1.0,No,Tier 2
+ORD1355,CUST106,Fashion,upi,4607.22,5,4,3,3.0,No,Tier 3
+ORD1356,CUST243,Electronics,upi,264.33,5,2,2,,No,Tier 1
+ORD1357,CUST189,Electronics,Credit Card,1575.58,10,5,5,4.0,No,Tier 2
+ORD1358,CUST211,Home & Kitchen,Debit Card,957.68,20,6,7,4.0,No,Tier 2
+ORD1359,CUST348,Home & Kitchen,Credit Card,1238.65,30,6,7,1.0,No,Tier 3
+ORD1360,CUST343,Electronics,upi,307.05,0,5,12,4.0,Yes,Tier 1
+ORD1361,CUST159,Electronics,Debit Card,252.75,30,3,3,1.0,No,Tier 3
+ORD1362,CUST212,Electronics,Debit Card,1519.05,15,3,3,4.0,No,Tier 2
+ORD1363,CUST101,Home & Kitchen,Credit Card,2280.03,15,6,6,5.0,Yes,Tier 1
+ORD1364,CUST228,Electronics,upi,2028.0,0,6,6,,No,Tier 1
+ORD1365,CUST147,Electronics,Cash on Delivery,1141.8,0,5,5,4.0,No,Tier 1
+ORD1366,CUST239,Books,upi,326.26,10,3,10,4.0,No,Tier 2
+ORD1367,CUST296,Electronics,UPI,1597.87,15,6,8,5.0,No,Tier 1
+ORD1368,CUST136,Home & Kitchen,Cash on Delivery,532.31,5,3,3,4.0,No,Tier 1
+ORD1369,CUST259,Electronics,Debit Card,3103.87,10,6,7,1.0,No,Tier 3
+ORD1370,CUST346,Electronics,Cash on Delivery,2386.16,30,2,2,4.0,No,Tier 1
+ORD1371,CUST108,Electronics,Debit Card,1682.9,20,4,4,3.0,No,Tier 1
+ORD1372,CUST332,Home & Kitchen,Debit Card,3767.5,30,7,8,4.0,No,Tier 2
+ORD1373,CUST198,Beauty,Cash on Delivery,238.31,5,2,2,4.0,No,Tier 2
+ORD1374,CUST246,Books,Debit Card,1799.08,5,7,14,4.0,No,Tier 2
+ORD1375,CUST147,Fashion,Debit Card,681.01,15,6,7,3.0,No,Tier 1
+ORD1376,CUST307,Home & Kitchen,UPI,3038.19,10,4,4,2.0,No,Tier 2
+ORD1377,CUST230,Electronics,upi,572.2,0,4,5,4.0,No,Tier 2
+ORD1378,CUST247,Fashion,upi,1748.55,5,6,6,5.0,No,Tier 1
+ORD1379,CUST251,Beauty,UPI,2721.01,10,6,6,4.0,No,Tier 1
+ORD1380,CUST153,Electronics,Cash on Delivery,251.06,5,3,3,3.0,No,Tier 1
+ORD1381,CUST219,Electronics,Credit Card,808.3,5,6,6,5.0,Yes,Tier 1
+ORD1382,CUST260,Electronics,Credit Card,1924.14,5,5,6,5.0,No,Tier 2
+ORD1383,CUST251,Electronics,Credit Card,928.18,0,6,6,3.0,Yes,Tier 2
+ORD1384,CUST215,Electronics,UPI,573.15,15,5,6,1.0,Yes,Tier 1
+ORD1385,CUST174,Home & Kitchen,UPI,497.85,10,6,6,4.0,No,Tier 1
+ORD1386,CUST212,Fashion,Debit Card,369.21,15,3,3,5.0,No,Tier 1
+ORD1387,CUST299,Beauty,Credit Card,2534.98,0,5,7,,No,Tier 2
+ORD1388,CUST263,Books,Cash on Delivery,1227.8,5,2,2,5.0,Yes,Tier 1
+ORD1389,CUST265,Fashion,Cash on Delivery,295.35,15,5,5,4.0,No,Tier 2
+ORD1390,CUST203,Fashion,Credit Card,778.65,10,3,3,4.0,Yes,Tier 1
+ORD1391,CUST183,Fashion,Credit Card,750.13,10,7,7,1.0,No,Tier 2
+ORD1392,CUST326,Home & Kitchen,Credit Card,440.69,5,5,4,3.0,No,Tier 3
+ORD1393,CUST211,Fashion,UPI,886.19,30,6,7,4.0,No,Tier 1
+ORD1394,CUST316,Home & Kitchen,UPI,684.34,5,6,6,4.0,No,Tier 2
+ORD1395,CUST198,Fashion,UPI,701.9,10,7,7,4.0,Yes,Tier 3
+ORD1396,CUST252,Home & Kitchen,upi,,15,3,7,4.0,No,Tier 1
+ORD1397,CUST192,Fashion,Cash on Delivery,503.18,10,4,4,3.0,No,Tier 2
+ORD1398,CUST245,Fashion,Cash on Delivery,1432.2,5,6,8,4.0,No,Tier 1
+ORD1399,CUST227,Beauty,Debit Card,1214.58,10,2,1,2.0,No,Tier 2
+ORD1400,CUST209,Books,UPI,1207.45,20,3,3,3.0,Yes,Tier 1
+ORD1401,CUST181,Electronics,upi,1505.23,5,5,7,4.0,No,Tier 3
+ORD1402,CUST293,Beauty,upi,1153.9,0,5,5,4.0,No,Tier 2
+ORD1403,CUST153,Fashion,Cash on Delivery,2736.89,5,2,3,,No,Tier 2
+ORD1404,CUST262,Beauty,UPI,1550.86,20,6,6,3.0,Yes,Tier 2
+ORD1405,CUST307,Books,Debit Card,1150.14,0,3,2,4.0,Yes,Tier 2
+ORD1406,CUST288,Fashion,UPI,2324.68,50,2,2,3.0,No,Tier 1
+ORD1407,CUST268,Electronics,Credit Card,1318.13,10,6,6,3.0,No,Tier 3
+ORD1408,CUST327,Fashion,UPI,612.92,50,3,5,5.0,No,Tier 3
+ORD1409,CUST260,Fashion,Credit Card,478.46,30,5,5,4.0,Yes,Tier 2
+ORD1410,CUST167,Home & Kitchen,Credit Card,398.31,10,3,7,5.0,No,Tier 3
+ORD1411,CUST132,Fashion,Debit Card,2956.58,0,7,11,3.0,No,Tier 2
+ORD1412,CUST241,Electronics,Cash on Delivery,1686.01,0,4,4,5.0,No,Tier 2
+ORD1413,CUST120,Books,UPI,3524.77,5,3,3,1.0,No,Tier 2
+ORD1414,CUST147,Beauty,Credit Card,1309.47,15,4,6,5.0,No,Tier 1
+ORD1415,CUST247,Fashion,UPI,969.58,5,3,7,3.0,No,Tier 1
+ORD1416,CUST347,Electronics,Cash on Delivery,273.89,5,4,4,3.0,No,Tier 1
+ORD1417,CUST227,Fashion,Cash on Delivery,1536.38,10,7,7,4.0,Yes,Tier 2
+ORD1418,CUST235,Electronics,upi,1247.33,30,5,5,5.0,No,Tier 1
+ORD1419,CUST234,Beauty,Cash on Delivery,5751.54,0,6,7,1.0,No,Tier 1
+ORD1420,CUST294,Electronics,Debit Card,528.0,0,4,4,3.0,No,Tier 3
+ORD1421,CUST244,Home & Kitchen,Credit Card,1107.91,0,7,8,5.0,No,Tier 1
+ORD1422,CUST227,Fashion,upi,1463.07,30,4,3,3.0,No,Tier 2
+ORD1423,CUST132,Home & Kitchen,Debit Card,1441.38,15,5,4,2.0,No,Tier 1
+ORD1424,CUST275,Home & Kitchen,UPI,1188.71,5,4,4,3.0,No,Tier 1
+ORD1425,CUST303,Books,Credit Card,2000.31,0,7,7,3.0,No,Tier 2
+ORD1426,CUST286,Electronics,Cash on Delivery,475.27,5,7,7,5.0,No,Tier 2
+ORD1427,CUST214,Electronics,Credit Card,1751.92,0,2,2,4.0,Yes,Tier 2
+ORD1428,CUST313,Electronics,UPI,1360.26,30,5,5,4.0,No,Tier 1
+ORD1429,CUST218,Beauty,upi,2916.9,20,2,2,,No,Tier 2
+ORD1430,CUST121,Beauty,upi,2454.31,10,5,5,4.0,No,Tier 1
+ORD1431,CUST337,Home & Kitchen,upi,654.26,30,4,11,1.0,No,Tier 1
+ORD1432,CUST257,Home & Kitchen,Cash on Delivery,587.95,5,7,7,3.0,No,Tier 1
+ORD1433,CUST137,Home & Kitchen,Debit Card,4997.97,15,2,2,3.0,No,Tier 1
+ORD1434,CUST329,Electronics,Debit Card,1099.06,30,4,4,2.0,No,Tier 1
+ORD1435,CUST208,Beauty,Credit Card,3042.74,5,7,14,5.0,Yes,Tier 1
+ORD1436,CUST150,Fashion,Cash on Delivery,414.78,20,5,5,4.0,No,Tier 3
+ORD1437,CUST281,Fashion,upi,1435.41,5,7,8,3.0,No,Tier 1
+ORD1438,CUST107,Fashion,upi,2191.99,5,4,5,4.0,No,Tier 1
+ORD1439,CUST126,Electronics,UPI,3733.94,0,2,3,4.0,No,Tier 1
+ORD1440,CUST126,Electronics,UPI,693.79,10,2,1,5.0,No,Tier 2
+ORD1441,CUST325,Home & Kitchen,upi,1749.1,15,7,8,5.0,No,Tier 1
+ORD1442,CUST120,Electronics,upi,1128.74,30,4,3,4.0,No,Tier 3
+ORD1443,CUST129,Home & Kitchen,Cash on Delivery,275.05,15,3,3,4.0,Yes,Tier 3
+ORD1444,CUST196,Electronics,Debit Card,1605.42,30,5,6,4.0,No,Tier 1
+ORD1445,CUST127,Fashion,UPI,1605.79,20,5,5,4.0,No,Tier 2
+ORD1446,CUST210,Fashion,Debit Card,3401.56,0,4,6,2.0,No,Tier 1
+ORD1447,CUST291,Fashion,Cash on Delivery,1025.34,10,3,2,2.0,No,Tier 2
+ORD1448,CUST324,Home & Kitchen,upi,514.03,0,2,4,4.0,Yes,Tier 1
+ORD1449,CUST296,Fashion,Debit Card,254.7,15,6,6,3.0,No,Tier 1
+ORD1450,CUST160,Home & Kitchen,upi,844.69,30,6,6,1.0,Yes,Tier 1
+ORD1451,CUST147,Fashion,upi,631.3,0,4,3,4.0,Yes,Tier 2
+ORD1452,CUST246,Home & Kitchen,Credit Card,1917.99,15,3,7,1.0,No,Tier 1
+ORD1453,CUST103,Beauty,Debit Card,724.84,15,3,2,4.0,No,Tier 1
+ORD1454,CUST134,Home & Kitchen,Debit Card,3772.79,10,5,5,4.0,No,Tier 2
+ORD1455,CUST291,Electronics,upi,4134.04,5,2,2,,No,Tier 2
+ORD1456,CUST148,Electronics,Cash on Delivery,1363.97,5,7,8,4.0,No,Tier 3
+ORD1457,CUST116,Fashion,Credit Card,3368.36,0,3,3,1.0,No,Tier 1
+ORD1458,CUST271,Home & Kitchen,upi,1916.82,5,7,6,4.0,Yes,Tier 2
+ORD1459,CUST319,Electronics,UPI,1149.86,0,6,6,5.0,No,Tier 2
+ORD1460,CUST257,Fashion,UPI,438.59,10,7,7,,No,Tier 1
+ORD1461,CUST320,Home & Kitchen,Credit Card,936.31,0,2,2,3.0,No,Tier 2
+ORD1462,CUST145,Fashion,Cash on Delivery,1187.56,30,2,2,3.0,No,Tier 1
+ORD1463,CUST216,Books,upi,2593.78,10,7,8,5.0,No,Tier 3
+ORD1464,CUST105,Electronics,Debit Card,987.79,15,4,4,2.0,No,Tier 1
+ORD1465,CUST198,Electronics,Credit Card,2935.52,10,3,3,4.0,No,Tier 2
+ORD1466,CUST223,Home & Kitchen,Cash on Delivery,1546.31,10,4,4,3.0,No,Tier 1
+ORD1467,CUST332,Fashion,Debit Card,376.81,30,7,14,1.0,No,Tier 3
+ORD1468,CUST136,Home & Kitchen,UPI,6553.52,0,3,7,3.0,No,Tier 1
+ORD1469,CUST123,Fashion,UPI,1098.98,5,5,7,3.0,No,Tier 3
+ORD1470,CUST192,Electronics,Debit Card,796.82,20,4,4,4.0,No,Tier 3
+ORD1471,CUST340,Books,Credit Card,1491.45,0,4,3,5.0,No,Tier 1
+ORD1472,CUST145,Books,UPI,338.35,0,7,7,3.0,No,Tier 3
+ORD1473,CUST280,Home & Kitchen,upi,1414.5,5,6,6,5.0,No,Tier 3
+ORD1474,CUST194,Fashion,Debit Card,1027.55,0,7,7,1.0,No,Tier 1
+ORD1475,CUST198,Home & Kitchen,Debit Card,826.41,10,4,5,4.0,No,Tier 1
+ORD1476,CUST287,Fashion,UPI,3869.64,5,3,5,1.0,No,Tier 2
+ORD1477,CUST324,Electronics,Credit Card,1087.13,30,6,8,5.0,No,Tier 1
+ORD1478,CUST215,Beauty,upi,496.8,20,7,7,4.0,No,Tier 1
+ORD1479,CUST290,Electronics,Credit Card,,15,7,8,4.0,No,Tier 1
+ORD1480,CUST312,Beauty,Cash on Delivery,3221.72,15,4,4,5.0,Yes,Tier 1
+ORD1481,CUST259,Fashion,Cash on Delivery,432.44,30,4,3,4.0,No,Tier 1
+ORD1482,CUST314,Electronics,UPI,488.89,5,5,6,,No,Tier 1
+ORD1483,CUST260,Fashion,UPI,215.74,30,7,6,4.0,No,Tier 3
+ORD1484,CUST166,Beauty,UPI,217.15,20,4,4,5.0,No,Tier 2
+ORD1485,CUST227,Home & Kitchen,Cash on Delivery,2322.06,15,2,2,4.0,No,Tier 1
+ORD1486,CUST117,Books,Credit Card,1780.67,10,6,7,2.0,Yes,Tier 2
+ORD1487,CUST124,Home & Kitchen,Credit Card,726.28,5,2,3,4.0,No,Tier 2
+ORD1488,CUST333,Home & Kitchen,UPI,1638.03,10,6,6,2.0,No,Tier 3
+ORD1489,CUST322,Books,upi,803.44,20,7,9,4.0,No,Tier 1
+ORD1490,CUST153,Electronics,Credit Card,3866.5,0,5,5,4.0,Yes,Tier 1
+ORD1491,CUST157,Fashion,Cash on Delivery,4295.41,20,4,4,4.0,No,Tier 3
+ORD1492,CUST166,Electronics,Debit Card,798.66,5,4,5,1.0,No,Tier 3
+ORD1493,CUST203,Beauty,Debit Card,2510.8,0,4,5,2.0,No,Tier 2
+ORD1494,CUST273,Beauty,Debit Card,1979.84,0,7,14,4.0,No,Tier 2
+ORD1495,CUST123,Electronics,upi,645.28,0,6,6,,No,Tier 1
+ORD1496,CUST213,Home & Kitchen,UPI,516.82,10,4,5,3.0,No,Tier 2
+ORD1497,CUST131,Beauty,Cash on Delivery,935.51,5,2,3,3.0,No,Tier 1
+ORD1498,CUST274,Electronics,upi,2024.33,50,4,8,4.0,No,Tier 1
+ORD1499,CUST185,Home & Kitchen,Cash on Delivery,4067.7,10,7,7,4.0,Yes,Tier 3
+ORD1500,CUST250,Beauty,Cash on Delivery,1930.57,0,5,6,3.0,No,Tier 1
+ORD1501,CUST293,Electronics,UPI,2518.94,15,2,2,3.0,No,Tier 2
+ORD1502,CUST226,Home & Kitchen,Debit Card,1308.78,30,4,4,3.0,No,Tier 3
+ORD1503,CUST254,Fashion,UPI,2365.14,15,4,4,,No,Tier 1
+ORD1504,CUST333,Beauty,upi,2041.31,0,3,3,2.0,Yes,Tier 3
+ORD1505,CUST229,Beauty,upi,767.82,30,6,6,3.0,Yes,Tier 3
+ORD1506,CUST317,Beauty,upi,1163.53,20,2,4,1.0,No,Tier 2
+ORD1507,CUST116,Fashion,UPI,2160.19,0,3,3,3.0,No,Tier 1
+ORD1508,CUST203,Beauty,Cash on Delivery,,0,5,6,4.0,No,Tier 1
+ORD1509,CUST260,Books,Cash on Delivery,2180.81,10,6,6,3.0,No,Tier 1
+ORD1510,CUST236,Fashion,Credit Card,435.05,0,2,1,2.0,No,Tier 1
+ORD1511,CUST142,Books,upi,1067.55,20,4,4,4.0,Yes,Tier 1
+ORD1512,CUST345,Electronics,Cash on Delivery,2182.03,5,2,2,1.0,Yes,Tier 3
+ORD1513,CUST275,Home & Kitchen,Credit Card,551.35,30,4,4,2.0,No,Tier 1
+ORD1514,CUST138,Electronics,Cash on Delivery,538.53,10,6,6,5.0,No,Tier 2
+ORD1515,CUST320,Electronics,upi,818.53,0,4,4,4.0,No,Tier 1
+ORD1516,CUST269,Electronics,Debit Card,2900.48,0,5,5,5.0,No,Tier 2
+ORD1517,CUST346,Home & Kitchen,upi,200.53,10,7,7,5.0,No,Tier 3
+ORD1518,CUST125,Fashion,UPI,2979.82,20,4,4,4.0,No,Tier 1
+ORD1519,CUST198,Home & Kitchen,Cash on Delivery,400.41,20,5,4,1.0,No,Tier 1
+ORD1520,CUST149,Electronics,Cash on Delivery,5736.61,5,7,11,4.0,No,Tier 2
+ORD1521,CUST252,Fashion,UPI,3917.24,5,6,8,5.0,Yes,Tier 2
+ORD1522,CUST251,Fashion,UPI,1019.06,0,6,7,4.0,Yes,Tier 2
+ORD1523,CUST112,Books,Debit Card,1062.7,15,2,1,4.0,No,Tier 1
+ORD1524,CUST159,Fashion,Cash on Delivery,988.29,0,5,6,3.0,No,Tier 1
+ORD1525,CUST349,Home & Kitchen,Cash on Delivery,1410.89,10,5,7,5.0,No,Tier 3
+ORD1526,CUST234,Beauty,Debit Card,314.12,15,3,4,4.0,No,Tier 3
+ORD1527,CUST156,Home & Kitchen,Credit Card,239.79,30,3,2,,No,Tier 2
+ORD1528,CUST135,Electronics,Debit Card,271.32,5,7,8,2.0,Yes,Tier 3
+ORD1529,CUST272,Electronics,upi,905.17,5,7,9,3.0,No,Tier 2
+ORD1530,CUST119,Beauty,Cash on Delivery,586.81,15,3,3,3.0,No,Tier 1
+ORD1531,CUST164,Electronics,UPI,1367.56,15,7,8,4.0,No,Tier 1
+ORD1532,CUST107,Beauty,upi,6062.22,5,4,4,2.0,No,Tier 1
+ORD1533,CUST337,Fashion,Cash on Delivery,785.94,30,3,3,1.0,No,Tier 2
+ORD1534,CUST243,Beauty,Debit Card,1223.53,20,5,4,,No,Tier 1
+ORD1535,CUST241,Books,upi,844.61,5,4,5,1.0,No,Tier 1
+ORD1536,CUST303,Beauty,Cash on Delivery,2454.91,5,7,6,5.0,No,Tier 2
+ORD1537,CUST214,Fashion,Credit Card,2990.24,10,6,6,3.0,No,Tier 2
+ORD1538,CUST314,Books,Credit Card,2718.16,20,2,2,5.0,No,Tier 2
+ORD1539,CUST242,Fashion,UPI,4596.89,0,3,3,4.0,Yes,Tier 3
+ORD1540,CUST191,Fashion,Cash on Delivery,233.49,15,6,5,5.0,Yes,Tier 1
+ORD1541,CUST197,Home & Kitchen,Credit Card,2397.72,15,7,8,5.0,No,Tier 2
+ORD1542,CUST165,Beauty,Debit Card,1872.09,5,5,6,1.0,No,Tier 2
+ORD1543,CUST131,Beauty,Cash on Delivery,511.6,15,2,2,1.0,No,Tier 2
+ORD1544,CUST314,Books,Debit Card,3957.04,30,6,5,3.0,No,Tier 1
+ORD1545,CUST290,Fashion,Debit Card,392.45,0,2,1,4.0,No,Tier 1
+ORD1546,CUST185,Fashion,Credit Card,1565.63,5,3,5,5.0,No,Tier 3
+ORD1547,CUST150,Home & Kitchen,Cash on Delivery,505.7,10,7,7,4.0,No,Tier 2
+ORD1548,CUST252,Electronics,upi,877.45,30,5,5,4.0,No,Tier 3
+ORD1549,CUST285,Electronics,Credit Card,1723.96,50,7,6,2.0,No,Tier 2
+ORD1550,CUST162,Fashion,Credit Card,1194.28,10,2,3,5.0,Yes,Tier 2
+ORD1551,CUST289,Fashion,Cash on Delivery,869.29,20,6,8,,No,Tier 3
+ORD1552,CUST224,Fashion,Cash on Delivery,674.03,10,3,5,3.0,No,Tier 2
+ORD1553,CUST249,Electronics,Debit Card,2396.55,10,3,4,4.0,Yes,Tier 1
+ORD1554,CUST157,Electronics,Cash on Delivery,386.32,5,7,6,2.0,Yes,Tier 2
+ORD1555,CUST157,Electronics,Debit Card,874.76,5,6,5,4.0,No,Tier 3
+ORD1556,CUST185,Beauty,Credit Card,3009.06,5,6,5,4.0,No,Tier 1
+ORD1557,CUST148,Fashion,UPI,2443.79,10,2,2,2.0,No,Tier 1
+ORD1558,CUST279,Fashion,upi,814.88,0,7,6,3.0,No,Tier 1
+ORD1559,CUST269,Home & Kitchen,Credit Card,1928.18,30,7,7,3.0,No,Tier 3
+ORD1560,CUST169,Electronics,Cash on Delivery,2279.02,0,4,4,4.0,No,Tier 1
+ORD1561,CUST114,Beauty,upi,2836.65,5,7,11,4.0,No,Tier 2
+ORD1562,CUST153,Books,UPI,1143.65,10,3,4,1.0,No,Tier 1
+ORD1563,CUST334,Electronics,UPI,474.48,15,2,4,4.0,No,Tier 1
+ORD1564,CUST287,Fashion,Debit Card,553.74,0,6,7,4.0,No,Tier 2
+ORD1565,CUST200,Beauty,upi,620.65,5,7,6,3.0,No,Tier 1
+ORD1566,CUST324,Beauty,Debit Card,1281.1,50,2,3,1.0,No,Tier 2
+ORD1567,CUST107,Fashion,Credit Card,240.03,5,7,7,4.0,No,Tier 2
+ORD1568,CUST152,Home & Kitchen,upi,1412.86,5,6,7,,No,Tier 3
+ORD1569,CUST159,Electronics,Credit Card,743.74,20,5,5,3.0,No,Tier 1
+ORD1570,CUST335,Beauty,Debit Card,619.88,0,6,13,3.0,No,Tier 3
+ORD1571,CUST207,Electronics,upi,2739.29,10,6,6,2.0,Yes,Tier 2
+ORD1572,CUST104,Beauty,Debit Card,939.43,5,6,6,4.0,No,Tier 3
+ORD1573,CUST202,Home & Kitchen,upi,319.85,5,7,11,2.0,No,Tier 2
+ORD1574,CUST295,Home & Kitchen,Debit Card,2303.6,5,4,3,3.0,No,Tier 2
+ORD1575,CUST105,Fashion,UPI,,0,6,7,4.0,No,Tier 3
+ORD1576,CUST208,Electronics,Debit Card,1756.84,5,3,4,4.0,Yes,Tier 3
+ORD1577,CUST323,Electronics,UPI,1984.17,0,3,5,3.0,No,Tier 1
+ORD1578,CUST215,Electronics,Debit Card,721.75,20,2,9,3.0,Yes,Tier 1
+ORD1579,CUST193,Electronics,upi,2290.11,5,4,11,4.0,No,Tier 1
+ORD1580,CUST146,Books,upi,1069.96,10,2,1,1.0,No,Tier 1
+ORD1581,CUST198,Fashion,upi,946.77,30,3,5,1.0,Yes,Tier 1
+ORD1582,CUST154,Electronics,Cash on Delivery,255.76,15,3,4,5.0,No,Tier 1
+ORD1583,CUST267,Beauty,Credit Card,611.04,0,5,6,1.0,Yes,Tier 3
+ORD1584,CUST151,Beauty,upi,3408.55,30,6,5,4.0,Yes,Tier 1
+ORD1585,CUST243,Beauty,UPI,796.75,5,3,4,5.0,No,Tier 2
+ORD1586,CUST112,Beauty,upi,1149.44,0,7,14,3.0,No,Tier 1
+ORD1587,CUST213,Electronics,Cash on Delivery,1111.2,20,7,11,3.0,No,Tier 1
+ORD1588,CUST223,Fashion,UPI,1271.18,10,2,2,4.0,No,Tier 1
+ORD1589,CUST205,Books,Cash on Delivery,275.95,10,2,1,5.0,No,Tier 1
+ORD1590,CUST257,Home & Kitchen,UPI,739.63,5,6,6,5.0,No,Tier 2
+ORD1591,CUST246,Electronics,Debit Card,1741.04,10,6,8,4.0,Yes,Tier 3
+ORD1592,CUST244,Books,Credit Card,468.61,5,5,6,2.0,Yes,Tier 1
+ORD1593,CUST219,Electronics,Credit Card,473.15,30,4,4,4.0,No,Tier 2
+ORD1594,CUST162,Electronics,Cash on Delivery,212.17,5,2,1,3.0,No,Tier 2
+ORD1595,CUST118,Fashion,Credit Card,890.4,30,6,6,4.0,No,Tier 3
+ORD1596,CUST191,Home & Kitchen,Cash on Delivery,2771.98,10,2,2,1.0,No,Tier 2
+ORD1597,CUST157,Home & Kitchen,Cash on Delivery,263.96,20,6,10,2.0,No,Tier 2
+ORD1598,CUST282,Electronics,Cash on Delivery,454.52,15,3,4,4.0,Yes,Tier 2
+ORD1599,CUST189,Beauty,Credit Card,645.42,15,2,2,4.0,No,Tier 3
+ORD1600,CUST328,Fashion,Cash on Delivery,1778.89,5,3,3,3.0,No,Tier 1
+ORD1601,CUST317,Electronics,Credit Card,1428.1,5,2,1,3.0,No,Tier 1
+ORD1602,CUST216,Beauty,Cash on Delivery,845.31,5,4,11,5.0,No,Tier 3
+ORD1603,CUST161,Beauty,upi,1907.89,30,5,5,4.0,Yes,Tier 2
+ORD1604,CUST122,Beauty,Cash on Delivery,1328.8,20,7,7,3.0,No,Tier 2
+ORD1605,CUST226,Books,UPI,2916.51,10,7,7,2.0,No,Tier 2
+ORD1606,CUST236,Home & Kitchen,Cash on Delivery,2244.67,0,7,8,3.0,Yes,Tier 1
+ORD1607,CUST239,Home & Kitchen,Debit Card,549.73,5,3,4,5.0,No,Tier 2
+ORD1608,CUST344,Electronics,Cash on Delivery,580.02,15,6,7,4.0,No,Tier 2
+ORD1609,CUST228,Fashion,UPI,360.73,10,7,7,4.0,No,Tier 1
+ORD1610,CUST157,Fashion,UPI,693.11,20,4,4,4.0,Yes,Tier 2
+ORD1611,CUST221,Fashion,Credit Card,9431.41,50,7,6,3.0,No,Tier 3
+ORD1612,CUST100,Home & Kitchen,upi,824.55,0,2,3,5.0,No,Tier 1
+ORD1613,CUST338,Fashion,Cash on Delivery,498.91,10,3,2,4.0,No,Tier 2
+ORD1614,CUST133,Electronics,Credit Card,1925.02,10,2,2,2.0,No,Tier 1
+ORD1615,CUST195,Electronics,upi,1138.3,5,2,4,2.0,No,Tier 2
+ORD1616,CUST225,Home & Kitchen,Cash on Delivery,394.46,0,2,4,4.0,No,Tier 1
+ORD1617,CUST217,Electronics,Debit Card,774.98,0,5,5,5.0,No,Tier 2
+ORD1618,CUST147,Beauty,Cash on Delivery,842.28,30,5,5,3.0,No,Tier 3
+ORD1619,CUST188,Fashion,UPI,1882.08,10,6,5,5.0,No,Tier 1
+ORD1620,CUST331,Fashion,UPI,,10,3,4,4.0,Yes,Tier 3
+ORD1621,CUST336,Home & Kitchen,Debit Card,576.04,30,4,6,3.0,No,Tier 3
+ORD1622,CUST216,Books,Credit Card,1074.77,20,4,4,1.0,No,Tier 1
+ORD1623,CUST228,Fashion,upi,575.76,0,4,4,2.0,No,Tier 1
+ORD1624,CUST115,Home & Kitchen,Cash on Delivery,1388.03,10,2,4,4.0,No,Tier 3
+ORD1625,CUST288,Home & Kitchen,UPI,989.03,10,5,7,2.0,No,Tier 3
+ORD1626,CUST330,Fashion,Credit Card,738.76,20,3,3,3.0,No,Tier 1
+ORD1627,CUST291,Beauty,Debit Card,3776.03,15,2,2,4.0,No,Tier 1
+ORD1628,CUST290,Books,UPI,1400.13,15,5,5,4.0,No,Tier 1
+ORD1629,CUST168,Home & Kitchen,Debit Card,367.03,5,5,4,2.0,No,Tier 3
+ORD1630,CUST121,Beauty,Cash on Delivery,1185.43,20,7,11,3.0,No,Tier 1
+ORD1631,CUST192,Beauty,upi,2020.95,0,7,9,4.0,Yes,Tier 2
+ORD1632,CUST346,Home & Kitchen,UPI,1679.22,0,3,4,4.0,No,Tier 3
+ORD1633,CUST294,Books,UPI,426.62,5,3,2,5.0,No,Tier 1
+ORD1634,CUST175,Home & Kitchen,Cash on Delivery,4508.8,0,3,5,2.0,No,Tier 2
+ORD1635,CUST253,Home & Kitchen,Credit Card,914.82,5,2,2,5.0,No,Tier 1
+ORD1636,CUST243,Home & Kitchen,upi,407.83,20,6,6,4.0,No,Tier 3
+ORD1637,CUST278,Books,UPI,438.43,30,3,3,4.0,No,Tier 1
+ORD1638,CUST328,Electronics,upi,324.08,5,7,6,4.0,No,Tier 2
+ORD1639,CUST185,Beauty,UPI,2152.62,5,6,7,3.0,No,Tier 2
+ORD1640,CUST284,Beauty,upi,356.17,5,2,2,2.0,No,Tier 1
+ORD1641,CUST128,Electronics,Debit Card,360.41,5,6,6,4.0,No,Tier 1
+ORD1642,CUST305,Books,UPI,2480.32,0,4,4,4.0,No,Tier 1
+ORD1643,CUST319,Electronics,upi,707.02,30,6,6,4.0,No,Tier 1
+ORD1644,CUST168,Fashion,Credit Card,237.61,5,3,2,3.0,Yes,Tier 3
+ORD1645,CUST146,Home & Kitchen,Debit Card,263.95,10,2,2,5.0,No,Tier 3
+ORD1646,CUST340,Electronics,Debit Card,384.02,0,3,5,4.0,No,Tier 2
+ORD1647,CUST193,Books,Credit Card,488.03,30,7,6,2.0,Yes,Tier 2
+ORD1648,CUST337,Books,upi,1512.87,15,4,3,3.0,Yes,Tier 2
+ORD1649,CUST289,Fashion,Cash on Delivery,405.41,30,7,7,4.0,No,Tier 3
+ORD1650,CUST343,Electronics,Credit Card,351.87,20,3,5,4.0,No,Tier 1
+ORD1651,CUST296,Fashion,upi,1936.37,5,3,3,4.0,No,Tier 1
+ORD1652,CUST303,Home & Kitchen,Credit Card,1534.24,5,3,3,5.0,No,Tier 1
+ORD1653,CUST243,Beauty,Credit Card,885.8,15,5,5,3.0,Yes,Tier 2
+ORD1654,CUST317,Home & Kitchen,UPI,1156.37,5,4,4,3.0,No,Tier 1
+ORD1655,CUST317,Fashion,upi,648.73,10,3,2,5.0,No,Tier 1
+ORD1656,CUST275,Home & Kitchen,Cash on Delivery,990.5,0,3,4,5.0,No,Tier 1
+ORD1657,CUST184,Fashion,UPI,1047.9,0,7,8,4.0,No,Tier 2
+ORD1658,CUST138,Books,Credit Card,787.73,10,7,7,5.0,No,Tier 1
+ORD1659,CUST199,Electronics,Credit Card,3044.68,10,3,4,2.0,Yes,Tier 1
+ORD1660,CUST132,Books,Credit Card,219.43,20,2,3,5.0,Yes,Tier 1
+ORD1661,CUST321,Fashion,upi,2028.86,0,5,5,3.0,Yes,Tier 1
+ORD1662,CUST200,Beauty,upi,359.39,10,7,7,2.0,No,Tier 2
+ORD1663,CUST122,Fashion,UPI,2116.7,0,2,1,3.0,No,Tier 1
+ORD1664,CUST349,Home & Kitchen,Cash on Delivery,1348.26,0,5,4,3.0,No,Tier 1
+ORD1665,CUST109,Beauty,UPI,2423.94,10,3,4,3.0,No,Tier 2
+ORD1666,CUST345,Electronics,Debit Card,323.12,0,4,6,3.0,No,Tier 1
+ORD1667,CUST168,Beauty,Credit Card,1182.4,5,6,10,2.0,No,Tier 1
+ORD1668,CUST199,Home & Kitchen,Credit Card,1034.39,5,6,7,3.0,No,Tier 3
+ORD1669,CUST133,Electronics,Credit Card,1669.8,5,3,3,4.0,Yes,Tier 1
+ORD1670,CUST279,Fashion,UPI,1117.03,0,7,6,3.0,No,Tier 1
+ORD1671,CUST322,Home & Kitchen,UPI,1133.75,0,2,4,3.0,No,Tier 1
+ORD1672,CUST237,Electronics,Credit Card,873.69,0,4,4,4.0,No,Tier 2
+ORD1673,CUST349,Home & Kitchen,UPI,643.25,0,5,6,5.0,No,Tier 2
+ORD1674,CUST246,Fashion,upi,989.95,15,3,4,4.0,No,Tier 2
+ORD1675,CUST285,Home & Kitchen,upi,351.35,5,4,5,3.0,No,Tier 2
+ORD1676,CUST195,Electronics,UPI,4108.93,5,4,6,4.0,No,Tier 1
+ORD1677,CUST100,Beauty,Credit Card,1703.84,5,7,6,2.0,No,Tier 1
+ORD1678,CUST347,Beauty,UPI,3855.6,15,5,6,2.0,No,Tier 3
+ORD1679,CUST168,Beauty,UPI,508.55,30,4,6,3.0,No,Tier 3
+ORD1680,CUST336,Home & Kitchen,UPI,2737.74,20,7,7,5.0,No,Tier 1
+ORD1681,CUST103,Electronics,Debit Card,2185.26,15,2,3,3.0,No,Tier 2
+ORD1682,CUST115,Books,upi,1556.69,10,7,7,1.0,No,Tier 1
+ORD1683,CUST123,Electronics,Cash on Delivery,1377.09,15,2,6,2.0,No,Tier 1
+ORD1684,CUST179,Electronics,Cash on Delivery,656.72,10,2,1,5.0,No,Tier 1
+ORD1685,CUST346,Fashion,Debit Card,2234.07,5,4,4,4.0,No,Tier 1
+ORD1686,CUST101,Fashion,UPI,1035.42,5,7,7,3.0,No,Tier 2
+ORD1687,CUST340,Books,Debit Card,288.24,5,2,3,4.0,Yes,Tier 2
+ORD1688,CUST319,Home & Kitchen,Debit Card,650.27,30,5,5,4.0,Yes,Tier 1
+ORD1689,CUST227,Fashion,Credit Card,3485.54,10,4,4,4.0,No,Tier 1
+ORD1690,CUST259,Fashion,upi,,15,7,7,3.0,No,Tier 3
+ORD1691,CUST318,Beauty,Cash on Delivery,5014.59,5,7,11,5.0,No,Tier 1
+ORD1692,CUST183,Fashion,UPI,1386.61,10,6,6,3.0,No,Tier 2
+ORD1693,CUST251,Fashion,Cash on Delivery,541.24,0,7,6,4.0,Yes,Tier 1
+ORD1694,CUST239,Electronics,Cash on Delivery,413.25,0,4,5,1.0,No,Tier 2
+ORD1695,CUST277,Books,upi,448.3,20,5,5,3.0,No,Tier 1
+ORD1696,CUST262,Home & Kitchen,Cash on Delivery,223.99,10,7,11,3.0,No,Tier 1
+ORD1697,CUST223,Electronics,Cash on Delivery,794.5,5,6,5,4.0,No,Tier 1
+ORD1698,CUST132,Electronics,Debit Card,454.98,20,4,5,1.0,No,Tier 1
+ORD1699,CUST260,Home & Kitchen,upi,836.53,5,2,2,4.0,Yes,Tier 1
+ORD1700,CUST288,Home & Kitchen,Credit Card,3479.94,50,3,3,3.0,No,Tier 2
+ORD1701,CUST278,Fashion,UPI,875.68,5,3,4,4.0,No,Tier 1
+ORD1702,CUST270,Beauty,Cash on Delivery,2724.33,5,2,2,5.0,No,Tier 1
+ORD1703,CUST200,Electronics,UPI,1316.18,5,7,8,4.0,No,Tier 2
+ORD1704,CUST111,Fashion,Credit Card,540.64,0,3,3,4.0,No,Tier 2
+ORD1705,CUST166,Beauty,UPI,727.8,0,3,3,4.0,No,Tier 3
+ORD1706,CUST164,Fashion,Credit Card,305.18,15,2,2,3.0,No,Tier 2
+ORD1707,CUST260,Home & Kitchen,Debit Card,686.79,30,7,14,5.0,No,Tier 2
+ORD1708,CUST267,Fashion,Cash on Delivery,1558.13,20,7,7,3.0,No,Tier 2
+ORD1709,CUST173,Fashion,Credit Card,289.81,0,2,2,4.0,No,Tier 3
+ORD1710,CUST142,Beauty,UPI,475.9,10,7,7,4.0,No,Tier 3
+ORD1711,CUST143,Fashion,Cash on Delivery,776.44,0,7,7,3.0,No,Tier 1
+ORD1712,CUST128,Beauty,Debit Card,5024.17,0,4,4,3.0,No,Tier 1
+ORD1713,CUST240,Electronics,Cash on Delivery,2043.77,15,4,8,4.0,Yes,Tier 1
+ORD1714,CUST111,Electronics,Credit Card,1786.8,10,2,2,5.0,Yes,Tier 2
+ORD1715,CUST194,Electronics,Debit Card,348.22,0,5,7,5.0,No,Tier 2
+ORD1716,CUST145,Home & Kitchen,UPI,2022.4,0,3,2,4.0,No,Tier 2
+ORD1717,CUST229,Fashion,Debit Card,2046.04,50,4,5,4.0,No,Tier 1
+ORD1718,CUST342,Beauty,Debit Card,1302.86,0,3,7,5.0,No,Tier 2
+ORD1719,CUST341,Fashion,upi,5770.42,10,6,6,2.0,Yes,Tier 3
+ORD1720,CUST134,Beauty,Debit Card,672.1,10,2,6,3.0,No,Tier 1
+ORD1721,CUST314,Electronics,Debit Card,3601.82,0,5,5,4.0,No,Tier 2
+ORD1722,CUST180,Beauty,Cash on Delivery,3154.33,0,6,10,5.0,No,Tier 1
+ORD1723,CUST189,Books,UPI,213.86,5,6,7,5.0,Yes,Tier 3
+ORD1724,CUST107,Books,Cash on Delivery,917.66,20,7,7,3.0,No,Tier 3
+ORD1725,CUST192,Books,Cash on Delivery,4732.16,10,6,6,2.0,No,Tier 2
+ORD1726,CUST253,Books,Credit Card,330.6,15,2,2,3.0,No,Tier 2
+ORD1727,CUST301,Home & Kitchen,Cash on Delivery,1152.32,50,4,3,3.0,No,Tier 3
+ORD1728,CUST189,Electronics,upi,4833.45,20,2,1,3.0,No,Tier 2
+ORD1729,CUST261,Electronics,upi,1172.95,10,4,3,4.0,No,Tier 1
+ORD1730,CUST214,Beauty,Credit Card,452.59,10,6,6,1.0,No,Tier 2
+ORD1731,CUST204,Home & Kitchen,UPI,1247.25,15,6,7,5.0,Yes,Tier 1
+ORD1732,CUST234,Books,UPI,474.45,15,5,4,3.0,No,Tier 1
+ORD1733,CUST295,Fashion,Cash on Delivery,1080.02,10,4,3,4.0,No,Tier 3
+ORD1734,CUST157,Electronics,Cash on Delivery,292.31,15,6,7,2.0,Yes,Tier 2
+ORD1735,CUST344,Electronics,Cash on Delivery,1316.11,0,7,7,3.0,Yes,Tier 1
+ORD1736,CUST213,Home & Kitchen,UPI,1072.76,10,3,2,2.0,No,Tier 1
+ORD1737,CUST336,Fashion,Debit Card,1817.23,5,5,5,,No,Tier 1
+ORD1738,CUST174,Electronics,upi,1395.38,0,2,6,5.0,No,Tier 1
+ORD1739,CUST256,Fashion,Debit Card,1157.16,0,5,7,4.0,No,Tier 1
+ORD1740,CUST219,Electronics,Debit Card,1604.56,15,3,3,3.0,Yes,Tier 2
+ORD1741,CUST263,Home & Kitchen,UPI,386.5,10,4,5,5.0,Yes,Tier 1
+ORD1742,CUST316,Fashion,Debit Card,1285.71,5,2,2,3.0,No,Tier 2
+ORD1743,CUST120,Books,Credit Card,426.65,10,2,3,2.0,Yes,Tier 1
+ORD1744,CUST348,Fashion,Cash on Delivery,3316.71,10,4,5,4.0,No,Tier 3
+ORD1745,CUST263,Fashion,Credit Card,284.94,0,5,6,5.0,No,Tier 1
+ORD1746,CUST237,Electronics,upi,875.33,15,6,6,1.0,No,Tier 1
+ORD1747,CUST200,Electronics,Cash on Delivery,1628.07,20,5,4,3.0,No,Tier 1
+ORD1748,CUST300,Fashion,Debit Card,935.04,20,3,3,5.0,Yes,Tier 2
+ORD1749,CUST251,Fashion,upi,315.94,15,7,9,2.0,No,Tier 2
+ORD1750,CUST291,Home & Kitchen,Cash on Delivery,1167.25,10,6,6,2.0,Yes,Tier 1
+ORD1751,CUST326,Fashion,Debit Card,1431.43,0,5,7,4.0,No,Tier 1
+ORD1752,CUST276,Home & Kitchen,Credit Card,1660.03,5,7,14,5.0,No,Tier 1
+ORD1753,CUST198,Beauty,Cash on Delivery,760.67,0,7,7,4.0,No,Tier 2
+ORD1754,CUST339,Books,Debit Card,1195.2,50,4,5,,No,Tier 2
+ORD1755,CUST135,Electronics,Credit Card,918.9,0,3,4,4.0,Yes,Tier 1
+ORD1756,CUST309,Fashion,upi,1537.9,0,3,10,1.0,No,Tier 1
+ORD1757,CUST340,Electronics,upi,1251.21,30,3,10,,No,Tier 1
+ORD1758,CUST330,Electronics,upi,1095.24,30,6,7,3.0,No,Tier 1
+ORD1759,CUST195,Beauty,upi,544.46,20,2,2,3.0,Yes,Tier 2
+ORD1760,CUST251,Electronics,UPI,202.42,0,6,7,4.0,No,Tier 1
+ORD1761,CUST250,Fashion,Cash on Delivery,429.51,0,5,4,3.0,Yes,Tier 1
+ORD1762,CUST289,Home & Kitchen,Cash on Delivery,349.41,5,7,8,2.0,No,Tier 1
+ORD1763,CUST323,Home & Kitchen,UPI,915.41,0,7,11,1.0,No,Tier 3
+ORD1764,CUST136,Home & Kitchen,Debit Card,1336.9,0,2,2,3.0,No,Tier 3
+ORD1765,CUST111,Electronics,Debit Card,487.56,10,5,6,5.0,No,Tier 1
+ORD1766,CUST212,Fashion,upi,3557.38,30,2,2,4.0,No,Tier 1
+ORD1767,CUST282,Fashion,Credit Card,208.05,5,7,7,,No,Tier 1
+ORD1768,CUST112,Electronics,Debit Card,1975.68,15,6,6,3.0,No,Tier 2
+ORD1769,CUST122,Fashion,Credit Card,1377.65,15,3,4,3.0,No,Tier 1
+ORD1770,CUST316,Electronics,Cash on Delivery,761.23,5,7,11,2.0,Yes,Tier 2
+ORD1771,CUST198,Electronics,Credit Card,262.17,15,4,8,2.0,No,Tier 2
+ORD1772,CUST204,Fashion,Cash on Delivery,1384.98,5,3,3,3.0,No,Tier 3
+ORD1773,CUST129,Electronics,UPI,784.56,0,7,9,4.0,No,Tier 1
+ORD1774,CUST116,Home & Kitchen,UPI,3503.67,15,6,7,5.0,No,Tier 3
+ORD1775,CUST212,Home & Kitchen,upi,1137.04,0,2,2,,No,Tier 2
+ORD1776,CUST161,Books,Debit Card,3569.14,50,3,2,3.0,No,Tier 1
+ORD1777,CUST183,Electronics,upi,498.9,0,6,6,5.0,Yes,Tier 1
+ORD1778,CUST211,Electronics,Cash on Delivery,1752.35,10,5,9,3.0,No,Tier 1
+ORD1779,CUST316,Electronics,upi,1352.44,10,4,5,2.0,No,Tier 1
+ORD1780,CUST185,Home & Kitchen,Credit Card,1813.76,0,3,4,5.0,No,Tier 1
+ORD1781,CUST240,Home & Kitchen,Cash on Delivery,489.98,0,2,2,4.0,No,Tier 2
+ORD1782,CUST286,Electronics,UPI,1512.33,15,5,6,2.0,No,Tier 1
+ORD1783,CUST118,Beauty,Debit Card,,20,6,5,3.0,No,Tier 3
+ORD1784,CUST276,Electronics,Cash on Delivery,,20,4,4,3.0,Yes,Tier 1
+ORD1785,CUST199,Fashion,Cash on Delivery,675.29,10,2,3,4.0,No,Tier 3
+ORD1786,CUST239,Home & Kitchen,Credit Card,2849.35,20,6,5,4.0,No,Tier 1
+ORD1787,CUST288,Beauty,Debit Card,305.68,15,6,8,,No,Tier 2
+ORD1788,CUST332,Home & Kitchen,UPI,2175.26,15,3,3,1.0,No,Tier 1
+ORD1789,CUST246,Books,Cash on Delivery,2570.7,10,3,4,3.0,No,Tier 1
+ORD1790,CUST175,Fashion,Cash on Delivery,2239.58,15,2,2,4.0,Yes,Tier 3
+ORD1791,CUST108,Books,Credit Card,1062.72,20,7,7,4.0,No,Tier 1
+ORD1792,CUST298,Electronics,upi,892.33,5,7,6,3.0,Yes,Tier 2
+ORD1793,CUST127,Beauty,UPI,6907.14,20,6,5,4.0,No,Tier 2
+ORD1794,CUST305,Fashion,Debit Card,512.35,10,3,7,5.0,No,Tier 2
+ORD1795,CUST322,Books,Cash on Delivery,1149.91,0,4,4,5.0,No,Tier 2
+ORD1796,CUST227,Fashion,Cash on Delivery,1532.85,0,4,6,5.0,No,Tier 2
+ORD1797,CUST151,Home & Kitchen,UPI,1648.24,5,6,13,5.0,Yes,Tier 1
+ORD1798,CUST182,Fashion,upi,473.82,10,3,3,4.0,No,Tier 2
+ORD1799,CUST349,Home & Kitchen,Cash on Delivery,1473.56,20,2,2,5.0,No,Tier 3
+ORD1800,CUST210,Electronics,UPI,2246.94,0,2,3,3.0,No,Tier 1
+ORD1801,CUST243,Electronics,Credit Card,261.58,20,2,6,3.0,No,Tier 1
+ORD1802,CUST216,Electronics,upi,3109.99,30,4,8,3.0,No,Tier 2
+ORD1803,CUST168,Electronics,Debit Card,235.94,0,3,3,4.0,No,Tier 1
+ORD1804,CUST198,Beauty,Cash on Delivery,728.01,30,3,4,3.0,Yes,Tier 1
+ORD1805,CUST239,Electronics,UPI,219.13,50,4,3,,No,Tier 1
+ORD1806,CUST124,Beauty,Credit Card,296.34,15,2,9,3.0,Yes,Tier 2
+ORD1807,CUST279,Fashion,Debit Card,3105.21,20,2,6,2.0,No,Tier 1
+ORD1808,CUST222,Electronics,UPI,725.95,50,6,6,4.0,No,Tier 2
+ORD1809,CUST312,Books,UPI,863.59,15,7,7,1.0,Yes,Tier 2
+ORD1810,CUST327,Home & Kitchen,Debit Card,491.01,5,5,4,2.0,Yes,Tier 1
+ORD1811,CUST152,Fashion,Credit Card,1290.87,20,7,7,3.0,No,Tier 2
+ORD1812,CUST250,Home & Kitchen,Credit Card,1284.06,15,3,5,4.0,No,Tier 3
+ORD1813,CUST243,Home & Kitchen,upi,758.64,10,3,3,3.0,Yes,Tier 2
+ORD1814,CUST156,Electronics,Cash on Delivery,686.02,5,3,2,4.0,Yes,Tier 3
+ORD1815,CUST138,Beauty,Debit Card,2795.02,20,7,7,4.0,No,Tier 1
+ORD1816,CUST208,Beauty,Debit Card,780.02,0,5,12,3.0,No,Tier 2
+ORD1817,CUST280,Home & Kitchen,Debit Card,1016.28,30,6,7,3.0,No,Tier 1
+ORD1818,CUST141,Electronics,Credit Card,599.73,5,7,7,3.0,Yes,Tier 1
+ORD1819,CUST285,Home & Kitchen,Cash on Delivery,2054.46,0,5,5,4.0,No,Tier 1
+ORD1820,CUST266,Electronics,upi,807.9,10,2,9,1.0,Yes,Tier 1
+ORD1821,CUST241,Electronics,UPI,1064.9,0,2,4,1.0,Yes,Tier 3
+ORD1822,CUST322,Fashion,UPI,550.6,15,3,3,4.0,No,Tier 1
+ORD1823,CUST221,Fashion,Debit Card,5473.85,30,4,3,4.0,No,Tier 2
+ORD1824,CUST232,Beauty,Cash on Delivery,613.52,20,3,2,2.0,No,Tier 2
+ORD1825,CUST262,Home & Kitchen,Credit Card,1967.49,0,4,3,3.0,No,Tier 2
+ORD1826,CUST314,Home & Kitchen,Cash on Delivery,869.28,0,5,5,5.0,No,Tier 1
+ORD1827,CUST320,Fashion,Cash on Delivery,477.13,20,2,6,5.0,No,Tier 2
+ORD1828,CUST334,Fashion,Credit Card,2129.64,30,7,7,4.0,No,Tier 1
+ORD1829,CUST174,Fashion,Debit Card,687.05,10,4,6,4.0,No,Tier 1
+ORD1830,CUST245,Beauty,Cash on Delivery,2604.7,10,5,5,4.0,No,Tier 3
+ORD1831,CUST338,Electronics,UPI,3161.76,5,2,3,,No,Tier 1
+ORD1832,CUST175,Beauty,Credit Card,2557.83,30,7,8,,No,Tier 1
+ORD1833,CUST108,Home & Kitchen,upi,242.76,15,4,4,3.0,No,Tier 3
+ORD1834,CUST173,Fashion,Debit Card,2057.86,5,3,3,5.0,No,Tier 1
+ORD1835,CUST285,Home & Kitchen,Credit Card,835.89,5,3,4,2.0,No,Tier 2
+ORD1836,CUST335,Fashion,upi,2683.13,30,3,2,3.0,No,Tier 1
+ORD1837,CUST244,Beauty,upi,1419.18,0,5,5,4.0,No,Tier 1
+ORD1838,CUST329,Beauty,Cash on Delivery,2352.34,5,3,3,3.0,Yes,Tier 1
+ORD1839,CUST106,Fashion,Cash on Delivery,1030.41,10,6,13,5.0,No,Tier 1
+ORD1840,CUST273,Fashion,Cash on Delivery,1118.93,0,2,2,2.0,No,Tier 1
+ORD1841,CUST240,Home & Kitchen,Credit Card,387.13,0,5,7,4.0,No,Tier 2
+ORD1842,CUST267,Beauty,Credit Card,2038.9,20,7,7,5.0,No,Tier 2
+ORD1843,CUST269,Electronics,Debit Card,,30,3,4,5.0,Yes,Tier 3
+ORD1844,CUST236,Home & Kitchen,Cash on Delivery,1031.97,20,2,2,2.0,No,Tier 1
+ORD1845,CUST277,Home & Kitchen,upi,2045.09,30,4,6,3.0,No,Tier 2
+ORD1846,CUST126,Home & Kitchen,UPI,1296.09,10,3,3,4.0,No,Tier 2
+ORD1847,CUST221,Electronics,Debit Card,469.42,20,2,3,2.0,No,Tier 3
+ORD1848,CUST293,Home & Kitchen,Credit Card,1270.6,5,6,7,,No,Tier 1
+ORD1849,CUST104,Beauty,Debit Card,828.35,15,4,4,5.0,No,Tier 2
+ORD1850,CUST128,Electronics,Debit Card,960.78,50,6,5,2.0,No,Tier 3
+ORD1851,CUST264,Electronics,Debit Card,234.46,5,7,6,2.0,Yes,Tier 1
+ORD1852,CUST265,Beauty,Debit Card,,5,2,1,2.0,No,Tier 3
+ORD1853,CUST182,Electronics,UPI,595.94,10,6,8,5.0,No,Tier 1
+ORD1854,CUST235,Beauty,Cash on Delivery,,0,7,7,2.0,No,Tier 2
+ORD1855,CUST339,Fashion,upi,213.87,0,2,2,3.0,No,Tier 3
+ORD1856,CUST208,Electronics,Debit Card,830.67,20,2,3,3.0,No,Tier 2
+ORD1857,CUST164,Beauty,Debit Card,3292.85,50,6,6,4.0,Yes,Tier 1
+ORD1858,CUST185,Fashion,Debit Card,342.38,10,2,2,1.0,Yes,Tier 1
+ORD1859,CUST343,Fashion,Cash on Delivery,1071.86,0,3,3,3.0,No,Tier 3
+ORD1860,CUST244,Fashion,Credit Card,2053.07,0,2,6,5.0,No,Tier 2
+ORD1861,CUST170,Home & Kitchen,Credit Card,3627.82,30,5,7,5.0,No,Tier 1
+ORD1862,CUST316,Electronics,UPI,1848.18,10,7,9,4.0,No,Tier 2
+ORD1863,CUST144,Fashion,Credit Card,1729.99,5,2,2,1.0,No,Tier 2
+ORD1864,CUST231,Beauty,Debit Card,2301.81,10,5,6,3.0,No,Tier 1
+ORD1865,CUST135,Fashion,Debit Card,909.14,5,2,1,4.0,No,Tier 1
+ORD1866,CUST169,Home & Kitchen,Debit Card,2166.92,10,2,1,3.0,No,Tier 1
+ORD1867,CUST258,Fashion,UPI,209.6,30,6,5,5.0,Yes,Tier 2
+ORD1868,CUST118,Books,Debit Card,3301.32,10,3,3,4.0,No,Tier 2
+ORD1869,CUST288,Electronics,Credit Card,902.89,15,7,7,1.0,Yes,Tier 2
+ORD1870,CUST207,Beauty,Cash on Delivery,1167.26,5,3,3,5.0,No,Tier 3
+ORD1871,CUST281,Fashion,Cash on Delivery,553.06,15,4,3,,Yes,Tier 3
+ORD1872,CUST266,Electronics,upi,1828.23,15,6,6,1.0,No,Tier 2
+ORD1873,CUST190,Electronics,Credit Card,295.68,0,6,7,4.0,No,Tier 1
+ORD1874,CUST301,Electronics,Debit Card,2672.85,10,3,3,3.0,No,Tier 2
+ORD1875,CUST189,Fashion,Cash on Delivery,2313.13,5,6,7,3.0,No,Tier 1
+ORD1876,CUST118,Fashion,Credit Card,492.11,20,3,3,2.0,No,Tier 2
+ORD1877,CUST138,Books,Cash on Delivery,2188.62,10,6,8,4.0,No,Tier 2
+ORD1878,CUST225,Fashion,Debit Card,2052.14,50,2,2,,Yes,Tier 1
+ORD1879,CUST294,Electronics,Cash on Delivery,1400.31,0,3,3,4.0,No,Tier 3
+ORD1880,CUST272,Home & Kitchen,upi,761.17,20,3,3,2.0,Yes,Tier 1
+ORD1881,CUST240,Home & Kitchen,upi,580.12,15,5,6,4.0,No,Tier 2
+ORD1882,CUST341,Electronics,Cash on Delivery,516.42,20,6,8,3.0,No,Tier 1
+ORD1883,CUST319,Electronics,Credit Card,660.34,5,6,6,5.0,No,Tier 3
+ORD1884,CUST225,Electronics,Credit Card,3006.58,10,3,3,3.0,No,Tier 1
+ORD1885,CUST157,Home & Kitchen,Credit Card,296.98,20,2,4,2.0,No,Tier 1
+ORD1886,CUST247,Home & Kitchen,Cash on Delivery,2318.41,5,2,3,2.0,No,Tier 1
+ORD1887,CUST319,Fashion,Credit Card,714.89,5,7,7,4.0,No,Tier 1
+ORD1888,CUST299,Books,Debit Card,1084.77,10,2,2,3.0,Yes,Tier 1
+ORD1889,CUST160,Books,upi,2098.69,10,6,6,4.0,Yes,Tier 2
+ORD1890,CUST226,Home & Kitchen,Debit Card,2788.9,5,5,6,3.0,No,Tier 1
+ORD1891,CUST204,Beauty,Credit Card,707.34,5,3,3,3.0,No,Tier 1
+ORD1892,CUST266,Electronics,Debit Card,943.53,5,4,11,4.0,No,Tier 1
+ORD1893,CUST100,Electronics,Credit Card,842.38,20,5,5,5.0,Yes,Tier 3
+ORD1894,CUST230,Fashion,Cash on Delivery,216.01,15,4,4,5.0,No,Tier 2
+ORD1895,CUST304,Electronics,Debit Card,621.07,20,5,5,3.0,No,Tier 2
+ORD1896,CUST191,Fashion,Cash on Delivery,937.62,50,2,6,3.0,No,Tier 2
+ORD1897,CUST289,Beauty,Cash on Delivery,835.39,10,6,8,2.0,No,Tier 1
+ORD1898,CUST348,Electronics,UPI,1735.86,0,4,4,4.0,No,Tier 1
+ORD1899,CUST290,Electronics,Credit Card,782.98,0,5,6,4.0,Yes,Tier 1
+ORD1900,CUST212,Fashion,upi,1006.55,5,6,6,5.0,No,Tier 3
+ORD1901,CUST252,Beauty,Credit Card,873.72,30,4,4,5.0,No,Tier 3
+ORD1902,CUST155,Fashion,upi,1819.38,10,3,3,3.0,No,Tier 2
+ORD1903,CUST260,Fashion,Credit Card,2585.09,5,5,5,4.0,No,Tier 1
+ORD1904,CUST265,Electronics,Cash on Delivery,1110.86,5,3,3,5.0,No,Tier 1
+ORD1905,CUST216,Electronics,Debit Card,2069.54,10,2,6,5.0,No,Tier 1
+ORD1906,CUST233,Beauty,Debit Card,622.51,15,3,3,1.0,No,Tier 2
+ORD1907,CUST157,Beauty,UPI,1135.41,0,3,7,3.0,No,Tier 1
+ORD1908,CUST143,Electronics,upi,708.17,50,7,7,3.0,No,Tier 3
+ORD1909,CUST272,Beauty,upi,841.73,10,5,6,3.0,No,Tier 1
+ORD1910,CUST259,Home & Kitchen,upi,1781.98,0,2,2,2.0,No,Tier 3
+ORD1911,CUST272,Beauty,Cash on Delivery,2761.06,30,3,2,1.0,No,Tier 2
+ORD1912,CUST160,Fashion,upi,355.44,0,6,6,4.0,No,Tier 2
+ORD1913,CUST146,Fashion,Debit Card,1408.24,30,4,3,3.0,Yes,Tier 2
+ORD1914,CUST248,Fashion,Cash on Delivery,1247.14,50,3,4,1.0,No,Tier 2
+ORD1915,CUST179,Home & Kitchen,Credit Card,351.24,15,2,2,3.0,Yes,Tier 2
+ORD1916,CUST217,Electronics,upi,485.75,20,3,4,5.0,No,Tier 2
+ORD1917,CUST312,Electronics,upi,647.02,5,4,4,5.0,No,Tier 2
+ORD1918,CUST302,Fashion,Credit Card,419.17,30,2,2,4.0,No,Tier 3
+ORD1919,CUST328,Home & Kitchen,upi,535.23,10,5,5,3.0,No,Tier 2
+ORD1920,CUST263,Electronics,Credit Card,573.72,15,2,6,,No,Tier 2
+ORD1921,CUST326,Home & Kitchen,Cash on Delivery,690.78,30,5,6,3.0,No,Tier 3
+ORD1922,CUST246,Beauty,Debit Card,1860.63,50,2,2,3.0,Yes,Tier 1
+ORD1923,CUST119,Electronics,Credit Card,,20,4,4,3.0,Yes,Tier 1
+ORD1924,CUST284,Home & Kitchen,UPI,5343.77,5,4,3,2.0,No,Tier 2
+ORD1925,CUST245,Fashion,Credit Card,842.83,50,2,9,3.0,No,Tier 2
+ORD1926,CUST146,Beauty,upi,1882.25,15,3,4,5.0,Yes,Tier 3
+ORD1927,CUST332,Electronics,Cash on Delivery,2661.9,30,4,4,4.0,Yes,Tier 1
+ORD1928,CUST148,Home & Kitchen,Cash on Delivery,1563.5,15,5,5,3.0,No,Tier 2
+ORD1929,CUST113,Books,Credit Card,836.96,5,5,4,5.0,No,Tier 2
+ORD1930,CUST242,Beauty,Debit Card,1880.93,5,6,10,1.0,No,Tier 1
+ORD1931,CUST258,Home & Kitchen,UPI,473.29,10,7,7,3.0,Yes,Tier 2
+ORD1932,CUST100,Fashion,Cash on Delivery,,20,7,8,4.0,Yes,Tier 3
+ORD1933,CUST216,Home & Kitchen,upi,1149.4,5,7,7,4.0,No,Tier 1
+ORD1934,CUST153,Beauty,upi,1227.96,10,5,6,1.0,No,Tier 2
+ORD1935,CUST217,Home & Kitchen,Debit Card,226.87,5,6,7,3.0,No,Tier 2
+ORD1936,CUST102,Electronics,Cash on Delivery,3683.0,20,7,8,4.0,No,Tier 1
+ORD1937,CUST243,Beauty,Credit Card,1631.35,10,7,8,4.0,No,Tier 1
+ORD1938,CUST314,Home & Kitchen,upi,1021.51,0,2,4,4.0,Yes,Tier 3
+ORD1939,CUST284,Home & Kitchen,Debit Card,3445.96,0,2,1,3.0,No,Tier 1
+ORD1940,CUST302,Electronics,Cash on Delivery,893.85,0,2,2,2.0,No,Tier 1
+ORD1941,CUST111,Home & Kitchen,Cash on Delivery,4920.85,10,3,3,3.0,No,Tier 1
+ORD1942,CUST173,Fashion,Cash on Delivery,1061.63,0,7,14,2.0,No,Tier 2
+ORD1943,CUST323,Home & Kitchen,Cash on Delivery,345.63,0,3,3,5.0,No,Tier 2
+ORD1944,CUST115,Electronics,Cash on Delivery,1936.79,30,6,7,4.0,Yes,Tier 2
+ORD1945,CUST299,Home & Kitchen,upi,1563.19,30,5,6,3.0,No,Tier 1
+ORD1946,CUST201,Beauty,Debit Card,1979.3,10,7,7,4.0,No,Tier 3
+ORD1947,CUST303,Electronics,Cash on Delivery,3830.0,50,5,5,4.0,No,Tier 1
+ORD1948,CUST251,Beauty,UPI,,0,2,2,3.0,No,Tier 1
+ORD1949,CUST255,Fashion,UPI,1334.05,15,7,7,5.0,No,Tier 2
+ORD1950,CUST216,Beauty,Debit Card,2536.49,15,4,4,5.0,No,Tier 1
+ORD1951,CUST107,Books,Credit Card,1542.26,10,3,2,4.0,No,Tier 3
+ORD1952,CUST221,Home & Kitchen,Credit Card,829.34,5,3,5,1.0,Yes,Tier 3
+ORD1953,CUST191,Home & Kitchen,Credit Card,2801.87,10,7,11,4.0,No,Tier 1
+ORD1954,CUST263,Beauty,UPI,501.08,10,2,2,4.0,Yes,Tier 3
+ORD1955,CUST189,Fashion,Credit Card,1704.81,15,3,3,2.0,No,Tier 2
+ORD1956,CUST235,Fashion,upi,2760.05,0,2,1,3.0,No,Tier 3
+ORD1957,CUST285,Home & Kitchen,Cash on Delivery,1777.07,0,6,7,5.0,No,Tier 1
+ORD1958,CUST159,Books,UPI,1633.92,0,5,7,1.0,No,Tier 2
+ORD1959,CUST277,Books,Debit Card,1876.28,5,4,3,4.0,No,Tier 1
+ORD1960,CUST127,Books,Debit Card,950.71,10,5,5,4.0,Yes,Tier 3
+ORD1961,CUST319,Fashion,Cash on Delivery,2687.39,0,5,6,3.0,No,Tier 1
+ORD1962,CUST200,Books,UPI,472.94,30,6,7,1.0,Yes,Tier 2
+ORD1963,CUST140,Electronics,Credit Card,363.51,5,3,2,5.0,No,Tier 1
+ORD1964,CUST327,Fashion,Credit Card,603.42,0,4,5,3.0,No,Tier 1
+ORD1965,CUST291,Electronics,upi,1110.06,15,3,3,4.0,No,Tier 2
+ORD1966,CUST254,Fashion,upi,1057.4,0,7,7,4.0,No,Tier 3
+ORD1967,CUST345,Fashion,Credit Card,2261.76,15,5,6,4.0,Yes,Tier 2
+ORD1968,CUST290,Fashion,Debit Card,822.16,15,7,9,,Yes,Tier 3
+ORD1969,CUST244,Home & Kitchen,Debit Card,994.78,5,2,2,4.0,No,Tier 1
+ORD1970,CUST300,Fashion,upi,216.15,0,5,9,3.0,No,Tier 2
+ORD1971,CUST260,Fashion,Cash on Delivery,832.63,5,3,3,,Yes,Tier 2
+ORD1972,CUST344,Electronics,Credit Card,1452.18,0,5,6,4.0,No,Tier 1
+ORD1973,CUST311,Fashion,upi,218.76,0,2,2,3.0,No,Tier 2
+ORD1974,CUST304,Electronics,upi,595.68,5,6,8,2.0,Yes,Tier 2
+ORD1975,CUST319,Electronics,Credit Card,479.77,5,7,11,5.0,No,Tier 2
+ORD1976,CUST339,Home & Kitchen,Credit Card,251.47,10,7,6,3.0,Yes,Tier 2
+ORD1977,CUST256,Home & Kitchen,Debit Card,983.01,15,3,7,4.0,No,Tier 2
+ORD1978,CUST240,Home & Kitchen,Cash on Delivery,440.67,10,5,7,4.0,No,Tier 1
+ORD1979,CUST145,Fashion,Cash on Delivery,1830.8,0,3,4,2.0,No,Tier 1
+ORD1980,CUST134,Fashion,Credit Card,2460.08,0,6,6,4.0,No,Tier 2
+ORD1981,CUST233,Beauty,UPI,1146.49,30,5,7,1.0,Yes,Tier 1
+ORD1982,CUST181,Fashion,upi,5001.51,10,5,7,3.0,No,Tier 1
+ORD1983,CUST214,Fashion,upi,918.45,30,3,3,4.0,No,Tier 1
+ORD1984,CUST296,Electronics,Credit Card,1064.3,5,3,7,3.0,Yes,Tier 2
+ORD1985,CUST146,Fashion,UPI,5635.83,15,2,1,4.0,No,Tier 1
+ORD1986,CUST252,Fashion,Debit Card,516.05,10,6,5,5.0,No,Tier 2
+ORD1987,CUST293,Fashion,Credit Card,3628.12,5,2,2,4.0,No,Tier 2
+ORD1988,CUST109,Home & Kitchen,Credit Card,252.54,10,7,7,1.0,No,Tier 1
+ORD1989,CUST155,Fashion,upi,909.55,10,5,6,2.0,No,Tier 2
+ORD1990,CUST129,Home & Kitchen,Credit Card,287.09,5,3,2,4.0,No,Tier 2
+ORD1991,CUST341,Books,Credit Card,1767.8,5,5,9,5.0,No,Tier 2
+ORD1992,CUST208,Books,Credit Card,1325.04,20,5,4,5.0,No,Tier 2
+ORD1993,CUST104,Home & Kitchen,upi,1671.6,30,4,3,5.0,No,Tier 1
+ORD1994,CUST218,Beauty,Debit Card,763.01,5,7,6,3.0,No,Tier 2
+ORD1995,CUST347,Electronics,Debit Card,753.46,5,4,4,3.0,No,Tier 1
+ORD1996,CUST132,Electronics,Credit Card,255.65,0,5,9,4.0,No,Tier 3
+ORD1997,CUST217,Electronics,upi,716.84,15,3,4,2.0,No,Tier 3
+ORD1998,CUST164,Home & Kitchen,Debit Card,3378.97,5,5,7,1.0,No,Tier 2
+ORD1999,CUST245,Beauty,Debit Card,772.15,50,7,6,5.0,No,Tier 1
+ORD1000,CUST202,Beauty,Credit Card,918.71,20,3,3,4.0,No,Tier 1
+ORD1001,CUST279,Electronics,Cash on Delivery,3381.32,20,6,6,4.0,No,Tier 1
+ORD1002,CUST192,Home & Kitchen,Debit Card,416.68,5,7,8,4.0,Yes,Tier 1
+ORD1003,CUST114,Fashion,Debit Card,792.9,15,7,6,1.0,No,Tier 1
+ORD1004,CUST206,Beauty,Cash on Delivery,1770.58,0,5,7,4.0,No,Tier 1
+ORD1005,CUST171,Books,upi,2767.12,0,7,6,4.0,No,Tier 1
+ORD1006,CUST288,Books,upi,1533.83,0,4,4,4.0,No,Tier 2
+ORD1007,CUST120,Fashion,Debit Card,558.37,10,6,8,4.0,No,Tier 3
+ORD1008,CUST202,Fashion,UPI,1547.27,10,3,3,2.0,No,Tier 1
+ORD1009,CUST221,Fashion,upi,,10,7,7,4.0,Yes,Tier 2
+ORD1010,CUST310,Electronics,Cash on Delivery,1720.85,10,6,6,2.0,No,Tier 2
+ORD1011,CUST314,Beauty,upi,3895.8,5,7,9,5.0,No,Tier 1
+ORD1012,CUST174,Books,Cash on Delivery,1733.55,15,2,2,4.0,No,Tier 3
+ORD1013,CUST302,Beauty,Debit Card,2584.28,20,3,5,2.0,No,Tier 2
+ORD1014,CUST187,Beauty,upi,202.53,0,2,1,,No,Tier 1
